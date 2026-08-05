@@ -41,6 +41,7 @@ include(../../src/libs/fervor/fervor.pri)
 # Same paths in variable INSTALL_TRANSLATIONS (translations.pri).
 
 LANGUAGES += \
+    uz_UZ \
     ru_RU \
     uk_UA \
     de_DE \
