@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.1" language="en_US">
 <context>
@@ -9,11 +8,11 @@
     </message>
     <message>
         <source>Left to right</source>
-        <translation type="unfinished"></translation>
+        <translation>Chapdan o'ngga</translation>
     </message>
     <message>
         <source>Right to left</source>
-        <translation type="unfinished"></translation>
+        <translation>O'ngdan chapga</translation>
     </message>
     <message>
         <source>Automatic</source>
@@ -45,7 +44,7 @@
     </message>
     <message>
         <source>Qt Version:</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt versiyasi:</translation>
     </message>
     <message>
         <source>Compiler:</source>
@@ -230,8 +229,8 @@
         <translation>Error bad id. Program will be terminated.</translation>
     </message>
     <message>
-        <source>Error can&apos;t convert value. Program will be terminated.</source>
-        <translation>Error can&apos;t convert value. Program will be terminated.</translation>
+        <source>Error can't convert value. Program will be terminated.</source>
+        <translation>Error can't convert value. Program will be terminated.</translation>
     </message>
     <message>
         <source>Error empty parameter. Program will be terminated.</source>
@@ -242,8 +241,8 @@
         <translation>Error wrong id. Program will be terminated.</translation>
     </message>
     <message>
-        <source>Something&apos;s wrong!!</source>
-        <translation>Something&apos;s wrong!!</translation>
+        <source>Something's wrong!!</source>
+        <translation>Something's wrong!!</translation>
     </message>
     <message>
         <source>Parser error: %1. Program will be terminated.</source>
@@ -265,8 +264,8 @@
         <translation>Error bad id. Program will be terminated.</translation>
     </message>
     <message>
-        <source>Error can&apos;t convert value. Program will be terminated.</source>
-        <translation>Error can&apos;t convert value. Program will be terminated.</translation>
+        <source>Error can't convert value. Program will be terminated.</source>
+        <translation>Error can't convert value. Program will be terminated.</translation>
     </message>
     <message>
         <source>Error empty parameter. Program will be terminated.</source>
@@ -277,8 +276,8 @@
         <translation>Error wrong id. Program will be terminated.</translation>
     </message>
     <message>
-        <source>Something&apos;s wrong!!</source>
-        <translation>Something&apos;s wrong!!</translation>
+        <source>Something's wrong!!</source>
+        <translation>Something's wrong!!</translation>
     </message>
     <message>
         <source>Parser error: %1. Program will be terminated.</source>
@@ -289,8 +288,8 @@
         <translation>Exception thrown: %1. Program will be terminated.</translation>
     </message>
     <message>
-        <source>Seamly2D&apos;s measurements editor.</source>
-        <translation>Seamly2D&apos;s measurements editor.</translation>
+        <source>Seamly2D's measurements editor.</source>
+        <translation>Seamly2D's measurements editor.</translation>
     </message>
     <message>
         <source>The measurement file.</source>
@@ -317,12 +316,12 @@
         <translation>Invalid base size argument. Must be cm, mm or inch.</translation>
     </message>
     <message>
-        <source>Can&apos;t begin to listen for incoming connections on name &apos;%1&apos;</source>
-        <translation>Can&apos;t begin to listen for incoming connections on name &apos;%1&apos;</translation>
+        <source>Can't begin to listen for incoming connections on name '%1'</source>
+        <translation>Can't begin to listen for incoming connections on name '%1'</translation>
     </message>
     <message>
-        <source>Test mode doesn&apos;t support Opening several files.</source>
-        <translation>Test mode doesn&apos;t support Opening several files.</translation>
+        <source>Test mode doesn't support Opening several files.</source>
+        <translation>Test mode doesn't support Opening several files.</translation>
     </message>
     <message>
         <source>Please, provide one input file.</source>
@@ -386,42 +385,42 @@
         <translation>Decimal Chart</translation>
     </message>
     <message>
-        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+        <source>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt; 1/16 = .0625&lt;/span&gt;&lt;/p&gt;
-&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt; 3/16 = .1875&lt;/span&gt;&lt;/p&gt;
-&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt; 5/16 = .3125&lt;/span&gt;&lt;/p&gt;
-&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt; 7/16 = .4375&lt;/span&gt;&lt;/p&gt;
-&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt; 9/16 = .5625&lt;/span&gt;&lt;/p&gt;
-&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;11/16 = .6875&lt;/span&gt;&lt;/p&gt;
-&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;13/16 = .8125&lt;/span&gt;&lt;/p&gt;
-&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;15/16 = .9375&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-size:8.25pt; font-weight:400; font-style:normal;"&gt;
+&lt;p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-size:12pt;"&gt; 1/16 = .0625&lt;/span&gt;&lt;/p&gt;
+&lt;p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-size:12pt;"&gt; 3/16 = .1875&lt;/span&gt;&lt;/p&gt;
+&lt;p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-size:12pt;"&gt; 5/16 = .3125&lt;/span&gt;&lt;/p&gt;
+&lt;p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-size:12pt;"&gt; 7/16 = .4375&lt;/span&gt;&lt;/p&gt;
+&lt;p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-size:12pt;"&gt; 9/16 = .5625&lt;/span&gt;&lt;/p&gt;
+&lt;p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-size:12pt;"&gt;11/16 = .6875&lt;/span&gt;&lt;/p&gt;
+&lt;p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-size:12pt;"&gt;13/16 = .8125&lt;/span&gt;&lt;/p&gt;
+&lt;p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-size:12pt;"&gt;15/16 = .9375&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt; 1/16 = .0625&lt;/span&gt;&lt;/p&gt;
-&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt; 3/16 = .1875&lt;/span&gt;&lt;/p&gt;
-&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt; 5/16 = .3125&lt;/span&gt;&lt;/p&gt;
-&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt; 7/16 = .4375&lt;/span&gt;&lt;/p&gt;
-&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt; 9/16 = .5625&lt;/span&gt;&lt;/p&gt;
-&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;11/16 = .6875&lt;/span&gt;&lt;/p&gt;
-&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;13/16 = .8125&lt;/span&gt;&lt;/p&gt;
-&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;15/16 = .9375&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-size:8.25pt; font-weight:400; font-style:normal;"&gt;
+&lt;p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-size:12pt;"&gt; 1/16 = .0625&lt;/span&gt;&lt;/p&gt;
+&lt;p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-size:12pt;"&gt; 3/16 = .1875&lt;/span&gt;&lt;/p&gt;
+&lt;p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-size:12pt;"&gt; 5/16 = .3125&lt;/span&gt;&lt;/p&gt;
+&lt;p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-size:12pt;"&gt; 7/16 = .4375&lt;/span&gt;&lt;/p&gt;
+&lt;p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-size:12pt;"&gt; 9/16 = .5625&lt;/span&gt;&lt;/p&gt;
+&lt;p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-size:12pt;"&gt;11/16 = .6875&lt;/span&gt;&lt;/p&gt;
+&lt;p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-size:12pt;"&gt;13/16 = .8125&lt;/span&gt;&lt;/p&gt;
+&lt;p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-size:12pt;"&gt;15/16 = .9375&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+        <source>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot;  font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p align=&quot;center&quot; style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;1/8 = .125&lt;br /&gt;2/8 = .250&lt;br /&gt;3/8 = .375&lt;br /&gt;4/8 = .500&lt;br /&gt;5/8 = .625&lt;br /&gt;6/8 = .750&lt;br /&gt;7/8 = .875&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style="  font-size:8.25pt; font-weight:400; font-style:normal;"&gt;
+&lt;p align="center" style=" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-size:12pt;"&gt;1/8 = .125&lt;br /&gt;2/8 = .250&lt;br /&gt;3/8 = .375&lt;br /&gt;4/8 = .500&lt;br /&gt;5/8 = .625&lt;br /&gt;6/8 = .750&lt;br /&gt;7/8 = .875&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot;  font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p align=&quot;center&quot; style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;1/8 = .125&lt;br /&gt;2/8 = .250&lt;br /&gt;3/8 = .375&lt;br /&gt;4/8 = .500&lt;br /&gt;5/8 = .625&lt;br /&gt;6/8 = .750&lt;br /&gt;7/8 = .875&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;/style&gt;&lt;/head&gt;&lt;body style="  font-size:8.25pt; font-weight:400; font-style:normal;"&gt;
+&lt;p align="center" style=" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-size:12pt;"&gt;1/8 = .125&lt;br /&gt;2/8 = .250&lt;br /&gt;3/8 = .375&lt;br /&gt;4/8 = .500&lt;br /&gt;5/8 = .625&lt;br /&gt;6/8 = .750&lt;br /&gt;7/8 = .875&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -531,7 +530,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>First point of the line</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiziqning birinchi nuqtasi</translation>
     </message>
     <message>
         <source>Second point:</source>
@@ -593,8 +592,8 @@ p, li { white-space: pre-wrap; }
         <translation>Error</translation>
     </message>
     <message>
-        <source>Radius can&apos;t be negative</source>
-        <translation>Radius can&apos;t be negative</translation>
+        <source>Radius can't be negative</source>
+        <translation>Radius can't be negative</translation>
     </message>
     <message>
         <source>Angles equal</source>
@@ -700,12 +699,12 @@ p, li { white-space: pre-wrap; }
         <translation>Error</translation>
     </message>
     <message>
-        <source>Radius can&apos;t be negative</source>
-        <translation>Radius can&apos;t be negative</translation>
+        <source>Radius can't be negative</source>
+        <translation>Radius can't be negative</translation>
     </message>
     <message>
-        <source>Length can&apos;t be equal 0</source>
-        <translation>Length can&apos;t be equal 0</translation>
+        <source>Length can't be equal 0</source>
+        <translation>Length can't be equal 0</translation>
     </message>
     <message>
         <source>Radius:</source>
@@ -879,23 +878,23 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Fourth point:</source>
-        <translation type="unfinished"></translation>
+        <translation>To'rtinchi nuqta:</translation>
     </message>
     <message>
         <source>Select the second point of curve</source>
-        <translation type="unfinished"></translation>
+        <translation>Egri chiziqning ikkinchi nuqtasini tanlang</translation>
     </message>
     <message>
         <source>Select the third point of curve</source>
-        <translation type="unfinished"></translation>
+        <translation>Egri chiziqning uchinchi nuqtasini tanlang</translation>
     </message>
     <message>
         <source>Select the fourth point of curve</source>
-        <translation type="unfinished"></translation>
+        <translation>Egri chiziqning to'rtinchi nuqtasini tanlang</translation>
     </message>
     <message>
         <source>Invalid spline</source>
-        <translation type="unfinished"></translation>
+        <translation>Yaroqsiz spline</translation>
     </message>
     <message>
         <source>Linetype:</source>
@@ -903,7 +902,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Curve - Fixed</source>
-        <translation type="unfinished"></translation>
+        <translation>Egri chiziq - aniqlangan</translation>
     </message>
     <message>
         <source>Selection</source>
@@ -919,63 +918,63 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished">Options</translation>
+        <translation>Options</translation>
     </message>
     <message>
         <source>Smooth curve:</source>
-        <translation type="unfinished"></translation>
+        <translation>Silliq egri chiziq:</translation>
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation>Yo'q</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>Ha</translation>
     </message>
     <message>
         <source>Adjust length:</source>
-        <translation type="unfinished"></translation>
+        <translation>Uzunlikni sozlash:</translation>
     </message>
     <message>
         <source>Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Oʻchirilgan</translation>
     </message>
     <message>
         <source>Start</source>
-        <translation type="unfinished"></translation>
+        <translation>Boshlash</translation>
     </message>
     <message>
         <source>End</source>
-        <translation type="unfinished"></translation>
+        <translation>Oxiri</translation>
     </message>
     <message>
         <source>Both</source>
-        <translation type="unfinished">Both</translation>
+        <translation>Both</translation>
     </message>
     <message>
         <source>Curve length:</source>
-        <translation type="unfinished"></translation>
+        <translation>Egri chiziq uzunligi:</translation>
     </message>
     <message>
         <source>Formula wizard</source>
-        <translation type="unfinished">Formula wizard</translation>
+        <translation>Formula wizard</translation>
     </message>
     <message>
         <source>Curve arc length formula (applied if filled)</source>
-        <translation type="unfinished"></translation>
+        <translation>Egri yoy uzunligi formulasi (to'ldirilgan bo'lsa qo'llaniladi)</translation>
     </message>
     <message>
         <source>Edit curve length</source>
-        <translation type="unfinished"></translation>
+        <translation>Egri chiziq uzunligini tahrirlash</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
     <message>
-        <source>Length can&apos;t be negative</source>
-        <translation type="unfinished"></translation>
+        <source>Length can't be negative</source>
+        <translation>Uzunlik salbiy bo'lishi mumkin emas</translation>
     </message>
 </context>
 <context>
@@ -986,7 +985,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>List of points</source>
-        <translation type="unfinished"></translation>
+        <translation>Ballar ro'yxati</translation>
     </message>
     <message>
         <source>Color:</source>
@@ -998,7 +997,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Invalid spline path</source>
-        <translation type="unfinished"></translation>
+        <translation>Yaroqsiz splayn yo‘li</translation>
     </message>
     <message>
         <source>Linetype:</source>
@@ -1006,7 +1005,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Spline - Fixed</source>
-        <translation type="unfinished"></translation>
+        <translation>Spline - Ruxsat etilgan</translation>
     </message>
     <message>
         <source>Selection</source>
@@ -1033,7 +1032,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Select axis point</source>
-        <translation type="unfinished"></translation>
+        <translation>O'q nuqtasini tanlang</translation>
     </message>
     <message>
         <source>Edit angle</source>
@@ -1057,7 +1056,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Curve:</source>
-        <translation type="unfinished"></translation>
+        <translation>Egri chiziq:</translation>
     </message>
     <message>
         <source>Linetype:</source>
@@ -1069,7 +1068,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Intersect - Curve and Axis</source>
-        <translation type="unfinished"></translation>
+        <translation>Kesishish - Egri va o'q</translation>
     </message>
     <message>
         <source>Selection</source>
@@ -1128,11 +1127,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Arc:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ark:</translation>
     </message>
     <message>
         <source>Point - On Arc</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta - Ark ustida</translation>
     </message>
     <message>
         <source>Selection</source>
@@ -1156,15 +1155,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Direction :</source>
-        <translation type="unfinished"></translation>
+        <translation>Yo'nalish:</translation>
     </message>
     <message>
         <source>Forward (from start point)</source>
-        <translation type="unfinished"></translation>
+        <translation>Oldinga (boshlanish nuqtasidan)</translation>
     </message>
     <message>
         <source>Backward (from end point)</source>
-        <translation type="unfinished"></translation>
+        <translation>Orqaga (oxirgi nuqtadan)</translation>
     </message>
     <message>
         <source>Attributes</source>
@@ -1203,11 +1202,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Curve:</source>
-        <translation type="unfinished"></translation>
+        <translation>Egri chiziq:</translation>
     </message>
     <message>
         <source>Point - On Curve</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta - Egri chiziqda</translation>
     </message>
     <message>
         <source>Selection</source>
@@ -1231,15 +1230,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Direction :</source>
-        <translation type="unfinished"></translation>
+        <translation>Yo'nalish:</translation>
     </message>
     <message>
         <source>Forward (from start point)</source>
-        <translation type="unfinished"></translation>
+        <translation>Oldinga (boshlanish nuqtasidan)</translation>
     </message>
     <message>
         <source>Backward (from end point)</source>
-        <translation type="unfinished"></translation>
+        <translation>Orqaga (oxirgi nuqtadan)</translation>
     </message>
     <message>
         <source>Attributes</source>
@@ -1278,11 +1277,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Curve:</source>
-        <translation type="unfinished"></translation>
+        <translation>Egri chiziq:</translation>
     </message>
     <message>
         <source>Point - On Spline</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta - Splineda</translation>
     </message>
     <message>
         <source>Selection</source>
@@ -1306,15 +1305,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Direction :</source>
-        <translation type="unfinished"></translation>
+        <translation>Yo'nalish:</translation>
     </message>
     <message>
         <source>Forward (from start point)</source>
-        <translation type="unfinished"></translation>
+        <translation>Oldinga (boshlanish nuqtasidan)</translation>
     </message>
     <message>
         <source>Backward (from end point)</source>
-        <translation type="unfinished"></translation>
+        <translation>Orqaga (oxirgi nuqtadan)</translation>
     </message>
     <message>
         <source>Attributes</source>
@@ -1329,26 +1328,26 @@ p, li { white-space: pre-wrap; }
     <name>DialogDateTimeFormats</name>
     <message>
         <source>Label date time editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Yorliq sana vaqti muharriri</translation>
     </message>
     <message>
         <source>Format:</source>
-        <translation type="unfinished"></translation>
+        <translation>Format:</translation>
     </message>
     <message>
         <source>Insert a format</source>
-        <translation type="unfinished"></translation>
+        <translation>Format kiriting</translation>
     </message>
     <message>
         <source>&lt;empty&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;bo'sh&gt;</translation>
     </message>
 </context>
 <context>
     <name>DialogEllipticalArc</name>
     <message>
         <source>Radius1:</source>
-        <translation type="unfinished"></translation>
+        <translation>Radius 1:</translation>
     </message>
     <message>
         <source>Formula wizard</source>
@@ -1360,7 +1359,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Calulation</source>
-        <translation type="unfinished"></translation>
+        <translation>Hisoblash</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Show full calculation in message box&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -1368,7 +1367,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Radius2:</source>
-        <translation type="unfinished"></translation>
+        <translation>Radius 2:</translation>
     </message>
     <message>
         <source>First angle:</source>
@@ -1380,7 +1379,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Rotation angle:</source>
-        <translation type="unfinished"></translation>
+        <translation>Burilish burchagi:</translation>
     </message>
     <message>
         <source>Center point:</source>
@@ -1399,8 +1398,8 @@ p, li { white-space: pre-wrap; }
         <translation>Error</translation>
     </message>
     <message>
-        <source>Radius can&apos;t be negative</source>
-        <translation>Radius can&apos;t be negative</translation>
+        <source>Radius can't be negative</source>
+        <translation>Radius can't be negative</translation>
     </message>
     <message>
         <source>Angles equal</source>
@@ -1408,11 +1407,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Edit radius1</source>
-        <translation type="unfinished"></translation>
+        <translation>Radiusni tahrirlash1</translation>
     </message>
     <message>
         <source>Edit radius2</source>
-        <translation type="unfinished"></translation>
+        <translation>2-radiusni tahrirlash</translation>
     </message>
     <message>
         <source>Edit first angle</source>
@@ -1424,7 +1423,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Edit rotation angle</source>
-        <translation type="unfinished"></translation>
+        <translation>Aylanish burchagini tahrirlash</translation>
     </message>
     <message>
         <source>Linetype:</source>
@@ -1432,7 +1431,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Arc - Elliptical</source>
-        <translation type="unfinished"></translation>
+        <translation>Ark - elliptik</translation>
     </message>
     <message>
         <source>Selection</source>
@@ -1491,7 +1490,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Base point:</source>
-        <translation type="unfinished"></translation>
+        <translation>Asosiy nuqta:</translation>
     </message>
     <message>
         <source>Linetype:</source>
@@ -1503,7 +1502,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Point - Length and Angle</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta - uzunlik va burchak</translation>
     </message>
     <message>
         <source>Selection</source>
@@ -1538,7 +1537,7 @@ p, li { white-space: pre-wrap; }
     <name>DialogExportToCSV</name>
     <message>
         <source>Export options</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksport imkoniyatlari</translation>
     </message>
     <message>
         <source>Export</source>
@@ -1546,38 +1545,38 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>With header</source>
-        <translation type="unfinished"></translation>
+        <translation>Sarlavha bilan</translation>
     </message>
     <message>
         <source>Codec:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kodek:</translation>
     </message>
     <message>
         <source>Separator</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajratuvchi</translation>
     </message>
     <message>
         <source>Tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Tab</translation>
     </message>
     <message>
         <source>Comma</source>
-        <translation type="unfinished"></translation>
+        <translation>Vergul</translation>
     </message>
     <message>
         <source>Semicolon</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqtali vergul</translation>
     </message>
     <message>
         <source>Space</source>
-        <translation type="unfinished"></translation>
+        <translation>Kosmos</translation>
     </message>
 </context>
 <context>
     <name>DialogHeight</name>
     <message>
         <source>Select first point of line</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiziqning birinchi nuqtasini tanlang</translation>
     </message>
     <message>
         <source>Select second point of line</source>
@@ -1585,7 +1584,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Base point:</source>
-        <translation type="unfinished"></translation>
+        <translation>Asosiy nuqta:</translation>
     </message>
     <message>
         <source>Linetype:</source>
@@ -1597,7 +1596,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Point - Intersect Line and Perpendicular</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta - kesishgan chiziq va perpendikulyar</translation>
     </message>
     <message>
         <source>Selection</source>
@@ -1635,31 +1634,31 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>DialogLayoutProgress</name>
     <message>
-        <source>Couldn&apos;t prepare data for creation layout</source>
-        <translation type="unfinished"></translation>
+        <source>Couldn't prepare data for creation layout</source>
+        <translation>Tartibni yaratish uchun maʼlumotlarni tayyorlab boʻlmadi</translation>
     </message>
     <message>
         <source>Create a Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Layout yaratish</translation>
     </message>
     <message>
         <source>Arranged workpieces: %1 from %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Joylashtirilgan ish qismlari: % 1 dan % 2</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Finding best position for workpieces. Please, wait.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Ish qismlari uchun eng yaxshi joyni topish.Iltimos, kuting.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>One or more pattern pieces are bigger than the paper format you selected. Please select a bigger paper format.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bir yoki bir nechta andoza bo'lagi siz tanlagan qog'oz formatidan kattaroq.Iltimos, kattaroq qog'oz formatini tanlang.</translation>
     </message>
 </context>
 <context>
     <name>DialogLine</name>
     <message>
         <source>Select second point</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikkinchi nuqtani tanlang</translation>
     </message>
     <message>
         <source>First point:</source>
@@ -1679,7 +1678,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Line - Between Points</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiziq - nuqtalar orasidagi</translation>
     </message>
     <message>
         <source>Selection</source>
@@ -1714,15 +1713,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Select second point of first line</source>
-        <translation type="unfinished"></translation>
+        <translation>Birinchi qatorning ikkinchi nuqtasini tanlang</translation>
     </message>
     <message>
         <source>Select first point of second line</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikkinchi qatorning birinchi nuqtasini tanlang</translation>
     </message>
     <message>
         <source>Select second point of second line</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikkinchi qatorning ikkinchi nuqtasini tanlang</translation>
     </message>
     <message>
         <source>First point:</source>
@@ -1734,11 +1733,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Point - Intersect Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta - kesishgan chiziqlar</translation>
     </message>
     <message>
         <source>Selection</source>
-        <translation></translation>
+        <translation>Tanlash</translation>
     </message>
     <message>
         <source>Unique name</source>
@@ -1761,7 +1760,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>First point of line</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiziqning birinchi nuqtasi</translation>
     </message>
     <message>
         <source>Select second point of line</source>
@@ -1769,15 +1768,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Select axis point</source>
-        <translation type="unfinished"></translation>
+        <translation>O'q nuqtasini tanlang</translation>
     </message>
     <message>
         <source>Axis Point</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksa nuqtasi</translation>
     </message>
     <message>
         <source>Second point of line</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiziqning ikkinchi nuqtasi</translation>
     </message>
     <message>
         <source>Edit angle</source>
@@ -1809,7 +1808,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Intersect - Line and Axis</source>
-        <translation type="unfinished"></translation>
+        <translation>Kesishish - chiziq va o'q</translation>
     </message>
     <message>
         <source>Selection</source>
@@ -1856,7 +1855,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>ME Database - Add known measurement</source>
-        <translation type="unfinished"></translation>
+        <translation>ME ma'lumotlar bazasi - ma'lum o'lchovni qo'shing</translation>
     </message>
     <message>
         <source>Find:</source>
@@ -1871,7 +1870,7 @@ p, li { white-space: pre-wrap; }
     <name>DialogMirrorByAxis</name>
     <message>
         <source>Mirror by Axis</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksa bo'yicha oyna</translation>
     </message>
     <message>
         <source>Axis point:</source>
@@ -1887,11 +1886,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Select axis rotation point</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksa aylanish nuqtasini tanlang</translation>
     </message>
     <message>
         <source>Select axis rotation point that is not part of the list of objects</source>
-        <translation type="unfinished"></translation>
+        <translation>Ob'ektlar ro'yxatining bir qismi bo'lmagan o'qning aylanish nuqtasini tanlang</translation>
     </message>
     <message>
         <source>Vertical axis</source>
@@ -1910,7 +1909,7 @@ p, li { white-space: pre-wrap; }
     <name>DialogMirrorByLine</name>
     <message>
         <source>Mirror by Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiziq bo'yicha ko'zgu</translation>
     </message>
     <message>
         <source>Selection</source>
@@ -1930,19 +1929,19 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Select first mirror line point</source>
-        <translation type="unfinished"></translation>
+        <translation>Birinchi ko'zgu chizig'i nuqtasini tanlang</translation>
     </message>
     <message>
         <source>Select first mirror line point that is not part of the list of objects</source>
-        <translation type="unfinished"></translation>
+        <translation>Ob'ektlar ro'yxatining bir qismi bo'lmagan birinchi ko'zgu chizig'i nuqtasini tanlang</translation>
     </message>
     <message>
         <source>Select second mirror line point</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikkinchi ko'zgu chizig'i nuqtasini tanlang</translation>
     </message>
     <message>
         <source>Select second mirror line point that is not part of the list of objects</source>
-        <translation type="unfinished"></translation>
+        <translation>Ob'ektlar ro'yxatining bir qismi bo'lmagan ikkinchi oyna chizig'i nuqtasini tanlang</translation>
     </message>
 </context>
 <context>
@@ -2005,7 +2004,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Edit rotation</source>
-        <translation type="unfinished"></translation>
+        <translation>Aylanishni tahrirlash</translation>
     </message>
 </context>
 <context>
@@ -2016,11 +2015,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Centimeters</source>
-        <translation type="unfinished"></translation>
+        <translation>Santimetr</translation>
     </message>
     <message>
         <source>Inches</source>
-        <translation type="unfinished"></translation>
+        <translation>dyuym</translation>
     </message>
     <message>
         <source>Unique pattern piece name</source>
@@ -2028,19 +2027,19 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Choose unique pattern piece name.</source>
-        <translation type="unfinished"></translation>
+        <translation>andozaning noyob nomini tanlang.</translation>
     </message>
     <message>
         <source>New pattern</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangi andoza</translation>
     </message>
     <message>
         <source>Millimeters</source>
-        <translation type="unfinished"></translation>
+        <translation>Millimetr</translation>
     </message>
     <message>
         <source>Draft block name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Qoralama blok nomi:</translation>
     </message>
 </context>
 <context>
@@ -2091,7 +2090,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Point - On Perpendicular</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta - Perpendikulyar</translation>
     </message>
     <message>
         <source>Selection</source>
@@ -2130,19 +2129,19 @@ p, li { white-space: pre-wrap; }
     <name>DialogPatternProperties</name>
     <message>
         <source>Pattern description</source>
-        <translation type="unfinished"></translation>
+        <translation>Shakl tavsifi</translation>
     </message>
     <message>
         <source>Heights and Sizes</source>
-        <translation type="unfinished"></translation>
+        <translation>Balandlik va o'lchamlar</translation>
     </message>
     <message>
         <source>All heights (cm)</source>
-        <translation type="unfinished"></translation>
+        <translation>Barcha balandliklar (sm)</translation>
     </message>
     <message>
         <source>All sizes (cm)</source>
-        <translation type="unfinished"></translation>
+        <translation>Barcha o'lchamlar (sm)</translation>
     </message>
     <message>
         <source>Default height and size</source>
@@ -2162,47 +2161,47 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Security</source>
-        <translation type="unfinished"></translation>
+        <translation>Xavfsizlik</translation>
     </message>
     <message>
         <source>Open only for read</source>
-        <translation type="unfinished"></translation>
+        <translation>Faqat o'qish uchun ochiq</translation>
     </message>
     <message>
         <source>Call context menu for edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Tahrirlash uchun kontekst menyusiga qo'ng'iroq qiling</translation>
     </message>
     <message>
         <source>No image</source>
-        <translation type="unfinished"></translation>
+        <translation>Rasm yo'q</translation>
     </message>
     <message>
         <source>Delete image</source>
-        <translation type="unfinished"></translation>
+        <translation>Rasmni o'chirish</translation>
     </message>
     <message>
         <source>Change image</source>
-        <translation type="unfinished"></translation>
+        <translation>Tasvirni o'zgartirish</translation>
     </message>
     <message>
         <source>Save image to file</source>
-        <translation type="unfinished"></translation>
+        <translation>Rasmni faylga saqlang</translation>
     </message>
     <message>
         <source>Show image</source>
-        <translation type="unfinished"></translation>
+        <translation>Rasmni ko'rsatish</translation>
     </message>
     <message>
         <source>Image for pattern</source>
-        <translation type="unfinished"></translation>
+        <translation>andoza uchun rasm</translation>
     </message>
     <message>
         <source>Images</source>
-        <translation type="unfinished"></translation>
+        <translation>Tasvirlar</translation>
     </message>
     <message>
         <source>Save File</source>
-        <translation type="unfinished"></translation>
+        <translation>Faylni saqlash</translation>
     </message>
     <message>
         <source>untitled</source>
@@ -2214,39 +2213,39 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Show in Explorer</source>
-        <translation type="unfinished"></translation>
+        <translation>Explorerda ko'rsatish</translation>
     </message>
     <message>
         <source>&lt;Empty&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Bo'sh&gt;</translation>
     </message>
     <message>
         <source>File was not saved yet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fayl hali saqlanmadi.</translation>
     </message>
     <message>
         <source>Show in Finder</source>
-        <translation type="unfinished"></translation>
+        <translation>Finder-da ko'rsatish</translation>
     </message>
     <message>
         <source>Pattern name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Shakl nomi:</translation>
     </message>
     <message>
         <source>Pattern number:</source>
-        <translation type="unfinished"></translation>
+        <translation>Shakl raqami:</translation>
     </message>
     <message>
         <source>Company/Designer name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kompaniya / Dizayner nomi:</translation>
     </message>
     <message>
         <source>Customer name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mijoz nomi:</translation>
     </message>
     <message>
         <source>From multisize measurements</source>
-        <translation type="unfinished"></translation>
+        <translation>Ko'p o'lchamli o'lchovlardan</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -2254,50 +2253,50 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>For technical notes</source>
-        <translation type="unfinished"></translation>
+        <translation>Texnik eslatmalar uchun</translation>
     </message>
     <message>
         <source>Label data</source>
-        <translation type="unfinished"></translation>
+        <translation>Yorliq ma'lumotlari</translation>
     </message>
     <message>
         <source>Label template:</source>
-        <translation type="unfinished"></translation>
+        <translation>Yorliq shabloni:</translation>
     </message>
     <message>
         <source>Edit pattern label</source>
-        <translation type="unfinished"></translation>
+        <translation>andoza yorlig‘ini tahrirlash</translation>
     </message>
     <message>
         <source>Edit template</source>
-        <translation type="unfinished"></translation>
+        <translation>Shablonni tahrirlash</translation>
     </message>
     <message>
         <source>Date format:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sana formati:</translation>
     </message>
     <message>
         <source>Time format:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vaqt formati:</translation>
     </message>
     <message>
         <source>Save label data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Yorliq ma'lumotlarini saqlang.</translation>
     </message>
     <message>
         <source>Label data were changed. Do you want to save them before editing label template?</source>
-        <translation type="unfinished"></translation>
+        <translation>Yorliq ma'lumotlari o'zgartirildi.Yorliq shablonini tahrirlashdan oldin ularni saqlamoqchimisiz?</translation>
     </message>
     <message>
         <source>Pattern preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Shakl afzalliklari</translation>
     </message>
 </context>
 <context>
     <name>DialogPointFromArcAndTangent</name>
     <message>
         <source>Select an arc</source>
-        <translation type="unfinished"></translation>
+        <translation>Yoyni tanlang</translation>
     </message>
     <message>
         <source>Tangent point:</source>
@@ -2305,7 +2304,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Arc:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ark:</translation>
     </message>
     <message>
         <source>Take:</source>
@@ -2313,7 +2312,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Point - Intersect Arc and Tangent</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta - yoy va tangensni kesish</translation>
     </message>
     <message>
         <source>Selection</source>
@@ -2340,7 +2339,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Select point of center of arc</source>
-        <translation type="unfinished"></translation>
+        <translation>Yoy markazining nuqtasini tanlang</translation>
     </message>
     <message>
         <source>Select second point of line</source>
@@ -2368,11 +2367,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Center of arc:</source>
-        <translation type="unfinished"></translation>
+        <translation>Yoy markazi:</translation>
     </message>
     <message>
         <source>Point - Intersect Arc and Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta - yoy va chiziqni kesish</translation>
     </message>
     <message>
         <source>Selection</source>
@@ -2388,11 +2387,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>1st line point:</source>
-        <translation type="unfinished"></translation>
+        <translation>1-qator nuqtasi:</translation>
     </message>
     <message>
         <source>2nd line point</source>
-        <translation type="unfinished"></translation>
+        <translation>2-chiziq nuqtasi</translation>
     </message>
     <message>
         <source>Geometry</source>
@@ -2407,15 +2406,15 @@ p, li { white-space: pre-wrap; }
     <name>DialogPointOfIntersectionArcs</name>
     <message>
         <source>Select second an arc</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikkinchi yoyni tanlang</translation>
     </message>
     <message>
         <source>First arc:</source>
-        <translation type="unfinished"></translation>
+        <translation>Birinchi yoy:</translation>
     </message>
     <message>
         <source>Second arc:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikkinchi yoy:</translation>
     </message>
     <message>
         <source>Take:</source>
@@ -2423,7 +2422,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Point - Intersect Arcs</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta - kesishgan yoylar</translation>
     </message>
     <message>
         <source>Selection</source>
@@ -2446,19 +2445,19 @@ p, li { white-space: pre-wrap; }
     <name>DialogPointOfIntersectionCurves</name>
     <message>
         <source>First curve:</source>
-        <translation type="unfinished"></translation>
+        <translation>Birinchi egri chiziq:</translation>
     </message>
     <message>
         <source>Second curve:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikkinchi egri chiziq:</translation>
     </message>
     <message>
         <source>Select second curve</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikkinchi egri chiziqni tanlang</translation>
     </message>
     <message>
         <source>Point - Intersect Curves</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta - kesishgan egri chiziqlar</translation>
     </message>
     <message>
         <source>Selection</source>
@@ -2474,11 +2473,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Vertical take:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertikal qabul qilish:</translation>
     </message>
     <message>
         <source>Horizontal take:</source>
-        <translation type="unfinished"></translation>
+        <translation>Gorizontal qabul qilish:</translation>
     </message>
     <message>
         <source>Name:</source>
@@ -2493,7 +2492,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Application Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Ilova afzalliklari</translation>
     </message>
     <message>
         <source>General</source>
@@ -2501,11 +2500,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>File Paths</source>
-        <translation type="unfinished"></translation>
+        <translation>Fayl yo'llari</translation>
     </message>
     <message>
         <source>Graphics</source>
-        <translation type="unfinished"></translation>
+        <translation>Grafika</translation>
     </message>
 </context>
 <context>
@@ -2540,7 +2539,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Rotation pt:</source>
-        <translation type="unfinished"></translation>
+        <translation>Aylanish nuqtasi:</translation>
     </message>
     <message>
         <source>Geometry</source>
@@ -2548,11 +2547,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Select rotation point</source>
-        <translation type="unfinished"></translation>
+        <translation>Aylanish nuqtasini tanlang</translation>
     </message>
     <message>
         <source>Select rotation point that is not part of the list of objects</source>
-        <translation type="unfinished"></translation>
+        <translation>Ob'ektlar ro'yxatining bir qismi bo'lmagan aylanish nuqtasini tanlang</translation>
     </message>
 </context>
 <context>
@@ -2567,7 +2566,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>File Paths</source>
-        <translation type="unfinished"></translation>
+        <translation>Fayl yo'llari</translation>
     </message>
 </context>
 <context>
@@ -2578,7 +2577,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Select first point of line</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiziqning birinchi nuqtasini tanlang</translation>
     </message>
     <message>
         <source>Select second point of line</source>
@@ -2626,7 +2625,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Point - Length to Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta - Chiziqgacha bo'lgan uzunlik</translation>
     </message>
     <message>
         <source>Selection</source>
@@ -2661,7 +2660,7 @@ p, li { white-space: pre-wrap; }
     <name>DialogSinglePoint</name>
     <message>
         <source>Coordinates on the sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Varaqdagi koordinatalar</translation>
     </message>
     <message>
         <source>Coordinates</source>
@@ -2685,11 +2684,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>X coordinate:</source>
-        <translation type="unfinished"></translation>
+        <translation>X koordinatasi:</translation>
     </message>
     <message>
         <source>Y coordinate:</source>
-        <translation type="unfinished"></translation>
+        <translation>Y koordinatasi:</translation>
     </message>
     <message>
         <source>Name:</source>
@@ -2708,7 +2707,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Select last point of curve</source>
-        <translation type="unfinished"></translation>
+        <translation>Egri chiziqning oxirgi nuqtasini tanlang</translation>
     </message>
     <message>
         <source>Color:</source>
@@ -2732,7 +2731,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Invalid spline</source>
-        <translation type="unfinished"></translation>
+        <translation>Yaroqsiz spline</translation>
     </message>
     <message>
         <source>Length:</source>
@@ -2752,27 +2751,27 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Edit first control point angle</source>
-        <translation type="unfinished"></translation>
+        <translation>Birinchi nazorat nuqtasi burchagini tahrirlash</translation>
     </message>
     <message>
         <source>Edit second control point angle</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikkinchi nazorat nuqtasi burchagini tahrirlash</translation>
     </message>
     <message>
         <source>Edit first control point length</source>
-        <translation type="unfinished"></translation>
+        <translation>Birinchi nazorat nuqtasi uzunligini tahrirlash</translation>
     </message>
     <message>
         <source>Edit second control point length</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikkinchi nazorat nuqtasi uzunligini tahrirlash</translation>
     </message>
     <message>
         <source>Error</source>
         <translation>Error</translation>
     </message>
     <message>
-        <source>Length can&apos;t be negative</source>
-        <translation type="unfinished"></translation>
+        <source>Length can't be negative</source>
+        <translation>Uzunlik salbiy bo'lishi mumkin emas</translation>
     </message>
     <message>
         <source>Calculation</source>
@@ -2784,7 +2783,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Curve - Interactive</source>
-        <translation type="unfinished"></translation>
+        <translation>Egri chiziq - interaktiv</translation>
     </message>
     <message>
         <source>Selection</source>
@@ -2804,62 +2803,62 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished">Options</translation>
+        <translation>Options</translation>
     </message>
     <message>
         <source>Smooth curve:</source>
-        <translation type="unfinished"></translation>
+        <translation>Silliq egri chiziq:</translation>
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation>Yo'q</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>Ha</translation>
     </message>
     <message>
         <source>Adjust length:</source>
-        <translation type="unfinished"></translation>
+        <translation>Uzunlikni sozlash:</translation>
     </message>
     <message>
         <source>Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Oʻchirilgan</translation>
     </message>
     <message>
         <source>Start</source>
-        <translation type="unfinished"></translation>
+        <translation>Boshlash</translation>
     </message>
     <message>
         <source>End</source>
-        <translation type="unfinished"></translation>
+        <translation>Oxiri</translation>
     </message>
     <message>
         <source>Both</source>
-        <translation type="unfinished">Both</translation>
+        <translation>Both</translation>
     </message>
     <message>
         <source>Curve length:</source>
-        <translation type="unfinished"></translation>
+        <translation>Egri chiziq uzunligi:</translation>
     </message>
     <message>
         <source>Curve arc length formula (applied if filled)</source>
-        <translation type="unfinished"></translation>
+        <translation>Egri yoy uzunligi formulasi (to'ldirilgan bo'lsa qo'llaniladi)</translation>
     </message>
     <message>
         <source>Edit curve length</source>
-        <translation type="unfinished"></translation>
+        <translation>Egri chiziq uzunligini tahrirlash</translation>
     </message>
 </context>
 <context>
     <name>DialogSplinePath</name>
     <message>
         <source>List of points</source>
-        <translation type="unfinished"></translation>
+        <translation>Ballar ro'yxati</translation>
     </message>
     <message>
         <source>Select point of curve path</source>
-        <translation type="unfinished"></translation>
+        <translation>Egri chiziq nuqtasini tanlang</translation>
     </message>
     <message>
         <source>Color:</source>
@@ -2871,7 +2870,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>First control point</source>
-        <translation type="unfinished"></translation>
+        <translation>Birinchi nazorat nuqtasi</translation>
     </message>
     <message>
         <source>Angle:</source>
@@ -2879,7 +2878,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Second control point</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikkinchi nazorat nuqtasi</translation>
     </message>
     <message>
         <source>Name:</source>
@@ -2887,7 +2886,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Invalid spline path</source>
-        <translation type="unfinished"></translation>
+        <translation>Yaroqsiz splayn yo‘li</translation>
     </message>
     <message>
         <source>Length:</source>
@@ -2907,31 +2906,31 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Edit first control point angle</source>
-        <translation type="unfinished"></translation>
+        <translation>Birinchi nazorat nuqtasi burchagini tahrirlash</translation>
     </message>
     <message>
         <source>Edit second control point angle</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikkinchi nazorat nuqtasi burchagini tahrirlash</translation>
     </message>
     <message>
         <source>Edit first control point length</source>
-        <translation type="unfinished"></translation>
+        <translation>Birinchi nazorat nuqtasi uzunligini tahrirlash</translation>
     </message>
     <message>
         <source>Edit second control point length</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikkinchi nazorat nuqtasi uzunligini tahrirlash</translation>
     </message>
     <message>
         <source>Error</source>
         <translation>Error</translation>
     </message>
     <message>
-        <source>Length can&apos;t be negative</source>
-        <translation type="unfinished"></translation>
+        <source>Length can't be negative</source>
+        <translation>Uzunlik salbiy bo'lishi mumkin emas</translation>
     </message>
     <message>
         <source>Not used</source>
-        <translation type="unfinished"></translation>
+        <translation>Ishlatilmagan</translation>
     </message>
     <message>
         <source>Calculation</source>
@@ -2943,7 +2942,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Spline - Interactive</source>
-        <translation type="unfinished"></translation>
+        <translation>Spline - interaktiv</translation>
     </message>
     <message>
         <source>Selection</source>
@@ -2967,7 +2966,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Result value</source>
-        <translation type="unfinished"></translation>
+        <translation>Natija qiymati</translation>
     </message>
 </context>
 <context>
@@ -2981,8 +2980,8 @@ p, li { white-space: pre-wrap; }
         <translation>Empty field</translation>
     </message>
     <message>
-        <source>Value can&apos;t be 0</source>
-        <translation type="unfinished"></translation>
+        <source>Value can't be 0</source>
+        <translation>Qiymat 0 boʻlishi mumkin emas</translation>
     </message>
     <message>
         <source>Parser error: %1</source>
@@ -3014,62 +3013,62 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>by length</source>
-        <translation type="unfinished"></translation>
+        <translation>uzunligi bo'yicha</translation>
     </message>
     <message>
         <source>by intersection</source>
-        <translation type="unfinished"></translation>
+        <translation>kesishuv orqali</translation>
     </message>
     <message>
         <source>by first edge symmetry</source>
-        <translation type="unfinished"></translation>
+        <translation>birinchi chekka simmetriyasi bilan</translation>
     </message>
     <message>
         <source>by second edge symmetry</source>
-        <translation type="unfinished"></translation>
+        <translation>ikkinchi chekka simmetriyasi bilan</translation>
     </message>
     <message>
         <source>by first edge right angle</source>
-        <translation type="unfinished"></translation>
+        <translation>birinchi chetiga to'g'ri burchak bilan</translation>
     </message>
     <message>
         <source>by second edge right angle</source>
-        <translation type="unfinished"></translation>
+        <translation>ikkinchi chetiga to'g'ri burchak bilan</translation>
     </message>
     <message>
         <source>Invalid result. Value is infinite or NaN. Please, check your calculations.</source>
         <translation>Invalid result. Value is infinite or NaN. Please, check your calculations.</translation>
     </message>
     <message>
-        <source>Value can&apos;t be less than 0</source>
-        <translation type="unfinished"></translation>
+        <source>Value can't be less than 0</source>
+        <translation>Qiymat 0 dan kam boʻlmasligi kerak</translation>
     </message>
     <message>
         <source>Result Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Natija qiymati</translation>
     </message>
     <message>
         <source>Angle Calculation</source>
-        <translation type="unfinished"></translation>
+        <translation>Burchakni hisoblash</translation>
     </message>
     <message>
-        <source>Angles are specified in degrees, i.e. a full circle equals 360 deg. Positive values for an  angle means counter-clockwise while a negative value means the clockwise direction. Zero degrees is at the 3 o&apos;clock position.</source>
-        <translation type="unfinished"></translation>
+        <source>Angles are specified in degrees, i.e. a full circle equals 360 deg. Positive values for an  angle means counter-clockwise while a negative value means the clockwise direction. Zero degrees is at the 3 o'clock position.</source>
+        <translation>Burchaklar darajalarda ko'rsatilgan, ya'ni to'liq aylana 360 darajaga teng.Burchak uchun ijobiy qiymatlar soat miliga teskari yo'nalishni anglatadi, salbiy qiymat esa soat yo'nalishi bo'yicha.Nol daraja soat 3 da joylashgan.</translation>
     </message>
 </context>
 <context>
     <name>DialogTriangle</name>
     <message>
         <source>Select second point of axis</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksaning ikkinchi nuqtasini tanlang</translation>
     </message>
     <message>
         <source>Select first point</source>
-        <translation type="unfinished"></translation>
+        <translation>Birinchi nuqtani tanlang</translation>
     </message>
     <message>
         <source>Select second point</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikkinchi nuqtani tanlang</translation>
     </message>
     <message>
         <source>First point:</source>
@@ -3081,7 +3080,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Point - Intersect Axis and Triangle</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta - o'q va uchburchakni kesish</translation>
     </message>
     <message>
         <source>Selection</source>
@@ -3097,11 +3096,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>1st axis point:</source>
-        <translation type="unfinished"></translation>
+        <translation>1-o'q nuqtasi:</translation>
     </message>
     <message>
         <source>2nd axis point:</source>
-        <translation type="unfinished"></translation>
+        <translation>2-o'q nuqtasi:</translation>
     </message>
     <message>
         <source>Name:</source>
@@ -3112,19 +3111,19 @@ p, li { white-space: pre-wrap; }
     <name>DialogTrueDarts</name>
     <message>
         <source>Select the second base point</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikkinchi tayanch nuqtasini tanlang</translation>
     </message>
     <message>
         <source>Select the first dart point</source>
-        <translation type="unfinished"></translation>
+        <translation>Birinchi dart nuqtasini tanlang</translation>
     </message>
     <message>
         <source>Select the second dart point</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikkinchi dart nuqtasini tanlang</translation>
     </message>
     <message>
         <source>Select the third dart point</source>
-        <translation type="unfinished"></translation>
+        <translation>Uchinchi dart nuqtasini tanlang</translation>
     </message>
     <message>
         <source>Selection</source>
@@ -3132,27 +3131,27 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>1st base point:</source>
-        <translation type="unfinished"></translation>
+        <translation>1-tayanch nuqtasi:</translation>
     </message>
     <message>
         <source>2nd base point:</source>
-        <translation type="unfinished"></translation>
+        <translation>2-tayanch nuqtasi:</translation>
     </message>
     <message>
         <source>1st dart point:</source>
-        <translation type="unfinished"></translation>
+        <translation>1-dart nuqtasi:</translation>
     </message>
     <message>
         <source>2nd dart point:</source>
-        <translation type="unfinished"></translation>
+        <translation>2-dart nuqtasi:</translation>
     </message>
     <message>
         <source>3rd dart point:</source>
-        <translation type="unfinished"></translation>
+        <translation>3-dart nuqtasi:</translation>
     </message>
     <message>
         <source>True Darts</source>
-        <translation type="unfinished"></translation>
+        <translation>Haqiqiy Darts</translation>
     </message>
     <message>
         <source>Unique name</source>
@@ -3164,42 +3163,43 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Point name 1:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta nomi 1:</translation>
     </message>
     <message>
         <source>Point name 2:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta nomi 2:</translation>
     </message>
 </context>
 <context>
     <name>DialogUndo</name>
     <message>
         <source>Broken formula</source>
-        <translation type="unfinished"></translation>
+        <translation>Buzilgan formula</translation>
     </message>
     <message>
         <source>&amp;Undo</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Bekor qilish</translation>
     </message>
     <message>
         <source>&amp;Fix formula</source>
-        <translation type="unfinished"></translation>
+        <translation>Formulani &amp;tuzatish</translation>
     </message>
     <message>
         <source>Seamly2D encountered an error while computing a formula.
 Please try to undo the latest operation or fix the broken formula.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seamly2D formulani hisoblashda xatolikka duch keldi.
+Iltimos, oxirgi amalni bekor qilishga harakat qiling yoki buzilgan formulani tuzating.</translation>
     </message>
 </context>
 <context>
     <name>DialogVariables</name>
     <message>
         <source>Variables</source>
-        <translation type="unfinished"></translation>
+        <translation>O'zgaruvchilar</translation>
     </message>
     <message>
         <source>Filter:</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtr:</translation>
     </message>
     <message>
         <source>Filter list by keyword</source>
@@ -3207,7 +3207,7 @@ Please try to undo the latest operation or fix the broken formula.</source>
     </message>
     <message>
         <source>Custom variables</source>
-        <translation type="unfinished"></translation>
+        <translation>Maxsus o'zgaruvchilar</translation>
     </message>
     <message>
         <source>Name</source>
@@ -3231,11 +3231,11 @@ Please try to undo the latest operation or fix the broken formula.</source>
     </message>
     <message>
         <source>Add custom variable</source>
-        <translation type="unfinished"></translation>
+        <translation>Maxsus o'zgaruvchini qo'shing</translation>
     </message>
     <message>
         <source>Remove custom variable</source>
-        <translation type="unfinished"></translation>
+        <translation>Maxsus o'zgaruvchini olib tashlang</translation>
     </message>
     <message>
         <source>Details</source>
@@ -3247,7 +3247,7 @@ Please try to undo the latest operation or fix the broken formula.</source>
     </message>
     <message>
         <source>Unique variable name</source>
-        <translation type="unfinished"></translation>
+        <translation>Noyob oʻzgaruvchi nomi</translation>
     </message>
     <message>
         <source>Value:</source>
@@ -3267,15 +3267,15 @@ Please try to undo the latest operation or fix the broken formula.</source>
     </message>
     <message>
         <source>Refresh a pattern with all changes you made</source>
-        <translation type="unfinished"></translation>
+        <translation>Siz kiritgan barcha o'zgarishlar bilan andozani yangilang</translation>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangilash</translation>
     </message>
     <message>
         <source>Line lengths</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiziq uzunliklari</translation>
     </message>
     <message>
         <source>Line</source>
@@ -3287,7 +3287,7 @@ Please try to undo the latest operation or fix the broken formula.</source>
     </message>
     <message>
         <source>Line angles</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiziq burchaklari</translation>
     </message>
     <message>
         <source>Angle</source>
@@ -3295,7 +3295,7 @@ Please try to undo the latest operation or fix the broken formula.</source>
     </message>
     <message>
         <source>Curve lengths</source>
-        <translation type="unfinished"></translation>
+        <translation>Egri chiziq uzunligi</translation>
     </message>
     <message>
         <source>Curve</source>
@@ -3303,15 +3303,15 @@ Please try to undo the latest operation or fix the broken formula.</source>
     </message>
     <message>
         <source>Curve angles</source>
-        <translation type="unfinished"></translation>
+        <translation>Egri burchaklar</translation>
     </message>
     <message>
         <source>Control point lengths</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekshirish nuqtasi uzunligi</translation>
     </message>
     <message>
         <source>Arc radiuses</source>
-        <translation type="unfinished"></translation>
+        <translation>Yoy radiuslari</translation>
     </message>
     <message>
         <source>Arc</source>
@@ -3347,7 +3347,7 @@ Please try to undo the latest operation or fix the broken formula.</source>
     </message>
     <message>
         <source>Edit variable</source>
-        <translation type="unfinished"></translation>
+        <translation>O'zgaruvchini tahrirlash</translation>
     </message>
     <message>
         <source>Description</source>
@@ -3381,31 +3381,31 @@ Please try to undo the latest operation or fix the broken formula.</source>
     </message>
     <message>
         <source>Custom Variables</source>
-        <translation type="unfinished"></translation>
+        <translation>Maxsus o'zgaruvchilar</translation>
     </message>
     <message>
         <source>Line Lengths</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiziq uzunliklari</translation>
     </message>
     <message>
         <source>Line Angles</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiziq burchaklari</translation>
     </message>
     <message>
         <source>Curve Lengths</source>
-        <translation type="unfinished"></translation>
+        <translation>Egri uzunliklari</translation>
     </message>
     <message>
         <source>Curve Angles</source>
-        <translation type="unfinished"></translation>
+        <translation>Egri burchaklar</translation>
     </message>
     <message>
         <source> Control Point Lengths</source>
-        <translation type="unfinished"></translation>
+        <translation>Boshqarish nuqtasi uzunligi</translation>
     </message>
     <message>
         <source>Arc Radii</source>
-        <translation type="unfinished"></translation>
+        <translation>Yoy radiusi</translation>
     </message>
     <message>
         <source>Functions</source>
@@ -3425,11 +3425,11 @@ Please try to undo the latest operation or fix the broken formula.</source>
     </message>
     <message>
         <source>Clear formula</source>
-        <translation type="unfinished"></translation>
+        <translation>Aniq formula</translation>
     </message>
     <message>
         <source>Reset to original formula</source>
-        <translation type="unfinished"></translation>
+        <translation>Asl formulaga qaytaring</translation>
     </message>
     <message>
         <source>Insert variable into formula</source>
@@ -3437,7 +3437,7 @@ Please try to undo the latest operation or fix the broken formula.</source>
     </message>
     <message>
         <source>Hides measurement variables that have no value</source>
-        <translation type="unfinished"></translation>
+        <translation>Qiymatga ega bo'lmagan o'lchov o'zgaruvchilarini yashiradi</translation>
     </message>
     <message>
         <source>Hide empty measurements</source>
@@ -3453,7 +3453,7 @@ Please try to undo the latest operation or fix the broken formula.</source>
     </message>
     <message>
         <source>Filter variable list by keyword</source>
-        <translation type="unfinished"></translation>
+        <translation>Oʻzgaruvchilar roʻyxatini kalit soʻz boʻyicha filtrlang</translation>
     </message>
     <message>
         <source>Filter list by keyword</source>
@@ -3461,11 +3461,11 @@ Please try to undo the latest operation or fix the broken formula.</source>
     </message>
     <message>
         <source>Measurement</source>
-        <translation type="unfinished"></translation>
+        <translation>O'lcham</translation>
     </message>
     <message>
         <source>Custom Variable</source>
-        <translation type="unfinished"></translation>
+        <translation>Maxsus oʻzgaruvchi</translation>
     </message>
     <message>
         <source>Line length</source>
@@ -3489,7 +3489,7 @@ Please try to undo the latest operation or fix the broken formula.</source>
     </message>
     <message>
         <source>Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Raqam</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -3512,7 +3512,7 @@ Please try to undo the latest operation or fix the broken formula.</source>
     <name>EditGroupDialog</name>
     <message>
         <source>Add Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Guruh qo'shish</translation>
     </message>
     <message>
         <source>Name:</source>
@@ -3528,7 +3528,7 @@ Please try to undo the latest operation or fix the broken formula.</source>
     </message>
     <message>
         <source>Unique group name</source>
-        <translation type="unfinished"></translation>
+        <translation>Noyob guruh nomi</translation>
     </message>
     <message>
         <source>Linetype:</source>
@@ -3543,19 +3543,19 @@ Please try to undo the latest operation or fix the broken formula.</source>
     <name>EditLabelTemplateDialog</name>
     <message>
         <source>Edit label template</source>
-        <translation type="unfinished"></translation>
+        <translation>Yorliq shablonini tahrirlash</translation>
     </message>
     <message>
         <source>Clear current and begin new label</source>
-        <translation type="unfinished"></translation>
+        <translation>Joriyni tozalang va yangi yorliqni boshlang</translation>
     </message>
     <message>
         <source>Import from label template</source>
-        <translation type="unfinished"></translation>
+        <translation>Yorliq shablonidan import qiling</translation>
     </message>
     <message>
         <source>Export label as template</source>
-        <translation type="unfinished"></translation>
+        <translation>Yorliqni shablon sifatida eksport qiling</translation>
     </message>
     <message>
         <source>Edit</source>
@@ -3564,72 +3564,72 @@ Please try to undo the latest operation or fix the broken formula.</source>
     <message>
         <source>Bold</source>
         <comment>Font formatting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Qalin</translation>
     </message>
     <message>
         <source>Italic</source>
         <comment>Font formatting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kursiv</translation>
     </message>
     <message>
         <source>Aligns with the left edge</source>
-        <translation type="unfinished"></translation>
+        <translation>Chap chekka bilan tekislanadi</translation>
     </message>
     <message>
         <source>Centers horizontally in the available space</source>
-        <translation type="unfinished"></translation>
+        <translation>Mavjud bo'shliqda gorizontal markazlar</translation>
     </message>
     <message>
         <source>Aligns with the right edge</source>
-        <translation type="unfinished"></translation>
+        <translation>O'ng chekka bilan tekislanadi</translation>
     </message>
     <message>
         <source>Additional font size. Use to make a line bigger.</source>
-        <translation type="unfinished"></translation>
+        <translation>Qo'shimcha shrift hajmi.Chiziqni kattaroq qilish uchun foydalaning.</translation>
     </message>
     <message>
         <source>Text:</source>
-        <translation type="unfinished"></translation>
+        <translation>Matn:</translation>
     </message>
     <message>
         <source>Line of text</source>
-        <translation type="unfinished"></translation>
+        <translation>Matn qatori</translation>
     </message>
     <message>
         <source>Insert placeholders</source>
-        <translation type="unfinished"></translation>
+        <translation>To'ldiruvchilarni kiriting</translation>
     </message>
     <message>
         <source>Insert...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kiritish...</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Ko‘rib chiqish</translation>
     </message>
     <message>
         <source>&lt;empty&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;bo'sh&gt;</translation>
     </message>
     <message>
         <source>Create new template</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangi shablon yarating</translation>
     </message>
     <message>
         <source>Creating new template will overwrite the current, do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangi shablon yaratish joriy shablonni qayta yozadi, davom ettirmoqchimisiz?</translation>
     </message>
     <message>
         <source>Label template</source>
-        <translation type="unfinished"></translation>
+        <translation>Yorliq shabloni</translation>
     </message>
     <message>
         <source>Export label template</source>
-        <translation type="unfinished"></translation>
+        <translation>Yorliq shablonini eksport qilish</translation>
     </message>
     <message>
         <source>template</source>
-        <translation type="unfinished"></translation>
+        <translation>shablon</translation>
     </message>
     <message>
         <source>Could not save file</source>
@@ -3637,11 +3637,11 @@ Please try to undo the latest operation or fix the broken formula.</source>
     </message>
     <message>
         <source>Import template</source>
-        <translation type="unfinished"></translation>
+        <translation>Import shablon</translation>
     </message>
     <message>
         <source>Import template will overwrite the current, do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Import andozasi joriyning ustiga yozadi, davom ettirmoqchimisiz?</translation>
     </message>
     <message>
         <source>File error.</source>
@@ -3649,39 +3649,39 @@ Please try to undo the latest operation or fix the broken formula.</source>
     </message>
     <message>
         <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Sana</translation>
     </message>
     <message>
         <source>Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Vaqt</translation>
     </message>
     <message>
         <source>Pattern name</source>
-        <translation type="unfinished"></translation>
+        <translation>Shakl nomi</translation>
     </message>
     <message>
         <source>Pattern number</source>
-        <translation type="unfinished"></translation>
+        <translation>Shakl raqami</translation>
     </message>
     <message>
         <source>Company name or designer name</source>
-        <translation type="unfinished"></translation>
+        <translation>Kompaniya nomi yoki dizaynerning nomi</translation>
     </message>
     <message>
         <source>Customer name</source>
-        <translation type="unfinished"></translation>
+        <translation>Mijoz nomi</translation>
     </message>
     <message>
         <source>Pattern file extension</source>
-        <translation type="unfinished"></translation>
+        <translation>Shakl fayl kengaytmasi</translation>
     </message>
     <message>
         <source>Pattern file name</source>
-        <translation type="unfinished"></translation>
+        <translation>Shakl fayl nomi</translation>
     </message>
     <message>
         <source>Measurements file name</source>
-        <translation type="unfinished"></translation>
+        <translation>O'lchovlar fayl nomi</translation>
     </message>
     <message>
         <source>Size</source>
@@ -3693,43 +3693,43 @@ Please try to undo the latest operation or fix the broken formula.</source>
     </message>
     <message>
         <source>Measurements file extension</source>
-        <translation type="unfinished"></translation>
+        <translation>O'lchovlar fayl kengaytmasi</translation>
     </message>
     <message>
         <source>Piece letter</source>
-        <translation type="unfinished"></translation>
+        <translation>Parcha xat</translation>
     </message>
     <message>
         <source>Piece annotation</source>
-        <translation type="unfinished"></translation>
+        <translation>Parcha izohi</translation>
     </message>
     <message>
         <source>Piece orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>Parcha yo'nalishi</translation>
     </message>
     <message>
         <source>Piece rotation</source>
-        <translation type="unfinished"></translation>
+        <translation>Parchalarning aylanishi</translation>
     </message>
     <message>
         <source>Piece tilt</source>
-        <translation type="unfinished"></translation>
+        <translation>Parcha egilishi</translation>
     </message>
     <message>
         <source>Piece fold position</source>
-        <translation type="unfinished"></translation>
+        <translation>Bo'laklarni katlama holati</translation>
     </message>
     <message>
         <source>Piece name</source>
-        <translation type="unfinished"></translation>
+        <translation>Parcha nomi</translation>
     </message>
     <message>
         <source>Quantity</source>
-        <translation type="unfinished"></translation>
+        <translation>Miqdori</translation>
     </message>
     <message>
         <source>Material: Fabric</source>
-        <translation type="unfinished"></translation>
+        <translation>Material: mato</translation>
     </message>
     <message>
         <source>Fabric</source>
@@ -3737,7 +3737,7 @@ Please try to undo the latest operation or fix the broken formula.</source>
     </message>
     <message>
         <source>Material: Lining</source>
-        <translation type="unfinished"></translation>
+        <translation>Material: astar</translation>
     </message>
     <message>
         <source>Lining</source>
@@ -3745,7 +3745,7 @@ Please try to undo the latest operation or fix the broken formula.</source>
     </message>
     <message>
         <source>Material: Interfacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Material: interfeys</translation>
     </message>
     <message>
         <source>Interfacing</source>
@@ -3753,7 +3753,7 @@ Please try to undo the latest operation or fix the broken formula.</source>
     </message>
     <message>
         <source>Material: Interlining</source>
-        <translation type="unfinished"></translation>
+        <translation>Material: Flyuz</translation>
     </message>
     <message>
         <source>Interlining</source>
@@ -3761,7 +3761,7 @@ Please try to undo the latest operation or fix the broken formula.</source>
     </message>
     <message>
         <source>Word: Cut</source>
-        <translation type="unfinished"></translation>
+        <translation>So'z: Kesish</translation>
     </message>
     <message>
         <source>Cut</source>
@@ -3780,26 +3780,26 @@ Please try to undo the latest operation or fix the broken formula.</source>
     <name>ExportFormatCombobox</name>
     <message>
         <source>(flat) files</source>
-        <translation type="unfinished"></translation>
+        <translation>(tekis) fayllar</translation>
     </message>
     <message>
         <source>files</source>
-        <translation type="unfinished"></translation>
+        <translation>fayllar</translation>
     </message>
 </context>
 <context>
     <name>ExportLayoutDialog</name>
     <message>
         <source>Export Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Tartibni eksport qilish</translation>
     </message>
     <message>
         <source>Binary form</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikkilik shakl</translation>
     </message>
     <message>
         <source>Text as paths</source>
-        <translation type="unfinished"></translation>
+        <translation>Yo'llar sifatida matn</translation>
     </message>
     <message>
         <source>Path:</source>
@@ -3835,7 +3835,7 @@ Please try to undo the latest operation or fix the broken formula.</source>
     </message>
     <message>
         <source>Quality (0-100):</source>
-        <translation type="unfinished"></translation>
+        <translation>Sifat (0-100):</translation>
     </message>
     <message>
         <source>Right:</source>
@@ -3855,11 +3855,11 @@ Please try to undo the latest operation or fix the broken formula.</source>
     </message>
     <message>
         <source>Templates: </source>
-        <translation type="unfinished"></translation>
+        <translation>Shablonlar:</translation>
     </message>
     <message>
         <source>Orientation: </source>
-        <translation type="unfinished"></translation>
+        <translation>Orientatsiya:</translation>
     </message>
     <message>
         <source>The base filename does not match a regular expression.</source>
@@ -3878,44 +3878,44 @@ Please try to undo the latest operation or fix the broken formula.</source>
         <translation>Selected not present format.</translation>
     </message>
     <message>
-        <source>The destination directory doesn&apos;t exist or is not readable.</source>
-        <translation type="unfinished"></translation>
+        <source>The destination directory doesn't exist or is not readable.</source>
+        <translation>Belgilangan katalog mavjud emas yoki o'qib bo'lmaydi.</translation>
     </message>
     <message>
         <source>%1 already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 allaqachon mavjud.</translation>
     </message>
     <message>
         <source>%1 files with basename %2 already exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>Asosiy nomi %2 boʻlgan %1 fayl allaqachon mavjud.</translation>
     </message>
     <message>
         <source>Do you want to replace them?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ularni almashtirmoqchimisiz?</translation>
     </message>
     <message>
         <source>Confirm Export</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksportni tasdiqlang</translation>
     </message>
     <message>
         <source>Export files:</source>
-        <translation type="unfinished"></translation>
+        <translation>Fayllarni eksport qilish:</translation>
     </message>
     <message>
         <source>Margins (tiled PDF only)</source>
-        <translation type="unfinished"></translation>
+        <translation>Cheklar (faqat plitkali PDF)</translation>
     </message>
     <message>
         <source>Paper format (tiled PDF only)</source>
-        <translation type="unfinished"></translation>
+        <translation>Qog'oz formati (faqat plitkali PDF)</translation>
     </message>
     <message>
         <source>Export Selected Sizes</source>
-        <translation type="unfinished"></translation>
+        <translation>Tanlangan oʻlchamlarni eksport qilish</translation>
     </message>
     <message>
         <source>Select All</source>
-        <translation type="unfinished"></translation>
+        <translation>Hammasini tanlang</translation>
     </message>
     <message>
         <source>Export</source>
@@ -3926,27 +3926,27 @@ Please try to undo the latest operation or fix the broken formula.</source>
     <name>ExportProgressDialog</name>
     <message>
         <source>Exporting files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Fayllar eksport qilinmoqda...</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Fayl</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Status</translation>
     </message>
     <message>
         <source>Pending</source>
-        <translation type="unfinished"></translation>
+        <translation>Kutilmoqda</translation>
     </message>
     <message>
         <source>Completed</source>
-        <translation type="unfinished"></translation>
+        <translation>Bajarildi</translation>
     </message>
     <message>
         <source>Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Muvaffaqiyatsiz</translation>
     </message>
 </context>
 <context>
@@ -3955,34 +3955,39 @@ Please try to undo the latest operation or fix the broken formula.</source>
         <source>Unable to open file
 %1
 for writing</source>
-        <translation type="unfinished"></translation>
+        <translation>Faylni ochib bo‘lmadi
+% 1
+yozish uchun</translation>
     </message>
     <message>
         <source>Unable to get exclusive access to file
 %1
 Possibly the file is already being downloaded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Faylga eksklyuziv kirish imkoni bo‘lmadi
+% 1
+Ehtimol, fayl allaqachon yuklab olinmoqda.</translation>
     </message>
     <message>
         <source>File download failed: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fayl yuklab olinmadi: %1.</translation>
     </message>
     <message>
-        <source>Download has started, the installer will open once it&apos;s finished downloading</source>
-        <translation type="unfinished"></translation>
+        <source>Download has started, the installer will open once it's finished downloading</source>
+        <translation>Yuklab olish boshlandi, yuklab olish tugagach, o'rnatuvchi ochiladi</translation>
     </message>
     <message>
         <source>Feed download failed: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tasma yuklab olinmadi: % 1.</translation>
     </message>
     <message>
         <source>No new releases available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangi nashrlar mavjud emas.</translation>
     </message>
     <message>
         <source>A new release %1 is available.
 Do you want to download it?</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangi %1 nashri mavjud.
+Uni yuklab olishni xohlaysizmi?</translation>
     </message>
     <message>
         <source>Error</source>
@@ -3997,35 +4002,35 @@ Do you want to download it?</source>
     <name>GroupsWidget</name>
     <message>
         <source>Group Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Guruh menejeri</translation>
     </message>
     <message>
         <source>Show All Groups</source>
-        <translation type="unfinished"></translation>
+        <translation>Barcha guruhlarni ko'rsatish</translation>
     </message>
     <message>
         <source>Hide all groups</source>
-        <translation type="unfinished"></translation>
+        <translation>Barcha guruhlarni yashirish</translation>
     </message>
     <message>
         <source>Lock all groups</source>
-        <translation type="unfinished"></translation>
+        <translation>Barcha guruhlarni qulflang</translation>
     </message>
     <message>
         <source>Unlock all groups</source>
-        <translation type="unfinished"></translation>
+        <translation>Barcha guruhlarni qulfdan chiqaring</translation>
     </message>
     <message>
         <source>Add a new group to the list</source>
-        <translation type="unfinished"></translation>
+        <translation>Ro'yxatga yangi guruh qo'shing</translation>
     </message>
     <message>
         <source>Delete active group from the list</source>
-        <translation type="unfinished"></translation>
+        <translation>Ro'yxatdan faol guruhni o'chiring</translation>
     </message>
     <message>
         <source>Edit group properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Guruh xususiyatlarini tahrirlash</translation>
     </message>
     <message>
         <source>Groups</source>
@@ -4033,31 +4038,31 @@ Do you want to download it?</source>
     </message>
     <message>
         <source>Group list</source>
-        <translation type="unfinished"></translation>
+        <translation>Guruh ro'yxati</translation>
     </message>
     <message>
         <source>Group object list</source>
-        <translation type="unfinished"></translation>
+        <translation>Guruh ob'ektlari ro'yxati</translation>
     </message>
     <message>
         <source>Objects</source>
-        <translation type="unfinished"></translation>
+        <translation>Ob'ektlar</translation>
     </message>
     <message>
         <source>Double clicking zooms to object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikki marta bosish ob'ektni kattalashtiradi.</translation>
     </message>
     <message>
         <source>Name Exists</source>
-        <translation type="unfinished"></translation>
+        <translation>Ism mavjud</translation>
     </message>
     <message>
-        <source>The action can&apos;t be completed because the group name already exists.</source>
-        <translation type="unfinished"></translation>
+        <source>The action can't be completed because the group name already exists.</source>
+        <translation>Amalni yakunlab bo‘lmaydi, chunki guruh nomi allaqachon mavjud.</translation>
     </message>
     <message>
         <source>Edit Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Guruhni tahrirlash</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -4065,19 +4070,19 @@ Do you want to download it?</source>
     </message>
     <message>
         <source>Show which groups in the list are visible</source>
-        <translation type="unfinished"></translation>
+        <translation>Roʻyxatdagi qaysi guruhlar koʻrinishini koʻrsating</translation>
     </message>
     <message>
         <source>Show which groups in the list are locked</source>
-        <translation type="unfinished"></translation>
+        <translation>Roʻyxatdagi qaysi guruhlar bloklanganligini koʻrsating</translation>
     </message>
     <message>
         <source>Show which groups contain objects</source>
-        <translation type="unfinished"></translation>
+        <translation>Qaysi guruhlarda ob'ektlar borligini ko'rsating</translation>
     </message>
     <message>
         <source>Unknown Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Noma'lum ob'ekt</translation>
     </message>
     <message>
         <source>%1 - Base point</source>
@@ -4085,35 +4090,35 @@ Do you want to download it?</source>
     </message>
     <message>
         <source>%1 - Point Length and Angle</source>
-        <translation type="unfinished"></translation>
+        <translation>% 1 - nuqta uzunligi va burchak</translation>
     </message>
     <message>
         <source>Line %1_%2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1_%2 qator</translation>
     </message>
     <message>
         <source>%1 - Point On Line</source>
-        <translation type="unfinished"></translation>
+        <translation>% 1 - chiziqdagi nuqta</translation>
     </message>
     <message>
         <source>%1 - Point Length to Line</source>
-        <translation type="unfinished"></translation>
+        <translation>% 1 - Chiziqgacha bo'lgan nuqta uzunligi</translation>
     </message>
     <message>
         <source>%1 - Point On Perpendicular</source>
-        <translation type="unfinished"></translation>
+        <translation>% 1 - Perpendikulyar nuqta</translation>
     </message>
     <message>
         <source>%1 - Point On Bisector</source>
-        <translation type="unfinished"></translation>
+        <translation>% 1 - bissektrisadagi nuqta</translation>
     </message>
     <message>
         <source>%1 - Point Intersect Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>% 1 - nuqta kesishuvchi chiziqlar</translation>
     </message>
     <message>
         <source>%1 - Curve Interactive</source>
-        <translation type="unfinished"></translation>
+        <translation>% 1 - Egri chiziqli interaktiv</translation>
     </message>
     <message>
         <source>Spl_</source>
@@ -4121,11 +4126,11 @@ Do you want to download it?</source>
     </message>
     <message>
         <source>%1 - Curve Fixed</source>
-        <translation type="unfinished"></translation>
+        <translation>% 1 - Egri chiziq aniqlandi</translation>
     </message>
     <message>
         <source>%1 - Arc Radius &amp; Angles</source>
-        <translation type="unfinished"></translation>
+        <translation>% 1 - Yoy radiusi va burchaklari</translation>
     </message>
     <message>
         <source>Arc_</source>
@@ -4133,119 +4138,119 @@ Do you want to download it?</source>
     </message>
     <message>
         <source>%1 - Arc Radius &amp; Length</source>
-        <translation type="unfinished"></translation>
+        <translation>% 1 - yoy radiusi va uzunligi</translation>
     </message>
     <message>
         <source>%1 - Spline Interactive</source>
-        <translation type="unfinished"></translation>
+        <translation>% 1 - Spline Interaktiv</translation>
     </message>
     <message>
         <source>SplPath_</source>
-        <translation type="unfinished"></translation>
+        <translation>SplPath_</translation>
     </message>
     <message>
         <source>%1 - Spline Fixed</source>
-        <translation type="unfinished"></translation>
+        <translation>% 1 - Spline aniqlandi</translation>
     </message>
     <message>
         <source>%1 - Point Intersect Arc &amp; Line</source>
-        <translation type="unfinished"></translation>
+        <translation>% 1 - nuqta kesishgan yoy va chiziq</translation>
     </message>
     <message>
         <source>%1 - Point Intersect Line &amp; Perpendicular</source>
-        <translation type="unfinished"></translation>
+        <translation>% 1 - nuqta kesishgan chiziq va perpendikulyar</translation>
     </message>
     <message>
         <source>%1 - Point Intersect Axis &amp; Triangle</source>
-        <translation type="unfinished"></translation>
+        <translation>% 1 - nuqta kesishish o'qi va uchburchak</translation>
     </message>
     <message>
         <source>%1 - Point Intersect XY</source>
-        <translation type="unfinished"></translation>
+        <translation>% 1 - XY bilan kesishgan nuqta</translation>
     </message>
     <message>
         <source>%1 - Point On Arc</source>
-        <translation type="unfinished"></translation>
+        <translation>% 1 - Yoy ustidagi nuqta</translation>
     </message>
     <message>
         <source>%1 - Point On Curve</source>
-        <translation type="unfinished"></translation>
+        <translation>% 1 - Egri chiziqdagi nuqta</translation>
     </message>
     <message>
         <source>%1 - Point On Spline</source>
-        <translation type="unfinished"></translation>
+        <translation>% 1 - Splinedagi nuqta</translation>
     </message>
     <message>
         <source>%1 - Point Intersect Line &amp; Axis</source>
-        <translation type="unfinished"></translation>
+        <translation>% 1 - nuqta kesishgan chiziq va o'q</translation>
     </message>
     <message>
         <source>%1 - Point Intersect Curve &amp; Axis</source>
-        <translation type="unfinished"></translation>
+        <translation>% 1 - nuqta kesishgan egri chiziq va o'q</translation>
     </message>
     <message>
         <source>%1 - Point Intersect Arcs</source>
-        <translation type="unfinished"></translation>
+        <translation>% 1 - nuqta kesishgan yoylar</translation>
     </message>
     <message>
         <source>%1 - Point Intersect Circles</source>
-        <translation type="unfinished"></translation>
+        <translation>% 1 - nuqta kesishgan doiralar</translation>
     </message>
     <message>
         <source>%1 - Point Intersect Curves</source>
-        <translation type="unfinished"></translation>
+        <translation>% 1 - nuqta kesishgan egri chiziqlar</translation>
     </message>
     <message>
         <source>%1 - Point Intersect Circle &amp; Tangent</source>
-        <translation type="unfinished"></translation>
+        <translation>% 1 - nuqta kesishgan doira va tangens</translation>
     </message>
     <message>
         <source>%1 - Point Intersect Arc &amp; Tangent</source>
-        <translation type="unfinished"></translation>
+        <translation>% 1 - nuqta kesishgan yoy va tangens</translation>
     </message>
     <message>
         <source>%1 - True Dart %2_%3_%4</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 - True Dart %2_%3_%4</translation>
     </message>
     <message>
         <source>%1 - Arc Elliptical</source>
-        <translation type="unfinished"></translation>
+        <translation>% 1 - elliptik yoy</translation>
     </message>
     <message>
         <source>ElArc_</source>
-        <translation type="unfinished"></translation>
+        <translation>ElArc_</translation>
     </message>
     <message>
         <source>%1 - Rotation</source>
-        <translation type="unfinished"></translation>
+        <translation>% 1 - aylanish</translation>
     </message>
     <message>
         <source>%1 - Move</source>
-        <translation type="unfinished"></translation>
+        <translation>% 1 - Ko‘chirish</translation>
     </message>
     <message>
         <source>%1 - Mirror by Line</source>
-        <translation type="unfinished"></translation>
+        <translation>% 1 - Satr bo'yicha aks ettirish</translation>
     </message>
     <message>
         <source>%1 - Mirror by Axis</source>
-        <translation type="unfinished"></translation>
+        <translation>% 1 - o'q bo'yicha ko'zgu</translation>
     </message>
     <message>
         <source>Move Group Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Guruh ob'ektini ko'chirish</translation>
     </message>
     <message>
         <source>Remove Group Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Guruh ob'ektini o'chirish</translation>
     </message>
     <message>
         <source>Group color</source>
-        <translation type="unfinished"></translation>
+        <translation>Guruh rangi</translation>
     </message>
     <message>
         <source>Group name</source>
-        <translation type="unfinished"></translation>
+        <translation>Guruh nomi</translation>
     </message>
     <message>
         <source>Name</source>
@@ -4257,27 +4262,27 @@ Do you want to download it?</source>
     </message>
     <message>
         <source>Visible</source>
-        <translation type="unfinished"></translation>
+        <translation>Ko'rinadigan</translation>
     </message>
     <message>
         <source>Group is visible</source>
-        <translation type="unfinished"></translation>
+        <translation>Guruh ko'rinadi</translation>
     </message>
     <message>
         <source>Locked</source>
-        <translation type="unfinished"></translation>
+        <translation>Qulflangan</translation>
     </message>
     <message>
         <source>Group is locked</source>
-        <translation type="unfinished"></translation>
+        <translation>Guruh qulflangan</translation>
     </message>
     <message>
         <source>Group has objects</source>
-        <translation type="unfinished"></translation>
+        <translation>Guruhda ob'ektlar mavjud</translation>
     </message>
     <message>
         <source>Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Rang</translation>
     </message>
 </context>
 <context>
@@ -4292,11 +4297,11 @@ Do you want to download it?</source>
     </message>
     <message>
         <source>Search text</source>
-        <translation type="unfinished"></translation>
+        <translation>Matnni qidirish</translation>
     </message>
     <message>
         <source>Id</source>
-        <translation type="unfinished"></translation>
+        <translation>Id</translation>
     </message>
     <message>
         <source>Name</source>
@@ -4308,135 +4313,135 @@ Do you want to download it?</source>
     </message>
     <message>
         <source>Line_%1_%2</source>
-        <translation type="unfinished"></translation>
+        <translation>Qator_%1_%2</translation>
     </message>
     <message>
         <source>Line from %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>% 1 dan % 2 gacha qator</translation>
     </message>
     <message>
         <source>Point On Line %1_%2</source>
-        <translation type="unfinished"></translation>
+        <translation>Toʻgʻri chiziq %1_%2</translation>
     </message>
     <message>
         <source>Point Length to Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiziqgacha bo'lgan nuqta uzunligi</translation>
     </message>
     <message>
         <source>Point On Perpendicular %1_%2</source>
-        <translation type="unfinished"></translation>
+        <translation>Perpendikulyar ustidagi nuqta %1_%2</translation>
     </message>
     <message>
         <source>Point On Bisector %1_%2_%3</source>
-        <translation type="unfinished"></translation>
+        <translation>Bissektrisadagi nuqta %1_%2_%3</translation>
     </message>
     <message>
         <source>Point Intersect Lines %1_%2 and %3_%4</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta %1_%2 va %3_%4 kesishgan chiziqlar</translation>
     </message>
     <message>
         <source>Curve Interactive</source>
-        <translation type="unfinished"></translation>
+        <translation>Curve Interactive</translation>
     </message>
     <message>
         <source>Curve Fixed</source>
-        <translation type="unfinished"></translation>
+        <translation>Egri chiziqli</translation>
     </message>
     <message>
         <source>Arc Radius &amp; Angles</source>
-        <translation type="unfinished"></translation>
+        <translation>Yoy radiusi va burchaklari</translation>
     </message>
     <message>
         <source>Spline Interactive</source>
-        <translation type="unfinished"></translation>
+        <translation>Spline interaktiv</translation>
     </message>
     <message>
         <source>Spline Fixed</source>
-        <translation type="unfinished"></translation>
+        <translation>Spline tuzatildi</translation>
     </message>
     <message>
         <source>Point Intersect Arc with center %1 &amp; Line %2_%3</source>
-        <translation type="unfinished"></translation>
+        <translation>Markaz %1 va %2_%3 chiziq bilan kesishgan nuqta</translation>
     </message>
     <message>
         <source>Point Intersect Line %1_%2 &amp; Perpendicular %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta kesishgan chiziq %1_%2 va perpendikulyar %3</translation>
     </message>
     <message>
         <source>Point Intersect Axis %1_%2 &amp; Triangle points %3 and %4</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta kesishish oʻqi %1_%2 va uchburchak nuqtalari %3 va %4</translation>
     </message>
     <message>
         <source>Point Intersect XY of points %1 and %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta %1 va %2 nuqtalarni XY bilan kesishadi</translation>
     </message>
     <message>
         <source>Point On Arc</source>
-        <translation type="unfinished"></translation>
+        <translation>Yoy ustidagi nuqta</translation>
     </message>
     <message>
         <source>Point On Curve</source>
-        <translation type="unfinished"></translation>
+        <translation>Egri chiziqdagi nuqta</translation>
     </message>
     <message>
         <source>Point On Spline</source>
-        <translation type="unfinished"></translation>
+        <translation>Spline ustidagi nuqta</translation>
     </message>
     <message>
         <source>%Point Intersect Line &amp; %1_%2 and Axis through point %3</source>
-        <translation type="unfinished"></translation>
+        <translation>%Nuqta kesishgan chiziq va %1_%2 va %3 nuqtadan oʻtuvchi oʻq</translation>
     </message>
     <message>
         <source>Point Intersect Curve &amp; Axis through point %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta kesishgan egri chiziq va eksa % 1 nuqta orqali</translation>
     </message>
     <message>
         <source>Point Intersect Arcs</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta kesishgan yoylar</translation>
     </message>
     <message>
         <source>%1 - Point Intersect Circles</source>
-        <translation type="unfinished"></translation>
+        <translation>% 1 - nuqta kesishgan doiralar</translation>
     </message>
     <message>
         <source>Point Intersect Curves</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqtalarni kesishgan egri chiziqlar</translation>
     </message>
     <message>
         <source>Point Intersect Circle &amp; Tangent</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqtaning kesishgan doirasi va tangensi</translation>
     </message>
     <message>
         <source>Point Intersect Arc &amp; Tangent</source>
-        <translation type="unfinished"></translation>
+        <translation>Yoy va tangensni kesishgan nuqta</translation>
     </message>
     <message>
         <source>True Dart %1_%2_%3</source>
-        <translation type="unfinished"></translation>
+        <translation>Haqiqiy Dart %1_%2_%3</translation>
     </message>
     <message>
         <source>ElArc_</source>
-        <translation type="unfinished"></translation>
+        <translation>ElArc_</translation>
     </message>
     <message>
         <source>Arc Elliptical with length %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Uzunligi %1 boʻlgan elliptik yoy</translation>
     </message>
     <message>
         <source>Rotation around point %1. Suffix %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 nuqta atrofida aylanish.Suffiks %2</translation>
     </message>
     <message>
         <source>Mirror by Line %1_%2. Suffix %3</source>
-        <translation type="unfinished"></translation>
+        <translation>%1_%2 satr boʻyicha aks ettirish.Suffiks %3</translation>
     </message>
     <message>
         <source>Mirror by Axis through %1 point. Suffix %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 nuqta orqali oʻq boʻyicha aks ettirish.Suffiks %2</translation>
     </message>
     <message>
         <source>Move - rotate around point %1. Suffix %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Ko‘chirish - % 1 nuqta atrofida aylantirish.Suffiks %2</translation>
     </message>
     <message>
         <source>Description</source>
@@ -4444,43 +4449,43 @@ Do you want to download it?</source>
     </message>
     <message>
         <source>Point Length and Angle from point %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta uzunligi va % 1 nuqtadan burchak</translation>
     </message>
     <message>
-        <source>Can&apos;t create record.</source>
-        <translation type="unfinished"></translation>
+        <source>Can't create record.</source>
+        <translation>Yozuv yaratib bo‘lmadi.</translation>
     </message>
     <message>
         <source>Find previous</source>
-        <translation type="unfinished"></translation>
+        <translation>Avvalgisini toping</translation>
     </message>
     <message>
         <source>Find next</source>
-        <translation type="unfinished"></translation>
+        <translation>Keyingisini toping</translation>
     </message>
     <message>
         <source>Case sensitive</source>
-        <translation type="unfinished"></translation>
+        <translation>Harflar katta-kichikligiga sezgir</translation>
     </message>
     <message>
         <source>Search by full word</source>
-        <translation type="unfinished"></translation>
+        <translation>To'liq so'z bo'yicha qidirish</translation>
     </message>
     <message>
         <source>Seach by regular expression</source>
-        <translation type="unfinished"></translation>
+        <translation>Muntazam ifoda bo'yicha qidirish</translation>
     </message>
     <message>
         <source>Draft Block:</source>
-        <translation type="unfinished"></translation>
+        <translation>Blok qoralama:</translation>
     </message>
     <message>
         <source>block</source>
-        <translation type="unfinished"></translation>
+        <translation>blok</translation>
     </message>
     <message>
         <source>Radius / Length</source>
-        <translation type="unfinished"></translation>
+        <translation>Radius / uzunlik</translation>
     </message>
     <message>
         <source>Angle</source>
@@ -4488,7 +4493,7 @@ Do you want to download it?</source>
     </message>
     <message>
         <source>Arc with Radius, Length, and Angle</source>
-        <translation type="unfinished"></translation>
+        <translation>Radius, uzunlik va burchak bilan yoy</translation>
     </message>
     <message>
         <source>Center point</source>
@@ -4499,7 +4504,7 @@ Do you want to download it?</source>
     <name>ImageDialog</name>
     <message>
         <source>Image Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Rasm xususiyatlari</translation>
     </message>
     <message>
         <source>Selection</source>
@@ -4507,11 +4512,11 @@ Do you want to download it?</source>
     </message>
     <message>
         <source>Id:</source>
-        <translation type="unfinished"></translation>
+        <translation>Identifikator:</translation>
     </message>
     <message>
         <source>Id</source>
-        <translation type="unfinished"></translation>
+        <translation>Id</translation>
     </message>
     <message>
         <source>Name:</source>
@@ -4519,7 +4524,7 @@ Do you want to download it?</source>
     </message>
     <message>
         <source>Lock Image:</source>
-        <translation type="unfinished"></translation>
+        <translation>Rasmni qulflash:</translation>
     </message>
     <message>
         <source>Geometry</source>
@@ -4527,27 +4532,27 @@ Do you want to download it?</source>
     </message>
     <message>
         <source>Switch between px and pattern units</source>
-        <translation type="unfinished"></translation>
+        <translation>Px va andoza birliklari o'rtasida almashish</translation>
     </message>
     <message>
         <source>Unit:</source>
-        <translation type="unfinished"></translation>
+        <translation>Birlik:</translation>
     </message>
     <message>
         <source>X Position:</source>
-        <translation type="unfinished"></translation>
+        <translation>X pozitsiyasi:</translation>
     </message>
     <message>
         <source>Y Position:</source>
-        <translation type="unfinished"></translation>
+        <translation>Y pozitsiyasi:</translation>
     </message>
     <message>
         <source>Lock aspect ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>Qulf tomon nisbati</translation>
     </message>
     <message>
         <source>Lock Aspect:</source>
-        <translation type="unfinished"></translation>
+        <translation>Qulflash tomoni:</translation>
     </message>
     <message>
         <source>Width:</source>
@@ -4559,11 +4564,11 @@ Do you want to download it?</source>
     </message>
     <message>
         <source>X Scale:</source>
-        <translation type="unfinished"></translation>
+        <translation>X shkalasi:</translation>
     </message>
     <message>
         <source>Y Scale:</source>
-        <translation type="unfinished"></translation>
+        <translation>Y shkalasi:</translation>
     </message>
     <message>
         <source>Rotation:</source>
@@ -4575,38 +4580,38 @@ Do you want to download it?</source>
     </message>
     <message>
         <source>Opacity:</source>
-        <translation type="unfinished"></translation>
+        <translation>Shaffoflik:</translation>
     </message>
 </context>
 <context>
     <name>ImageItem</name>
     <message>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Xususiyatlari</translation>
     </message>
     <message>
         <source>Lock</source>
-        <translation type="unfinished"></translation>
+        <translation>Qulflash</translation>
     </message>
     <message>
         <source>Order</source>
-        <translation type="unfinished"></translation>
+        <translation>Buyurtma</translation>
     </message>
     <message>
         <source>Bring to top</source>
-        <translation type="unfinished"></translation>
+        <translation>Yuqoriga olib keling</translation>
     </message>
     <message>
         <source>Move up</source>
-        <translation type="unfinished"></translation>
+        <translation>Yuqoriga siljiting</translation>
     </message>
     <message>
         <source>Move down</source>
-        <translation type="unfinished"></translation>
+        <translation>Pastga siljiting</translation>
     </message>
     <message>
         <source>Send to bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Pastga yuboring</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -4614,54 +4619,54 @@ Do you want to download it?</source>
     </message>
     <message>
         <source>&lt;b&gt;Image (%7)&lt;/b&gt;: Size(%2%1, %3%1); Pos(%4%1, %5%1); Rot(%6°)%8</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Rasm (%7)&lt;/b&gt;: Hajmi (%2%1, %3%1);Pos(%4%1, %5%1);Rot(%6°)%8</translation>
     </message>
     <message>
         <source> - &lt;b&gt;Aspect ratio locked&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>- &lt;b&gt;To'p nisbati qulflangan&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Move Origin</source>
-        <translation type="unfinished"></translation>
+        <translation>Origini ko'chiring</translation>
     </message>
 </context>
 <context>
     <name>ImageTool</name>
     <message>
         <source>Import Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Tasvirni import qilish</translation>
     </message>
     <message>
         <source>Could not load the image.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tasvirni yuklab bo‘lmadi.</translation>
     </message>
     <message>
         <source>Could not read the image.</source>
-        <translation type="unfinished"></translation>
+        <translation>Rasmni oʻqib boʻlmadi.</translation>
     </message>
     <message>
         <source>File may be corrupted...</source>
-        <translation type="unfinished"></translation>
+        <translation>Fayl buzilgan bo'lishi mumkin ...</translation>
     </message>
     <message>
         <source>Confirm deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Oʻchirishni tasdiqlang</translation>
     </message>
     <message>
         <source>Do you really want to delete?</source>
-        <translation type="unfinished"></translation>
+        <translation>Haqiqatan ham o'chirmoqchimisiz?</translation>
     </message>
     <message>
         <source>The image &lt;br/&gt;&lt;br/&gt; &lt;b&gt;%1&lt;/b&gt; &lt;br/&gt;&lt;br/&gt; could not be found. Do you want to update the file location?</source>
-        <translation type="unfinished"></translation>
+        <translation>Rasm &lt;br/&gt;&lt;br/&gt; &lt;b&gt;%1&lt;/b&gt; &lt;br/&gt;&lt;br/&gt; topilmadi.Fayl joylashuvini yangilashni xohlaysizmi?</translation>
     </message>
     <message>
         <source>Loading image</source>
-        <translation type="unfinished"></translation>
+        <translation>Rasm yuklanmoqda</translation>
     </message>
     <message>
         <source>No image was selected...</source>
-        <translation type="unfinished"></translation>
+        <translation>Hech qanday rasm tanlanmagan...</translation>
     </message>
 </context>
 <context>
@@ -4676,15 +4681,15 @@ Do you want to download it?</source>
     </message>
     <message>
         <source>Nodes:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tugunlar:</translation>
     </message>
     <message>
         <source>Status:</source>
-        <translation type="unfinished"></translation>
+        <translation>Holati:</translation>
     </message>
     <message>
         <source>msg</source>
-        <translation type="unfinished"></translation>
+        <translation>msg</translation>
     </message>
     <message>
         <source>Reverse</source>
@@ -4700,31 +4705,31 @@ Do you want to download it?</source>
     </message>
     <message>
         <source>Slit</source>
-        <translation type="unfinished"></translation>
+        <translation>Yoriq</translation>
     </message>
     <message>
         <source>TNotch</source>
-        <translation type="unfinished"></translation>
+        <translation>TNotch</translation>
     </message>
     <message>
         <source>UNotch</source>
-        <translation type="unfinished"></translation>
+        <translation>UNNotch</translation>
     </message>
     <message>
         <source>VInternal</source>
-        <translation type="unfinished"></translation>
+        <translation>Vichki</translation>
     </message>
     <message>
         <source>VExternal</source>
-        <translation type="unfinished"></translation>
+        <translation>VTashqi</translation>
     </message>
     <message>
         <source>Castle</source>
-        <translation type="unfinished"></translation>
+        <translation>Qal'a</translation>
     </message>
     <message>
         <source>Diamond</source>
-        <translation type="unfinished"></translation>
+        <translation>Olmos</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -4732,26 +4737,26 @@ Do you want to download it?</source>
     </message>
     <message>
         <source>No nodes selected. Press Cancel to continue</source>
-        <translation type="unfinished"></translation>
+        <translation>Hech qanday tugun tanlanmagan.Davom etish uchun Bekor qilish tugmasini bosing</translation>
     </message>
     <message>
         <source> was auto reversed.</source>
-        <translation type="unfinished"></translation>
+        <translation>avtomatik teskari edi.</translation>
     </message>
     <message>
         <source> may need to be manually reversed.</source>
-        <translation type="unfinished"></translation>
+        <translation>qo'lda orqaga qaytarish kerak bo'lishi mumkin.</translation>
     </message>
     <message>
         <source>Insert Nodes</source>
-        <translation type="unfinished"></translation>
+        <translation>Tugunlarni kiritish</translation>
     </message>
 </context>
 <context>
     <name>InternalPathDialog</name>
     <message>
         <source>Internal Path Tool</source>
-        <translation type="unfinished"></translation>
+        <translation>Ichki yo'l vositasi</translation>
     </message>
     <message>
         <source>Path</source>
@@ -4783,31 +4788,31 @@ Do you want to download it?</source>
     </message>
     <message>
         <source>Move row to top of list</source>
-        <translation type="unfinished"></translation>
+        <translation>Qatorni roʻyxatning tepasiga oʻtkazing</translation>
     </message>
     <message>
         <source>Move row up one row</source>
-        <translation type="unfinished"></translation>
+        <translation>Qatorni bir qator yuqoriga siljiting</translation>
     </message>
     <message>
         <source>Move row down one row</source>
-        <translation type="unfinished"></translation>
+        <translation>Qatorni bir qator pastga siljiting</translation>
     </message>
     <message>
         <source>Move row to bottom of list</source>
-        <translation type="unfinished"></translation>
+        <translation>Qatorni roʻyxatning oxiriga oʻtkazing</translation>
     </message>
     <message>
         <source>The path is a cut contour</source>
-        <translation type="unfinished"></translation>
+        <translation>Yo'l kesilgan konturdir</translation>
     </message>
     <message>
         <source>Cut on fabric</source>
-        <translation type="unfinished"></translation>
+        <translation>Mato ustiga kesib oling</translation>
     </message>
     <message>
         <source>Status:</source>
-        <translation type="unfinished"></translation>
+        <translation>Holati:</translation>
     </message>
     <message>
         <source>Ready!</source>
@@ -4879,35 +4884,35 @@ Do you want to download it?</source>
     </message>
     <message>
         <source>Slit</source>
-        <translation type="unfinished"></translation>
+        <translation>Yoriq</translation>
     </message>
     <message>
         <source>T Notch</source>
-        <translation type="unfinished"></translation>
+        <translation>T Notch</translation>
     </message>
     <message>
         <source>U Notch</source>
-        <translation type="unfinished"></translation>
+        <translation>U Notch</translation>
     </message>
     <message>
         <source>V Internal</source>
-        <translation type="unfinished"></translation>
+        <translation>V Ichki</translation>
     </message>
     <message>
         <source>V External</source>
-        <translation type="unfinished"></translation>
+        <translation>V Tashqi</translation>
     </message>
     <message>
         <source>Castle</source>
-        <translation type="unfinished"></translation>
+        <translation>Qal'a</translation>
     </message>
     <message>
         <source>Diamond</source>
-        <translation type="unfinished"></translation>
+        <translation>Olmos</translation>
     </message>
     <message>
         <source>Sub Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Sub turi</translation>
     </message>
     <message>
         <source>Straightforward</source>
@@ -4919,7 +4924,7 @@ Do you want to download it?</source>
     </message>
     <message>
         <source>Select to designate the corner point as a notch</source>
-        <translation type="unfinished"></translation>
+        <translation>Burchak nuqtasini tirqish sifatida belgilash uchun tanlang</translation>
     </message>
     <message>
         <source>Intersection</source>
@@ -4927,35 +4932,35 @@ Do you want to download it?</source>
     </message>
     <message>
         <source>Geomtery</source>
-        <translation type="unfinished"></translation>
+        <translation>Geometriya</translation>
     </message>
     <message>
         <source>Reset notch angle to default.</source>
-        <translation type="unfinished"></translation>
+        <translation>Teshik burchagini standart holatga qaytaring.</translation>
     </message>
     <message>
         <source>Count:</source>
-        <translation type="unfinished"></translation>
+        <translation>Hisob:</translation>
     </message>
     <message>
         <source>Reset notch with to default.</source>
-        <translation type="unfinished"></translation>
+        <translation>Teshikni asl holatiga qaytaring.</translation>
     </message>
     <message>
         <source>This option has effect only if the second notch on seam line is enabled in global preferences. The option helps disable the second notch for this notch only.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ushbu parametr, agar tikuv chizig'idagi ikkinchi chiziq global afzalliklarga ega bo'lsa, ta'sir qiladi.Variant faqat ushbu chiziq uchun ikkinchi tirqishni o'chirishga yordam beradi.</translation>
     </message>
     <message>
         <source>Show second notch on seam line</source>
-        <translation type="unfinished"></translation>
+        <translation>Tikuv chizig'ida ikkinchi tirqishni ko'rsating</translation>
     </message>
     <message>
         <source>Reset notch length to default.</source>
-        <translation type="unfinished"></translation>
+        <translation>Teshik uzunligini standart holatga qaytaring.</translation>
     </message>
     <message>
         <source> Width:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kengligi:</translation>
     </message>
     <message>
         <source>Length:</source>
@@ -4963,7 +4968,7 @@ Do you want to download it?</source>
     </message>
     <message>
         <source>Select main path objects, Use &lt;b&gt;SHIFT&lt;/b&gt; to reverse curve direction, Press &lt;b&gt;ENTER&lt;/b&gt; to finish path creation </source>
-        <translation type="unfinished"></translation>
+        <translation>Asosiy yoʻl obyektlarini tanlang, egri chiziq yoʻnalishini teskari oʻzgartirish uchun &lt;b&gt;SHIFT&lt;/b&gt; tugmasidan foydalaning, yoʻlni yaratishni tugatish uchun &lt;b&gt;ENTER&lt;/b&gt; tugmasini bosing.</translation>
     </message>
     <message>
         <source>Reverse</source>
@@ -5031,26 +5036,26 @@ Do you want to download it?</source>
     </message>
     <message>
         <source>Extend end point</source>
-        <translation type="unfinished"></translation>
+        <translation>Yakuniy nuqtani kengaytiring</translation>
     </message>
     <message>
         <source>Extend start point</source>
-        <translation type="unfinished"></translation>
+        <translation>Boshlanish nuqtasini kengaytiring</translation>
     </message>
     <message>
         <source>List of pieces is empty!</source>
-        <translation type="unfinished"></translation>
+        <translation>Qismlar ro'yxati bo'sh!</translation>
     </message>
     <message>
         <source>Please, select a piece to insert into!</source>
-        <translation type="unfinished"></translation>
+        <translation>Iltimos, qo'yish uchun qismni tanlang!</translation>
     </message>
 </context>
 <context>
     <name>InternalStrings</name>
     <message>
         <source>The program is provided AS IS with NO WARRANTY OF ANY KIND, INCLUDING THE WARRANTY OF DESIGN, MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dastur HAR QANDAY KAFOLAT BERILMAYDI, JUMLADAN DIZAYN, SOTISH VA MAXSUS MAQSADGA MUVOFIQLIK KAFOLATI.</translation>
     </message>
     <message>
         <source>Seamly2D is an application for computer-aided design of garment patterns.
@@ -5064,7 +5069,17 @@ All brand or product names are trademarks or registered trademarks of their resp
 Portions of this software © 2008-2026 The Qt Company Ltd.
 
 The program is provided AS IS with NO WARRANTY OF ANY KIND, INCLUDING THE WARRANTY OF DESIGN, MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seamly2D - bu kiyim andozalarini kompyuter yordamida loyihalash uchun dastur.
+
+Seamly2D bepul (ochiq kodli) dasturdir.
+
+Barcha tovar yoki mahsulot nomlari tegishli egalarining savdo belgilari yoki ro'yxatdan o'tgan savdo belgilaridir.
+
+© 2017-2026 Seamly2D loyihasi.
+
+Ushbu dasturiy ta'minot qismlari © 2008-2026 The Qt Company Ltd.
+
+Dastur HAR QANDAY KAFOLAT BERILMAYDI, JUMLADAN DIZAYN, SOTISH VA MAXSUS MAQSADGA MUVOFIQLIK KAFOLATI.</translation>
     </message>
 </context>
 <context>
@@ -5118,12 +5133,12 @@ The program is provided AS IS with NO WARRANTY OF ANY KIND, INCLUDING THE WARRAN
         <translation>Error</translation>
     </message>
     <message>
-        <source>Radius can&apos;t be negative</source>
-        <translation>Radius can&apos;t be negative</translation>
+        <source>Radius can't be negative</source>
+        <translation>Radius can't be negative</translation>
     </message>
     <message>
         <source>Point - Intersect Circle and Tangent</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta - aylana va tangensni kesish</translation>
     </message>
     <message>
         <source>Unique name</source>
@@ -5142,11 +5157,11 @@ The program is provided AS IS with NO WARRANTY OF ANY KIND, INCLUDING THE WARRAN
     <name>IntersectCircleTangentTool</name>
     <message>
         <source>Intersect Circle and Tangent</source>
-        <translation type="unfinished"></translation>
+        <translation>Aylana va tangensni kesish</translation>
     </message>
     <message>
-        <source>&lt;b&gt;&lt;big&gt;Can&apos;t find intersection point %1 of&lt;/big&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;&lt;big&gt;Circle and Tangent&lt;/big&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Using origin point as a place holder until pattern is corrected.</source>
-        <translation type="unfinished"></translation>
+        <source>&lt;b&gt;&lt;big&gt;Can't find intersection point %1 of&lt;/big&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;&lt;big&gt;Circle and Tangent&lt;/big&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Using origin point as a place holder until pattern is corrected.</source>
+        <translation>&lt;b&gt;&lt;big&gt;&lt;/big&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;&lt;big&gt;Dira va tangensning %1 kesishish nuqtasi topilmadi&lt;/big&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;andoza tuzatilmaguncha boshlang‘ich nuqtadan joy ushlagich sifatida foydalanish.</translation>
     </message>
 </context>
 <context>
@@ -5165,11 +5180,11 @@ The program is provided AS IS with NO WARRANTY OF ANY KIND, INCLUDING THE WARRAN
     </message>
     <message>
         <source>Circle 1</source>
-        <translation type="unfinished"></translation>
+        <translation>1-doira</translation>
     </message>
     <message>
         <source>Center:</source>
-        <translation type="unfinished"></translation>
+        <translation>Markaz:</translation>
     </message>
     <message>
         <source>Radius:</source>
@@ -5193,7 +5208,7 @@ The program is provided AS IS with NO WARRANTY OF ANY KIND, INCLUDING THE WARRAN
     </message>
     <message>
         <source>Circle 2</source>
-        <translation type="unfinished"></translation>
+        <translation>2-doira</translation>
     </message>
     <message>
         <source>Select second circle center</source>
@@ -5212,12 +5227,12 @@ The program is provided AS IS with NO WARRANTY OF ANY KIND, INCLUDING THE WARRAN
         <translation>Error</translation>
     </message>
     <message>
-        <source>Radius can&apos;t be negative</source>
-        <translation>Radius can&apos;t be negative</translation>
+        <source>Radius can't be negative</source>
+        <translation>Radius can't be negative</translation>
     </message>
     <message>
         <source>Point - Intersect Circles</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta - kesishgan doiralar</translation>
     </message>
     <message>
         <source>Unique name</source>
@@ -5235,19 +5250,19 @@ The program is provided AS IS with NO WARRANTY OF ANY KIND, INCLUDING THE WARRAN
 <context>
     <name>IntersectCirclesTool</name>
     <message>
-        <source>&lt;b&gt;&lt;big&gt;Can&apos;t find intersection point %1 of Circles&lt;/big&gt;&lt;/b&gt;&lt;br&gt;Using origin point as a place holder until pattern is corrected.</source>
-        <translation type="unfinished"></translation>
+        <source>&lt;b&gt;&lt;big&gt;Can't find intersection point %1 of Circles&lt;/big&gt;&lt;/b&gt;&lt;br&gt;Using origin point as a place holder until pattern is corrected.</source>
+        <translation>&lt;b&gt;&lt;big&gt;Doiralarning %1 kesishish nuqtasi topilmadi&lt;/big&gt;&lt;/b&gt;&lt;br&gt;andoza tuzatilmaguncha boshlang'ich nuqtadan joy ushlagich sifatida foydalanish.</translation>
     </message>
     <message>
         <source>Point Intersect Circles</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqtalarni kesishgan doiralar</translation>
     </message>
 </context>
 <context>
     <name>LayoutSettingsDialog</name>
     <message>
         <source>Templates:</source>
-        <translation type="unfinished"></translation>
+        <translation>Shablonlar:</translation>
     </message>
     <message>
         <source>Width:</source>
@@ -5259,55 +5274,55 @@ The program is provided AS IS with NO WARRANTY OF ANY KIND, INCLUDING THE WARRAN
     </message>
     <message>
         <source>Rotate workpiece</source>
-        <translation type="unfinished"></translation>
+        <translation>Ish qismini aylantiring</translation>
     </message>
     <message>
         <source>Rotate by</source>
-        <translation type="unfinished"></translation>
+        <translation>tomonidan aylantiring</translation>
     </message>
     <message>
         <source>degree</source>
-        <translation type="unfinished"></translation>
+        <translation>daraja</translation>
     </message>
     <message>
         <source>Three groups: big, middle, small</source>
-        <translation type="unfinished"></translation>
+        <translation>Uch guruh: katta, o'rta, kichik</translation>
     </message>
     <message>
         <source>Two groups: big, small</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikki guruh: katta, kichik</translation>
     </message>
     <message>
         <source>Descending area</source>
-        <translation type="unfinished"></translation>
+        <translation>Pastga tushish maydoni</translation>
     </message>
     <message>
         <source>Centimeters</source>
-        <translation type="unfinished"></translation>
+        <translation>Santimetr</translation>
     </message>
     <message>
         <source>Inches</source>
-        <translation type="unfinished"></translation>
+        <translation>dyuym</translation>
     </message>
     <message>
         <source>Pixels</source>
-        <translation type="unfinished"></translation>
+        <translation>Piksellar</translation>
     </message>
     <message>
         <source>Auto crop unused length</source>
-        <translation type="unfinished"></translation>
+        <translation>Foydalanilmayotgan uzunlikni avtomatik kesish</translation>
     </message>
     <message>
         <source>Unite pages (if possible)</source>
-        <translation type="unfinished"></translation>
+        <translation>Sahifalarni birlashtirish (iloji bo'lsa)</translation>
     </message>
     <message>
         <source>Gap width:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bo'shliq kengligi:</translation>
     </message>
     <message>
         <source>Save length of the sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Varaq uzunligini saqlang</translation>
     </message>
     <message>
         <source>Paper format</source>
@@ -5331,7 +5346,7 @@ The program is provided AS IS with NO WARRANTY OF ANY KIND, INCLUDING THE WARRAN
     </message>
     <message>
         <source>Wrong fields.</source>
-        <translation type="unfinished"></translation>
+        <translation>Noto'g'ri maydonlar.</translation>
     </message>
     <message>
         <source>
@@ -5345,35 +5360,35 @@ The program is provided AS IS with NO WARRANTY OF ANY KIND, INCLUDING THE WARRAN
     </message>
     <message>
         <source>Layout options</source>
-        <translation type="unfinished"></translation>
+        <translation>Tartib variantlari</translation>
     </message>
     <message>
         <source>Shift/Offset length:</source>
-        <translation type="unfinished"></translation>
+        <translation>Shift/Ofset uzunligi:</translation>
     </message>
     <message>
         <source>Rule for choosing the next workpiece</source>
-        <translation type="unfinished"></translation>
+        <translation>Keyingi ish qismini tanlash qoidasi</translation>
     </message>
     <message>
         <source>Divide into strips</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiziqlarga bo'ling</translation>
     </message>
     <message>
         <source>Multiplier</source>
-        <translation type="unfinished"></translation>
+        <translation>Multiplikator</translation>
     </message>
     <message>
         <source>Set multiplier for length of the biggest workpiece in layout.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tartibdagi eng katta ish qismi uzunligi uchun multiplikatorni o'rnating.</translation>
     </message>
     <message>
         <source>Enabling for sheets that have big height will speed up creating.</source>
-        <translation type="unfinished"></translation>
+        <translation>Katta balandlikdagi varaqlarni yoqish yaratishni tezlashtiradi.</translation>
     </message>
     <message>
         <source>Printer:</source>
-        <translation type="unfinished"></translation>
+        <translation>Printer:</translation>
     </message>
     <message>
         <source>None</source>
@@ -5382,73 +5397,73 @@ The program is provided AS IS with NO WARRANTY OF ANY KIND, INCLUDING THE WARRAN
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Matn</translation>
     </message>
     <message>
         <source>Text will be converted to paths</source>
-        <translation type="unfinished"></translation>
+        <translation>Matn yo'llarga aylantiriladi</translation>
     </message>
     <message>
         <source>Export text as paths</source>
-        <translation type="unfinished"></translation>
+        <translation>Matnni yo'llar sifatida eksport qiling</translation>
     </message>
     <message>
         <source>Margins</source>
-        <translation type="unfinished"></translation>
+        <translation>Chegaralar</translation>
     </message>
     <message>
         <source>Ignore margins</source>
-        <translation type="unfinished"></translation>
+        <translation>Chetlarga e'tibor bermang</translation>
     </message>
     <message>
         <source>Layout print settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Chop etish tartibi sozlamalari</translation>
     </message>
     <message>
         <source>Millimeters</source>
-        <translation type="unfinished"></translation>
+        <translation>Millimetr</translation>
     </message>
     <message>
         <source>Margins go beyond printing. Apply settings anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>Cheklar chop etishdan tashqariga chiqadi.Sozlamalar qo‘llanilsinmi?</translation>
     </message>
 </context>
 <context>
     <name>LineTypeComboBox</name>
     <message>
         <source>No Pen</source>
-        <translation type="unfinished"></translation>
+        <translation>Qalam yo'q</translation>
     </message>
     <message>
         <source>Solidline</source>
-        <translation type="unfinished"></translation>
+        <translation>Qattiq chiziq</translation>
     </message>
     <message>
         <source>Dash</source>
-        <translation type="unfinished"></translation>
+        <translation>Dash</translation>
     </message>
     <message>
         <source>Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta</translation>
     </message>
     <message>
         <source>Dash Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiziqli nuqta</translation>
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiziqli nuqta</translation>
     </message>
 </context>
 <context>
     <name>MainWindow</name>
     <message>
         <source>Seamly2D</source>
-        <translation type="unfinished"></translation>
+        <translation>Seamly2D</translation>
     </message>
     <message>
         <source>Tools for creating points.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqtalarni yaratish uchun vositalar.</translation>
     </message>
     <message>
         <source>Point</source>
@@ -5456,7 +5471,7 @@ The program is provided AS IS with NO WARRANTY OF ANY KIND, INCLUDING THE WARRAN
     </message>
     <message>
         <source>Tools for creating lines.</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiziqlarni yaratish uchun asboblar.</translation>
     </message>
     <message>
         <source>Line</source>
@@ -5464,7 +5479,7 @@ The program is provided AS IS with NO WARRANTY OF ANY KIND, INCLUDING THE WARRAN
     </message>
     <message>
         <source>Tools for creating curves.</source>
-        <translation type="unfinished"></translation>
+        <translation>Egri chiziqlar yaratish uchun asboblar.</translation>
     </message>
     <message>
         <source>Curve</source>
@@ -5472,7 +5487,7 @@ The program is provided AS IS with NO WARRANTY OF ANY KIND, INCLUDING THE WARRAN
     </message>
     <message>
         <source>Tools for creating arcs.</source>
-        <translation type="unfinished"></translation>
+        <translation>Yoylarni yaratish uchun asboblar.</translation>
     </message>
     <message>
         <source>Arc</source>
@@ -5480,11 +5495,11 @@ The program is provided AS IS with NO WARRANTY OF ANY KIND, INCLUDING THE WARRAN
     </message>
     <message>
         <source>&amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Fayl</translation>
     </message>
     <message>
         <source>&amp;Help</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Yordam</translation>
     </message>
     <message>
         <source>Measurements</source>
@@ -5492,43 +5507,43 @@ The program is provided AS IS with NO WARRANTY OF ANY KIND, INCLUDING THE WARRAN
     </message>
     <message>
         <source>New</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangi</translation>
     </message>
     <message>
         <source>&amp;New</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Yangi</translation>
     </message>
     <message>
         <source>Create a new pattern</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangi andoza yarating</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Ochiq</translation>
     </message>
     <message>
         <source>&amp;Open</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ochish</translation>
     </message>
     <message>
         <source>Open file with pattern</source>
-        <translation type="unfinished"></translation>
+        <translation>andozali faylni oching</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Saqlash</translation>
     </message>
     <message>
         <source>Save pattern</source>
-        <translation type="unfinished"></translation>
+        <translation>Shaklni saqlang</translation>
     </message>
     <message>
         <source>Save As...</source>
-        <translation type="unfinished"></translation>
+        <translation>Boshqa saqlash...</translation>
     </message>
     <message>
         <source>Save not yet saved pattern</source>
-        <translation type="unfinished"></translation>
+        <translation>Hali saqlanmagan andozani saqlang</translation>
     </message>
     <message>
         <source>Details</source>
@@ -5536,7 +5551,7 @@ The program is provided AS IS with NO WARRANTY OF ANY KIND, INCLUDING THE WARRAN
     </message>
     <message>
         <source>Pointer tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Ko'rsatkich asboblari</translation>
     </message>
     <message>
         <source>History</source>
@@ -5544,7 +5559,7 @@ The program is provided AS IS with NO WARRANTY OF ANY KIND, INCLUDING THE WARRAN
     </message>
     <message>
         <source>About &amp;Qt</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Qt haqida</translation>
     </message>
     <message>
         <source>About Seamly2D</source>
@@ -5552,7 +5567,7 @@ The program is provided AS IS with NO WARRANTY OF ANY KIND, INCLUDING THE WARRAN
     </message>
     <message>
         <source>E&amp;xit</source>
-        <translation type="unfinished"></translation>
+        <translation>E&amp;chiqish</translation>
     </message>
     <message>
         <source>Preferences</source>
@@ -5560,19 +5575,19 @@ The program is provided AS IS with NO WARRANTY OF ANY KIND, INCLUDING THE WARRAN
     </message>
     <message>
         <source>Report bug</source>
-        <translation type="unfinished"></translation>
+        <translation>Xato haqida xabar berish</translation>
     </message>
     <message>
         <source>Show online help</source>
-        <translation type="unfinished"></translation>
+        <translation>Onlayn yordamni ko'rsatish</translation>
     </message>
     <message>
         <source>About Qt</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt haqida</translation>
     </message>
     <message>
         <source>Save as</source>
-        <translation type="unfinished"></translation>
+        <translation>Sifatida saqlash</translation>
     </message>
     <message>
         <source>Could not save file</source>
@@ -5580,39 +5595,39 @@ The program is provided AS IS with NO WARRANTY OF ANY KIND, INCLUDING THE WARRAN
     </message>
     <message>
         <source>Open file</source>
-        <translation type="unfinished"></translation>
+        <translation>Faylni ochish</translation>
     </message>
     <message>
         <source>Error parsing file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Faylni tahlil qilishda xatolik yuz berdi.</translation>
     </message>
     <message>
-        <source>Error can&apos;t convert value.</source>
-        <translation type="unfinished"></translation>
+        <source>Error can't convert value.</source>
+        <translation>Qiymatni oʻzgartirib boʻlmadi.</translation>
     </message>
     <message>
         <source>Error empty parameter.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bo'sh parametrda xato.</translation>
     </message>
     <message>
         <source>Error wrong id.</source>
-        <translation type="unfinished"></translation>
+        <translation>Xato xato identifikatori.</translation>
     </message>
     <message>
         <source>Error parsing file (std::bad_alloc).</source>
-        <translation type="unfinished"></translation>
+        <translation>Faylni tahlil qilishda xatolik yuz berdi (std::bad_alloc).</translation>
     </message>
     <message>
         <source>Bad id.</source>
-        <translation type="unfinished"></translation>
+        <translation>Yomon identifikator.</translation>
     </message>
     <message>
         <source>File saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Fayl saqlandi</translation>
     </message>
     <message>
         <source>untitled.sm2d</source>
-        <translation type="unfinished"></translation>
+        <translation>untitled.sm2d</translation>
     </message>
     <message>
         <source>The pattern has been modified.
@@ -5622,31 +5637,31 @@ Do you want to save your changes?</translation>
     </message>
     <message>
         <source>&amp;Undo</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Bekor qilish</translation>
     </message>
     <message>
         <source>&amp;Redo</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Qayta qiling</translation>
     </message>
     <message>
         <source>This file already opened in another window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu fayl allaqachon boshqa oynada ochilgan.</translation>
     </message>
     <message>
         <source>Wrong units.</source>
-        <translation type="unfinished"></translation>
+        <translation>Noto'g'ri birliklar.</translation>
     </message>
     <message>
         <source>File loaded</source>
-        <translation type="unfinished"></translation>
+        <translation>Fayl yuklandi</translation>
     </message>
     <message>
-        <source>Seamly2D didn&apos;t shut down correctly. Do you want reopen files (%1) you had open?</source>
-        <translation type="unfinished"></translation>
+        <source>Seamly2D didn't shut down correctly. Do you want reopen files (%1) you had open?</source>
+        <translation>Seamly2D to'g'ri o'chirilmadi.Siz ochgan fayllarni (%1) qayta ochishni xohlaysizmi?</translation>
     </message>
     <message>
         <source>Reopen files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fayllarni qayta oching.</translation>
     </message>
     <message>
         <source>Layout</source>
@@ -5654,7 +5669,7 @@ Do you want to save your changes?</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Sozlamalar</translation>
     </message>
     <message>
         <source>Print</source>
@@ -5662,87 +5677,87 @@ Do you want to save your changes?</translation>
     </message>
     <message>
         <source>Print tiled PDF</source>
-        <translation type="unfinished"></translation>
+        <translation>Plitkali PDF-ni chop eting</translation>
     </message>
     <message>
         <source>Split and print a layout into smaller pages (for regular printers)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tartibni kichikroq sahifalarga bo'ling va chop eting (oddiy printerlar uchun)</translation>
     </message>
     <message>
         <source>Print preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Chop etishni oldindan ko'rish</translation>
     </message>
     <message>
         <source>Print preview original layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Chop etishning asl tartibini oldindan ko'rish</translation>
     </message>
     <message>
         <source>Export Layout As...</source>
-        <translation type="unfinished"></translation>
+        <translation>Tartibni eksport qilish...</translation>
     </message>
     <message>
         <source>Layout mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Joylashtirish rejimi</translation>
     </message>
     <message>
         <source>Unsaved changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Saqlanmagan o'zgarishlar</translation>
     </message>
     <message>
         <source>Measurements loaded</source>
-        <translation type="unfinished"></translation>
+        <translation>Oʻlchovlar yuklandi</translation>
     </message>
     <message>
-        <source>You can&apos;t export empty scene.</source>
-        <translation type="unfinished"></translation>
+        <source>You can't export empty scene.</source>
+        <translation>Boʻsh sahnani eksport qila olmaysiz.</translation>
     </message>
     <message>
         <source>Measurement file contains invalid known measurement(s).</source>
-        <translation type="unfinished"></translation>
+        <translation>Oʻlchov faylida yaroqsiz maʼlum oʻlchov(lar) mavjud.</translation>
     </message>
     <message>
         <source>Measurement file has unknown format.</source>
-        <translation type="unfinished"></translation>
+        <translation>Oʻlchov fayli nomaʼlum formatga ega.</translation>
     </message>
     <message>
         <source>Measurement files types have not match.</source>
-        <translation type="unfinished"></translation>
+        <translation>Oʻlchov fayllari turlari mos kelmadi.</translation>
     </message>
     <message>
-        <source>Couldn&apos;t sync measurements.</source>
-        <translation type="unfinished"></translation>
+        <source>Couldn't sync measurements.</source>
+        <translation>Oʻlchovlarni sinxronlab boʻlmadi.</translation>
     </message>
     <message>
-        <source>Couldn&apos;t update measurements.</source>
-        <translation type="unfinished"></translation>
+        <source>Couldn't update measurements.</source>
+        <translation>O‘lchovlarni yangilab bo‘lmadi.</translation>
     </message>
     <message>
-        <source>The measurements file &apos;%1&apos; could not be found.</source>
-        <translation type="unfinished"></translation>
+        <source>The measurements file '%1' could not be found.</source>
+        <translation>'% 1' o'lchov fayli topilmadi.</translation>
     </message>
     <message>
         <source>Loading measurements file</source>
-        <translation type="unfinished"></translation>
+        <translation>O'lchovlar fayli yuklanmoqda</translation>
     </message>
     <message>
-        <source>Not supported size value &apos;%1&apos; for this pattern file.</source>
-        <translation type="unfinished"></translation>
+        <source>Not supported size value '%1' for this pattern file.</source>
+        <translation>Ushbu andoza fayli uchun “%1” o‘lcham qiymati qo‘llab-quvvatlanmaydi.</translation>
     </message>
     <message>
-        <source>Couldn&apos;t set size. File wasn&apos;t opened.</source>
-        <translation type="unfinished"></translation>
+        <source>Couldn't set size. File wasn't opened.</source>
+        <translation>Oʻlchamni oʻrnatib boʻlmadi.Fayl ochilmadi.</translation>
     </message>
     <message>
         <source>The method %1 does nothing in GUI mode</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 usuli GUI rejimida hech narsa qilmaydi</translation>
     </message>
     <message>
-        <source>Not supported height value &apos;%1&apos; for this pattern file.</source>
-        <translation type="unfinished"></translation>
+        <source>Not supported height value '%1' for this pattern file.</source>
+        <translation>Ushbu andoza fayli uchun “%1” balandlik qiymati qo‘llab-quvvatlanmaydi.</translation>
     </message>
     <message>
-        <source>Couldn&apos;t set height. File wasn&apos;t opened.</source>
-        <translation type="unfinished"></translation>
+        <source>Couldn't set height. File wasn't opened.</source>
+        <translation>Balandlikni o‘rnatib bo‘lmadi.Fayl ochilmadi.</translation>
     </message>
     <message>
         <source>Please, provide one input file.</source>
@@ -5750,67 +5765,67 @@ Do you want to save your changes?</translation>
     </message>
     <message>
         <source>Print an original layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Asl tartibni chop eting</translation>
     </message>
     <message>
         <source>Preview tiled PDF</source>
-        <translation type="unfinished"></translation>
+        <translation>Plitkali PDF-ni oldindan ko'rish</translation>
     </message>
     <message>
         <source>Print preview tiled layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Chop etishni oldindan ko'rish plitkali tartibi</translation>
     </message>
     <message>
         <source>Measurements unloaded</source>
-        <translation type="unfinished"></translation>
+        <translation>O'lchovlar tushirildi</translation>
     </message>
     <message>
-        <source>Couldn&apos;t unload measurements. Some of them are used in the pattern.</source>
-        <translation type="unfinished"></translation>
+        <source>Couldn't unload measurements. Some of them are used in the pattern.</source>
+        <translation>O‘lchovlarni olib tashlab bo‘lmadi.Ulardan ba'zilari andozada qo'llaniladi.</translation>
     </message>
     <message>
         <source>New pattern</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangi andoza</translation>
     </message>
     <message>
         <source>Open pattern</source>
-        <translation type="unfinished"></translation>
+        <translation>Ochiq andoza</translation>
     </message>
     <message>
         <source>Create/Edit measurements</source>
-        <translation type="unfinished"></translation>
+        <translation>O'lchovlarni yaratish/tahrirlash</translation>
     </message>
     <message>
         <source>Save...</source>
-        <translation type="unfinished"></translation>
+        <translation>Saqlash...</translation>
     </message>
     <message>
-        <source>Don&apos;t Save</source>
-        <translation type="unfinished"></translation>
+        <source>Don't Save</source>
+        <translation>Saqlamang</translation>
     </message>
     <message>
         <source>Locking file</source>
-        <translation type="unfinished"></translation>
+        <translation>Faylni qulflash</translation>
     </message>
     <message>
         <source>This file already opened in another window. Ignore if you want to continue (not recommended, can cause a data corruption).</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu fayl allaqachon boshqa oynada ochilgan.Agar davom etmoqchi bo'lsangiz, e'tibor bermang (tavsiya etilmaydi, ma'lumotlarning buzilishiga olib kelishi mumkin).</translation>
     </message>
     <message>
         <source>The lock file could not be created, for lack of permissions. Ignore if you want to continue (not recommended, can cause a data corruption).</source>
-        <translation type="unfinished"></translation>
+        <translation>Ruxsatlar yo'qligi sababli blokirovka faylini yaratib bo'lmadi.Agar davom etmoqchi bo'lsangiz, e'tibor bermang (tavsiya etilmaydi, ma'lumotlarning buzilishiga olib kelishi mumkin).</translation>
     </message>
     <message>
         <source>Unknown error happened, for instance a full partition prevented writing out the lock file. Ignore if you want to continue (not recommended, can cause a data corruption).</source>
-        <translation type="unfinished"></translation>
+        <translation>Noma'lum xatolik yuz berdi, masalan, to'liq bo'lim blokirovka faylini yozishga to'sqinlik qildi.Agar davom etmoqchi bo'lsangiz, e'tibor bermang (tavsiya etilmaydi, ma'lumotlarning buzilishiga olib kelishi mumkin).</translation>
     </message>
     <message>
         <source>The lock file could not be created, for lack of permissions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ruxsatlar yo'qligi sababli blokirovka faylini yaratib bo'lmadi.</translation>
     </message>
     <message>
         <source>Unknown error happened, for instance a full partition prevented writing out the lock file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Noma'lum xatolik yuz berdi, masalan, to'liq bo'lim blokirovka faylini yozishga to'sqinlik qildi.</translation>
     </message>
     <message>
         <source>Operations</source>
@@ -5818,15 +5833,15 @@ Do you want to save your changes?</translation>
     </message>
     <message>
         <source>Close pattern</source>
-        <translation type="unfinished"></translation>
+        <translation>Shaklni yopish</translation>
     </message>
     <message>
         <source>Tool pointer</source>
-        <translation type="unfinished"></translation>
+        <translation>Asbob ko'rsatgichi</translation>
     </message>
     <message>
         <source>Original zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Asl masshtab</translation>
     </message>
     <message>
         <source>Height:</source>
@@ -5838,99 +5853,99 @@ Do you want to save your changes?</translation>
     </message>
     <message>
         <source>The measurements file &lt;br/&gt;&lt;br/&gt; &lt;b&gt;%1&lt;/b&gt; &lt;br/&gt;&lt;br/&gt; could not be found. Do you want to update the file location?</source>
-        <translation type="unfinished"></translation>
+        <translation>O'lchov fayli &lt;br/&gt;&lt;br/&gt; &lt;b&gt;%1&lt;/b&gt; &lt;br/&gt;&lt;br/&gt; topilmadi.Fayl joylashuvini yangilashni xohlaysizmi?</translation>
     </message>
     <message>
-        <source>Gradation doesn&apos;t support inches</source>
-        <translation type="unfinished"></translation>
+        <source>Gradation doesn't support inches</source>
+        <translation>Gradatsiya dyuymni qo'llab-quvvatlamaydi</translation>
     </message>
     <message>
         <source>Measurements have been synced</source>
-        <translation type="unfinished"></translation>
+        <translation>O'lchovlar sinxronlashtirildi</translation>
     </message>
     <message>
         <source>The document has no write permissions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hujjatda yozish uchun ruxsat yo'q.</translation>
     </message>
     <message>
         <source>Cannot set permissions for %1 to writable.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 uchun yozish uchun ruxsatlarni o‘rnatib bo‘lmadi.</translation>
     </message>
     <message>
         <source>Could not save the file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fayl saqlanmadi.</translation>
     </message>
     <message>
         <source>Could not save the file</source>
-        <translation type="unfinished"></translation>
+        <translation>Fayl saqlanmadi</translation>
     </message>
     <message>
         <source>read only</source>
-        <translation type="unfinished"></translation>
+        <translation>faqat o'qish</translation>
     </message>
     <message>
         <source>Load Individual</source>
-        <translation type="unfinished"></translation>
+        <translation>Individual yuklash</translation>
     </message>
     <message>
         <source>Load Individual measurements file</source>
-        <translation type="unfinished"></translation>
+        <translation>Shaxsiy o'lchovlar faylini yuklang</translation>
     </message>
     <message>
         <source>Load Multisize</source>
-        <translation type="unfinished"></translation>
+        <translation>Ko'p o'lchamli yuklash</translation>
     </message>
     <message>
         <source>Load multisize measurements file</source>
-        <translation type="unfinished"></translation>
+        <translation>Ko'p o'lchamli o'lchovlar faylini yuklang</translation>
     </message>
     <message>
         <source>Open SeamlyMe</source>
-        <translation type="unfinished"></translation>
+        <translation>SeamlyMe-ni oching</translation>
     </message>
     <message>
         <source>Edit Current</source>
-        <translation type="unfinished"></translation>
+        <translation>Joriyni tahrirlash</translation>
     </message>
     <message>
         <source>Edit linked to the pattern measurements</source>
-        <translation type="unfinished"></translation>
+        <translation>andoza o'lchovlari bilan bog'langan tahrirlash</translation>
     </message>
     <message>
         <source>Sync</source>
-        <translation type="unfinished"></translation>
+        <translation>Sinxronlash</translation>
     </message>
     <message>
         <source>Synchronize linked to the pattern measurements after change</source>
-        <translation type="unfinished"></translation>
+        <translation>O'zgartirilgandan keyin andoza o'lchovlari bilan bog'langan sinxronlashtiring</translation>
     </message>
     <message>
         <source>Unload Current</source>
-        <translation type="unfinished"></translation>
+        <translation>Joriyni tushirish</translation>
     </message>
     <message>
         <source>Unload measurements if they were not used in a pattern file</source>
-        <translation type="unfinished"></translation>
+        <translation>Agar ular andoza faylida ishlatilmagan bo'lsa, o'lchovlarni tushiring</translation>
     </message>
     <message>
         <source>Individual measurements</source>
-        <translation type="unfinished"></translation>
+        <translation>Shaxsiy o'lchovlar</translation>
     </message>
     <message>
         <source>Multisize measurements</source>
-        <translation type="unfinished"></translation>
+        <translation>Ko'p o'lchamli o'lchovlar</translation>
     </message>
     <message>
         <source>Pattern files</source>
-        <translation type="unfinished"></translation>
+        <translation>Shakl fayllar</translation>
     </message>
     <message>
         <source>Wiki</source>
-        <translation type="unfinished"></translation>
+        <translation>Wiki</translation>
     </message>
     <message>
         <source>Forum</source>
-        <translation type="unfinished"></translation>
+        <translation>Forum</translation>
     </message>
     <message>
         <source>Name</source>
@@ -5945,32 +5960,32 @@ Do you want to save your changes?</translation>
         <translation>Formula</translation>
     </message>
     <message>
-        <source>You can&apos;t use Layout mode yet.</source>
-        <translation type="unfinished"></translation>
+        <source>You can't use Layout mode yet.</source>
+        <translation>Siz hali Layout rejimidan foydalana olmaysiz.</translation>
     </message>
     <message>
-        <source>Application doesn&apos;t support multisize table with inches.</source>
-        <translation type="unfinished"></translation>
+        <source>Application doesn't support multisize table with inches.</source>
+        <translation>Ilova dyuymli ko'p o'lchamli jadvalni qo'llab-quvvatlamaydi.</translation>
     </message>
     <message>
-        <source>Couldn&apos;t set size. Need a file with multisize measurements.</source>
-        <translation type="unfinished"></translation>
+        <source>Couldn't set size. Need a file with multisize measurements.</source>
+        <translation>Oʻlchamni oʻrnatib boʻlmadi.Ko'p o'lchamli o'lchovli fayl kerak.</translation>
     </message>
     <message>
-        <source>Couldn&apos;t set height. Need a file with multisize measurements.</source>
-        <translation type="unfinished"></translation>
+        <source>Couldn't set height. Need a file with multisize measurements.</source>
+        <translation>Balandlikni o‘rnatib bo‘lmadi.Ko'p o'lchamli o'lchovli fayl kerak.</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Ko‘rib chiqish</translation>
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished"></translation>
+        <translation>Ko‘rish</translation>
     </message>
     <message>
         <source>Point Names</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta nomlari</translation>
     </message>
     <message>
         <source>Edit</source>
@@ -5978,167 +5993,167 @@ Do you want to save your changes?</translation>
     </message>
     <message>
         <source>&amp;Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Asboblar</translation>
     </message>
     <message>
         <source>&amp;Operations</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Amallar</translation>
     </message>
     <message>
         <source>Piece</source>
-        <translation type="unfinished"></translation>
+        <translation>Qism</translation>
     </message>
     <message>
         <source>Utilities</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilitalar</translation>
     </message>
     <message>
         <source>File Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Fayl asboblar paneli</translation>
     </message>
     <message>
         <source>Mode ToolBar</source>
-        <translation type="unfinished"></translation>
+        <translation>Rejim asboblar paneli</translation>
     </message>
     <message>
         <source>Pattern Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Shakl asboblar paneli</translation>
     </message>
     <message>
         <source>Edit Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Asboblar panelini tahrirlash</translation>
     </message>
     <message>
         <source>Property Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Mulk muharriri</translation>
     </message>
     <message>
         <source>Layout Pages</source>
-        <translation type="unfinished"></translation>
+        <translation>Sahifalar tartibi</translation>
     </message>
     <message>
         <source>Group Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Guruh menejeri</translation>
     </message>
     <message>
         <source>Zoom ToolBar</source>
-        <translation type="unfinished"></translation>
+        <translation>Kattalashtirish asboblar paneli</translation>
     </message>
     <message>
         <source>Toolbox ToolBar</source>
-        <translation type="unfinished"></translation>
+        <translation>Asboblar paneli asboblar paneli</translation>
     </message>
     <message>
         <source>Points Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Ballar asboblar paneli</translation>
     </message>
     <message>
         <source>Lines ToolBar</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiziqlar asboblar paneli</translation>
     </message>
     <message>
         <source>Curves ToolBar</source>
-        <translation type="unfinished"></translation>
+        <translation>Egri chiziqlar asboblar paneli</translation>
     </message>
     <message>
         <source>Arcs ToolBar</source>
-        <translation type="unfinished"></translation>
+        <translation>Arcs asboblar paneli</translation>
     </message>
     <message>
         <source>Operations ToolBar</source>
-        <translation type="unfinished"></translation>
+        <translation>Operatsiyalar paneli</translation>
     </message>
     <message>
         <source>Piece ToolBar</source>
-        <translation type="unfinished"></translation>
+        <translation>Parcha asboblar paneli</translation>
     </message>
     <message>
         <source>Details ToolBar</source>
-        <translation type="unfinished"></translation>
+        <translation>Tafsilotlar paneli</translation>
     </message>
     <message>
         <source>Layout ToolBar</source>
-        <translation type="unfinished"></translation>
+        <translation>Layout asboblar paneli</translation>
     </message>
     <message>
         <source>Point Name ToolBar</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta nomi asboblar paneli</translation>
     </message>
     <message>
         <source>Toolbox</source>
-        <translation type="unfinished"></translation>
+        <translation>Asboblar qutisi</translation>
     </message>
     <message>
         <source>Line between 2 Points (Alt+L)</source>
-        <translation type="unfinished"></translation>
+        <translation>2 nuqta orasidagi chiziq (Alt+L)</translation>
     </message>
     <message>
         <source>Tools for performing operations on objects</source>
-        <translation type="unfinished"></translation>
+        <translation>Ob'ektlar ustida amallarni bajarish uchun asboblar</translation>
     </message>
     <message>
         <source>Rotate Selected Objects (R)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tanlangan obyektlarni aylantirish (R)</translation>
     </message>
     <message>
         <source>Export Draft Blocks (E, D)</source>
-        <translation type="unfinished"></translation>
+        <translation>Qoralama bloklarni eksport qilish (E, D)</translation>
     </message>
     <message>
         <source>Tools for adding pattern pieces.</source>
-        <translation type="unfinished"></translation>
+        <translation>andoza qismlarini qo'shish uchun asboblar.</translation>
     </message>
     <message>
         <source>Add Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Tafsilotlarni qo'shish</translation>
     </message>
     <message>
         <source>Tools for adding details to pattern pieces</source>
-        <translation type="unfinished"></translation>
+        <translation>andoza qismlariga tafsilotlar qo'shish uchun asboblar</translation>
     </message>
     <message>
         <source>Unite 2 Pieces (U)</source>
-        <translation type="unfinished"></translation>
+        <translation>2 dona birlashtiring (U)</translation>
     </message>
     <message>
         <source>View Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Asboblar panelini ko‘rish</translation>
     </message>
     <message>
         <source>Draft</source>
-        <translation type="unfinished"></translation>
+        <translation>Qoralama</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Mode for working with draft blocks. These draft blocks are the base for going to the next stage &amp;quot;Piece mode&amp;quot;. Before you will be able to enable the &amp;quot;Piece mode&amp;quot; you need to create at least one pattern piece.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Qoralama bloklari bilan ishlash rejimi.Ushbu qoralama bloklar keyingi bosqich &amp;quot;Piece rejimi&amp;quot;ga o'tish uchun asosdir.Siz &amp;quot;Piece rejimi&amp;quot;ni yoqishingizdan oldin;kamida bitta andoza parchasini yaratishingiz kerak.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Mode for working with pattern pieces. Before you will be able to enable the &amp;quot;Piece mode&amp;quot; you need to create at least one pattern piece on the stage &amp;quot;Draft mode&amp;quot;. Pattern pieces created on this stage will be used for creating a layout. &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;andoza qismlari bilan ishlash rejimi.Siz &amp;quot;Piece rejimi&amp;quot;ni yoqishingizdan oldin;sahnada &amp;quot;Qoralama rejimi&amp;quot;da kamida bitta andoza yaratishingiz kerak.Ushbu bosqichda yaratilgan andoza qismlari tartibni yaratish uchun ishlatiladi.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>New Draft Block</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangi qoralama blok</translation>
     </message>
     <message>
         <source>Add new draft block (Ctrl+Shift+N)</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangi qoralama blok qo‘shish (Ctrl+Shift+N)</translation>
     </message>
     <message>
         <source>Rename Draft Block</source>
-        <translation type="unfinished"></translation>
+        <translation>Qoralama blokining nomini o‘zgartiring</translation>
     </message>
     <message>
         <source>Change the name of the draft block</source>
-        <translation type="unfinished"></translation>
+        <translation>Qoralama blokining nomini o'zgartiring</translation>
     </message>
     <message>
         <source>Variables table</source>
-        <translation type="unfinished"></translation>
+        <translation>O'zgaruvchilar jadvali</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Mode for creating a layout of pattern pieces. This mode is available if at least one pattern piece was created in &amp;quot;Piece mode&amp;quot;. The layout can be exported to your preferred file format and saved.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;andoza qismlari maketini yaratish rejimi.Agar &amp;quot;Piece rejimi&amp;quot;da kamida bitta andoza bo'lagi yaratilgan bo'lsa, bu rejim mavjud.Tartibni siz tanlagan fayl formatiga eksport qilish va saqlash mumkin.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Rotation</source>
@@ -6146,11 +6161,11 @@ Do you want to save your changes?</translation>
     </message>
     <message>
         <source>Mirror by Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiziq bo'yicha ko'zgu</translation>
     </message>
     <message>
         <source>Mirror by Axis</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksa bo'yicha oyna</translation>
     </message>
     <message>
         <source>Move</source>
@@ -6158,187 +6173,187 @@ Do you want to save your changes?</translation>
     </message>
     <message>
         <source>True Darts</source>
-        <translation type="unfinished"></translation>
+        <translation>Haqiqiy Darts</translation>
     </message>
     <message>
         <source>Midpoint</source>
-        <translation type="unfinished"></translation>
+        <translation>O'rta nuqta</translation>
     </message>
     <message>
         <source>Intersect XY</source>
-        <translation type="unfinished"></translation>
+        <translation>XY bilan kesish</translation>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+C</translation>
     </message>
     <message>
         <source>Alt+S</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+S</translation>
     </message>
     <message>
         <source>Alt+A</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+A</translation>
     </message>
     <message>
         <source>Tools for inserting or modifying images.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tasvirlarni qo'shish yoki o'zgartirish uchun asboblar.</translation>
     </message>
     <message>
         <source>Point on Curve (O, C)</source>
-        <translation type="unfinished"></translation>
+        <translation>Egri chiziqdagi nuqta (O, C)</translation>
     </message>
     <message>
         <source>Exit the Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Ilovadan chiqing</translation>
     </message>
     <message>
         <source>Application Preferences...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ilova sozlamalari...</translation>
     </message>
     <message>
         <source>Pattern Preferences...</source>
-        <translation type="unfinished"></translation>
+        <translation>Shakl sozlamalari...</translation>
     </message>
     <message>
         <source>Zoom In</source>
-        <translation type="unfinished"></translation>
+        <translation>Kattalashtirish</translation>
     </message>
     <message>
         <source>In</source>
-        <translation type="unfinished"></translation>
+        <translation>In</translation>
     </message>
     <message>
         <source>Zoom In (Ctrl++)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kattalashtirish (Ctrl++)</translation>
     </message>
     <message>
         <source>Zoom Out</source>
-        <translation type="unfinished"></translation>
+        <translation>Kichraytirish</translation>
     </message>
     <message>
         <source>Out</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiqib ketdi</translation>
     </message>
     <message>
         <source>Zoom Out (Ctrl+-)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kichraytirish (Ctrl+-)</translation>
     </message>
     <message>
         <source>Fit All</source>
-        <translation type="unfinished"></translation>
+        <translation>Hammasiga mos</translation>
     </message>
     <message>
         <source>Fit</source>
-        <translation type="unfinished"></translation>
+        <translation>Fit</translation>
     </message>
     <message>
         <source>Report bug...</source>
-        <translation type="unfinished"></translation>
+        <translation>Xato haqida xabar berish...</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Yopish</translation>
     </message>
     <message>
         <source>Shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>Qisqa klavishlar</translation>
     </message>
     <message>
         <source>Last tool</source>
-        <translation type="unfinished"></translation>
+        <translation>Oxirgi vosita</translation>
     </message>
     <message>
         <source>Curve Control Points</source>
-        <translation type="unfinished"></translation>
+        <translation>Egri nazorat nuqtalari</translation>
     </message>
     <message>
         <source>Toggle Control Points and Curve Direction (V, C)</source>
-        <translation type="unfinished"></translation>
+        <translation>Boshqarish nuqtalari va egri yoʻnalishini oʻzgartirish (V, C)</translation>
     </message>
     <message>
         <source>Load multisize</source>
-        <translation type="unfinished"></translation>
+        <translation>Ko'p o'lchamli yuklash</translation>
     </message>
     <message>
         <source>Open SeamlyMe measurements app (Ctrl+M)</source>
-        <translation type="unfinished"></translation>
+        <translation>SeamlyMe o'lchovlar ilovasini oching (Ctrl+M)</translation>
     </message>
     <message>
         <source>Export Variables to CSV</source>
-        <translation type="unfinished"></translation>
+        <translation>O'zgaruvchilarni CSV ga eksport qilish</translation>
     </message>
     <message>
         <source>Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Tanlangan</translation>
     </message>
     <message>
         <source>Label Template Editor...</source>
-        <translation type="unfinished"></translation>
+        <translation>Yorliq shablon muharriri...</translation>
     </message>
     <message>
         <source>Previous</source>
-        <translation type="unfinished"></translation>
+        <translation>Oldingi</translation>
     </message>
     <message>
         <source>Zoom to Previous (Ctrl+Left)</source>
-        <translation type="unfinished"></translation>
+        <translation>Oldingisiga kattalashtirish (Ctrl+Chap)</translation>
     </message>
     <message>
         <source>Area</source>
-        <translation type="unfinished"></translation>
+        <translation>Hudud</translation>
     </message>
     <message>
         <source>Pan</source>
-        <translation type="unfinished"></translation>
+        <translation>Pan</translation>
     </message>
     <message>
         <source>Zoom to 100 percent (Ctrl+0)</source>
-        <translation type="unfinished"></translation>
+        <translation>100 foizga kattalashtirish (Ctrl+0)</translation>
     </message>
     <message>
         <source>Point Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta asboblari</translation>
     </message>
     <message>
         <source>Line Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiziq asboblari</translation>
     </message>
     <message>
         <source>Alt+L</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+L</translation>
     </message>
     <message>
         <source>Curve Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Egri asboblar</translation>
     </message>
     <message>
         <source>Arc Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Ark asboblari</translation>
     </message>
     <message>
         <source>Operations Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Operatsiya vositalari</translation>
     </message>
     <message>
         <source>Layout Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Layout Tools</translation>
     </message>
     <message>
         <source>Piece tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Bo'lak asboblar</translation>
     </message>
     <message>
         <source>New Pattern Piece</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangi andoza parchasi</translation>
     </message>
     <message>
         <source>New Print Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangi chop etish tartibi</translation>
     </message>
     <message>
         <source>Export Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Tartibni eksport qilish</translation>
     </message>
     <message>
         <source>Anchor Point</source>
@@ -6346,75 +6361,75 @@ Do you want to save your changes?</translation>
     </message>
     <message>
         <source>Internal Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Ichki yo'l</translation>
     </message>
     <message>
         <source>Insert Nodes</source>
-        <translation type="unfinished"></translation>
+        <translation>Tugunlarni kiritish</translation>
     </message>
     <message>
         <source>Unite Pieces</source>
-        <translation type="unfinished"></translation>
+        <translation>Parchalarni birlashtiring</translation>
     </message>
     <message>
         <source>Export Pieces</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksport bo'laklari</translation>
     </message>
     <message>
         <source>Detail tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Tafsilot vositalari</translation>
     </message>
     <message>
         <source>Point Name Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta nomi matni</translation>
     </message>
     <message>
         <source>Increase Text Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Matn hajmini oshirish</translation>
     </message>
     <message>
         <source>Increase Text Size (Ctrl+])</source>
-        <translation type="unfinished"></translation>
+        <translation>Matn hajmini oshirish (Ctrl+])</translation>
     </message>
     <message>
         <source>Decrease Text Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Matn hajmini kamaytirish</translation>
     </message>
     <message>
         <source>Decrease Text Size (Ctrl+[)</source>
-        <translation type="unfinished"></translation>
+        <translation>Matn hajmini kamaytirish (Ctrl+[)</translation>
     </message>
     <message>
         <source>Use Tool Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Asbob rangidan foydalaning</translation>
     </message>
     <message>
         <source>Use Tool Color (T)</source>
-        <translation type="unfinished"></translation>
+        <translation>Asbob rangidan foydalanish (T)</translation>
     </message>
     <message>
         <source>Axis Origin </source>
-        <translation type="unfinished"></translation>
+        <translation>Axis kelib chiqishi</translation>
     </message>
     <message>
         <source>Toggle Axis Origin (V, A)</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksa kelib chiqishi (V, A)</translation>
     </message>
     <message>
         <source>Wireframe Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Wireframe rejimi</translation>
     </message>
     <message>
         <source>Toggle Wireframe Mode (V, W)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ramka rejimini almashtirish (V, V)</translation>
     </message>
     <message>
         <source>Grainlines</source>
-        <translation type="unfinished"></translation>
+        <translation>Donachalar</translation>
     </message>
     <message>
         <source>Toggle Grainlines (V, G)</source>
-        <translation type="unfinished"></translation>
+        <translation>Grainlines (V, G)</translation>
     </message>
     <message>
         <source>Labels</source>
@@ -6422,7 +6437,7 @@ Do you want to save your changes?</translation>
     </message>
     <message>
         <source>Toggle Labels (V, L)</source>
-        <translation type="unfinished"></translation>
+        <translation>Yorliqlarni almashtirish (V, L)</translation>
     </message>
     <message>
         <source>Calculator</source>
@@ -6434,7 +6449,7 @@ Do you want to save your changes?</translation>
     </message>
     <message>
         <source>Export Draft Blocks</source>
-        <translation type="unfinished"></translation>
+        <translation>Qoralama bloklarini eksport qilish</translation>
     </message>
     <message>
         <source>Export</source>
@@ -6442,103 +6457,103 @@ Do you want to save your changes?</translation>
     </message>
     <message>
         <source>Seam Allowance</source>
-        <translation type="unfinished"></translation>
+        <translation>Chok haqi</translation>
     </message>
     <message>
         <source>Document Info...</source>
-        <translation type="unfinished"></translation>
+        <translation>Hujjat haqida ma'lumot...</translation>
     </message>
     <message>
         <source>Document Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Hujjat haqida ma'lumot</translation>
     </message>
     <message>
         <source>Display document Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Hujjat ma'lumotlarini ko'rsatish</translation>
     </message>
     <message>
-        <source>Measurement file doesn&apos;t include all the required measurements.</source>
-        <translation type="unfinished"></translation>
+        <source>Measurement file doesn't include all the required measurements.</source>
+        <translation>O'lchov fayli barcha kerakli o'lchovlarni o'z ichiga olmaydi.</translation>
     </message>
     <message>
         <source>&lt;b&gt;Tool::Operations - Create Group:&lt;/b&gt; Select one or more objects - Hold &lt;b&gt;%1&lt;/b&gt; for multiple selection, Press &lt;b&gt;ENTER&lt;/b&gt; to finish group creation </source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Tool::Operations - Guruh yaratish:&lt;/b&gt; Bir yoki bir nechta ob'ektni tanlang - Bir nechta tanlash uchun &lt;b&gt;%1&lt;/b&gt; tugmasini bosib turing, guruh yaratishni tugatish uchun &lt;b&gt;ENTER&lt;/b&gt; tugmasini bosing.</translation>
     </message>
     <message>
         <source>&lt;b&gt;Tool::Operations - Rotation:&lt;/b&gt; Select one or more objects - Hold &lt;b&gt;%1&lt;/b&gt; for multiple selection, Press &lt;b&gt;ENTER&lt;/b&gt; to confirm selection</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Tool::Operations - Rotation:&lt;/b&gt; Bir yoki bir nechta ob'ektni tanlang - Ko'p tanlash uchun &lt;b&gt;%1&lt;/b&gt; tugmasini bosib turing, tanlovni tasdiqlash uchun &lt;b&gt;ENTER&lt;/b&gt; tugmasini bosing</translation>
     </message>
     <message>
         <source>&lt;b&gt;Tool::Operations - Mirror by Line:&lt;/b&gt; Select one or more objects - Hold &lt;b&gt;%1&lt;/b&gt; for multiple selection, Press &lt;b&gt;ENTER&lt;/b&gt; to confirm selection</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Tool::Operations - Satr bo'yicha aks ettirish:&lt;/b&gt; Bir yoki bir nechta obyektni tanlang - Ko'p tanlov uchun &lt;b&gt;%1&lt;/b&gt; tugmasini bosib turing, tanlovni tasdiqlash uchun &lt;b&gt;ENTER&lt;/b&gt; tugmasini bosing</translation>
     </message>
     <message>
         <source>&lt;b&gt;Tool::Operations - Mirror by Axis:&lt;/b&gt; Select one or more objects - Hold &lt;b&gt;%1&lt;/b&gt; for multiple selection, Press &lt;b&gt;ENTER&lt;/b&gt; to confirm selection</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Tool::Operations - O'q bo'yicha aks ettirish:&lt;/b&gt; Bir yoki bir nechta ob'ektni tanlang - Ko'p tanlash uchun &lt;b&gt;%1&lt;/b&gt; tugmasini bosing, tanlovni tasdiqlash uchun &lt;b&gt;ENTER&lt;/b&gt; tugmasini bosing</translation>
     </message>
     <message>
         <source>&lt;b&gt;Tool::Operations - Move:&lt;/b&gt; Select one or more objects - Hold &lt;b&gt;%1&lt;/b&gt; for multiple selection, Press &lt;b&gt;ENTER&lt;/b&gt; to confirm selection</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Tool::Operations - Ko'chirish:&lt;/b&gt; Bir yoki bir nechta obyektni tanlang - Ko'p tanlov uchun &lt;b&gt;%1&lt;/b&gt; tugmasini bosib turing, tanlovni tasdiqlash uchun &lt;b&gt;ENTER&lt;/b&gt; tugmasini bosing</translation>
     </message>
     <message>
         <source>&lt;b&gt;Tool::Operations - TrueDarts:&lt;/b&gt; Select the first base line point</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Tool::Operations - TrueDarts:&lt;/b&gt; Birinchi asosiy chiziq nuqtasini tanlang</translation>
     </message>
     <message>
         <source>Could not load the image.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tasvirni yuklab bo‘lmadi.</translation>
     </message>
     <message>
         <source>Draft Block:</source>
-        <translation type="unfinished"></translation>
+        <translation>Blok qoralama:</translation>
     </message>
     <message>
         <source>Rotate</source>
-        <translation type="unfinished"></translation>
+        <translation>Aylantirish</translation>
     </message>
     <message>
         <source>Add AnchorPoint</source>
-        <translation type="unfinished"></translation>
+        <translation>AnchorPoint-ni qo'shing</translation>
     </message>
     <message>
         <source>Create Internal Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Ichki yo'lni yarating</translation>
     </message>
     <message>
         <source>Insert Nodes in Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Yo‘lga tugunlarni kiriting</translation>
     </message>
     <message>
         <source>Union Tool</source>
-        <translation type="unfinished"></translation>
+        <translation>Birlashma vositasi</translation>
     </message>
     <message>
         <source>Export Pattern Pieces</source>
-        <translation type="unfinished"></translation>
+        <translation>andoza qismlarini eksport qilish</translation>
     </message>
     <message>
         <source>Import Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Tasvirni import qilish</translation>
     </message>
     <message>
         <source>Piece mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Parcha rejimi</translation>
     </message>
     <message>
-        <source>You can&apos;t use Piece mode yet. Please, create at least one pattern piece.</source>
-        <translation type="unfinished"></translation>
+        <source>You can't use Piece mode yet. Please, create at least one pattern piece.</source>
+        <translation>Siz hali parcha rejimidan foydalana olmaysiz.Iltimos, kamida bitta andoza yarating.</translation>
     </message>
     <message>
         <source>Pattern Pieces</source>
-        <translation type="unfinished"></translation>
+        <translation>andoza qismlari</translation>
     </message>
     <message>
-        <source>You can&apos;t use Layout mode yet. Please, create at least one pattern piece.</source>
-        <translation type="unfinished"></translation>
+        <source>You can't use Layout mode yet. Please, create at least one pattern piece.</source>
+        <translation>Siz hali Layout rejimidan foydalana olmaysiz.Iltimos, kamida bitta andoza yarating.</translation>
     </message>
     <message>
-        <source>You can&apos;t use Layout mode yet. Please, include at least one pattern piece in layout.</source>
-        <translation type="unfinished"></translation>
+        <source>You can't use Layout mode yet. Please, include at least one pattern piece in layout.</source>
+        <translation>Siz hali Layout rejimidan foydalana olmaysiz.Iltimos, sxemaga kamida bitta andoza qo'shing.</translation>
     </message>
     <message>
         <source>Name:</source>
@@ -6546,335 +6561,335 @@ Do you want to save your changes?</translation>
     </message>
     <message>
         <source>Draft block.</source>
-        <translation type="unfinished"></translation>
+        <translation>Qoralama bloki.</translation>
     </message>
     <message>
         <source>Name Exists</source>
-        <translation type="unfinished"></translation>
+        <translation>Ism mavjud</translation>
     </message>
     <message>
-        <source>The action can&apos;t be completed because the Draft Block name already exists.</source>
-        <translation type="unfinished"></translation>
+        <source>The action can't be completed because the Draft Block name already exists.</source>
+        <translation>Amalni tugatib bo‘lmaydi, chunki qoralama blok nomi allaqachon mavjud.</translation>
     </message>
     <message>
-        <source>You don&apos;t have any pieces to export. Please, include at least one piece in layout.</source>
-        <translation type="unfinished"></translation>
+        <source>You don't have any pieces to export. Please, include at least one piece in layout.</source>
+        <translation>Eksport qilish uchun sizda hech qanday bo‘lak yo‘q.Iltimos, maketga kamida bitta bo'lak kiriting.</translation>
     </message>
     <message>
         <source>Export pieces</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksport bo'laklari</translation>
     </message>
     <message>
-        <source>Can&apos;t export pieces.</source>
-        <translation type="unfinished"></translation>
+        <source>Can't export pieces.</source>
+        <translation>Parchalarni eksport qilib bo‘lmaydi.</translation>
     </message>
     <message>
         <source>&lt;b&gt;Tool::Piece - Add New Pattern Piece:&lt;/b&gt; Select main path of objects clockwise.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Tool::Piece - Yangi namuna qo'shish:&lt;/b&gt; Ob'ektlarning asosiy yo'lini soat yo'nalishi bo'yicha tanlang.</translation>
     </message>
     <message>
         <source>&lt;b&gt;Tool::Piece - Add Anchor Point:&lt;/b&gt; Select anchor point</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Tool::Piece - Anchor Point qo'shish:&lt;/b&gt; Ankraj nuqtasini tanlang</translation>
     </message>
     <message>
         <source>&lt;b&gt;Tool::Piece - Internal Path:&lt;/b&gt; Select path objects, use &lt;b&gt;SHIFT&lt;/b&gt; to reverse curve direction</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Tool::Piece - Ichki yo'l:&lt;/b&gt; Yo'l ob'ektlarini tanlang, egri chiziq yo'nalishini teskari o'zgartirish uchun &lt;b&gt;SHIFT&lt;/b&gt; dan foydalaning.</translation>
     </message>
     <message>
         <source>&lt;b&gt;Tool::Piece - Insert Nodes:&lt;/b&gt; Select one or more objects - Hold &lt;b&gt;%1&lt;/b&gt; for multiple selection, Press &lt;b&gt;ENTER&lt;/b&gt; to confirm selection</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Tool::Piece - Tugunlarni qo'shish:&lt;/b&gt; Bir yoki bir nechta ob'ektni tanlang - Bir nechta tanlash uchun &lt;b&gt;%1&lt;/b&gt; tugmasini bosing, tanlashni tasdiqlash uchun &lt;b&gt;ENTER&lt;/b&gt; tugmasini bosing</translation>
     </message>
     <message>
         <source>&lt;b&gt;Tool::Details - Union:&lt;/b&gt; Select pattern piece</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Tool::Tafsilotlar - Birlashma:&lt;/b&gt; andoza qismini tanlang</translation>
     </message>
     <message>
         <source>Draft block %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Qoralama bloki % 1</translation>
     </message>
     <message>
         <source>Draft Block %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Qoralama bloki % 1</translation>
     </message>
     <message>
         <source>Point - On Bisector (O, B)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta - bissektrisada (O, B)</translation>
     </message>
     <message>
         <source>Point - Length to Line (P, S)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta - chiziq uzunligi (P, S)</translation>
     </message>
     <message>
         <source>Point - Intersect Arc and Line (A, L)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta - kesishgan yoy va chiziq (A, L)</translation>
     </message>
     <message>
         <source>Point - Intersect Axis and Triangle (X, T)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta - kesishgan o'q va uchburchak (X, T)</translation>
     </message>
     <message>
         <source>Point - Intersect XY (X, Y)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta - kesishgan XY (X, Y)</translation>
     </message>
     <message>
         <source>Point - Intersect Line and Perpendicular (L, P)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta - kesishgan chiziq va perpendikulyar (L, P)</translation>
     </message>
     <message>
         <source>Point - Intersect Line and Axis (L, X)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta - kesishgan chiziq va o'q (L, X)</translation>
     </message>
     <message>
         <source>Point - On Perpendicular (O, P)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta - Perpendikulyar (O, P)</translation>
     </message>
     <message>
         <source>Point - Length and Angle (L, A)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta - uzunlik va burchak (L, A)</translation>
     </message>
     <message>
         <source>Point - On Line (O, L)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta - Onlayn (O, L)</translation>
     </message>
     <message>
         <source>Point - Midpoint on Line (Shift+O, Shift+L)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta - chiziqning o'rta nuqtasi (Shift+O, Shift+L)</translation>
     </message>
     <message>
         <source>Point - Intersect Lines (I, L)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta - kesishgan chiziqlar (I, L)</translation>
     </message>
     <message>
         <source>Curve - Interactive (Alt+C)</source>
-        <translation type="unfinished"></translation>
+        <translation>Egri chiziq - Interaktiv (Alt+C)</translation>
     </message>
     <message>
         <source>Spline - Interactive (Alt+S)</source>
-        <translation type="unfinished"></translation>
+        <translation>Spline - Interaktiv (Alt+S)</translation>
     </message>
     <message>
         <source>Curve - Fixed (Alt+Shift+C)</source>
-        <translation type="unfinished"></translation>
+        <translation>Egri chiziq - Ruxsat etilgan (Alt+Shift+C)</translation>
     </message>
     <message>
         <source>Spline - Fixed (Alt+Shift+S)</source>
-        <translation type="unfinished"></translation>
+        <translation>Spline - Ruxsat etilgan (Alt+Shift+S)</translation>
     </message>
     <message>
         <source>Point - On Spline (O, S)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta - Splineda (O, S)</translation>
     </message>
     <message>
         <source>Point - Intersect Curves (I, C)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta - kesishgan egri chiziqlar (I, C)</translation>
     </message>
     <message>
         <source>Point - Intersect Curve and Axis (C, X)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta - kesishgan egri chiziq va o'q (C, X)</translation>
     </message>
     <message>
         <source>Point - On Curve (O, C)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta - egri chiziqda (O, C)</translation>
     </message>
     <message>
         <source>Arc - Radius and Angles (Alt+A)</source>
-        <translation type="unfinished"></translation>
+        <translation>Yoy - radius va burchaklar (Alt+A)</translation>
     </message>
     <message>
         <source>Point - On Arc (O, A)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta - yoy ustida (O, A)</translation>
     </message>
     <message>
         <source>Point - Intersect Arc and Axis (A, X)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta - yoy va o'qni kesish (A, X)</translation>
     </message>
     <message>
         <source>Point - Intersect Arcs (I, A)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta - kesishgan yoylar (I, A)</translation>
     </message>
     <message>
         <source>Point - Intersect Circles (Shift+I, Shift+C)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta - kesishgan doiralar (Shift+I, Shift+C)</translation>
     </message>
     <message>
         <source>Point - Intersect Circle and Tangent (C, T)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta - kesishgan aylana va tangens (C, T)</translation>
     </message>
     <message>
         <source>Point - Intersect Arc and Tangent (A, T)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta - kesishgan yoy va tangens (A, T)</translation>
     </message>
     <message>
         <source>Arc - Radius and Length (Alt+Shift+A)</source>
-        <translation type="unfinished"></translation>
+        <translation>Yoy - radius va uzunlik (Alt+Shift+A)</translation>
     </message>
     <message>
         <source>Arc - Elliptical (Alt+E)</source>
-        <translation type="unfinished"></translation>
+        <translation>Yoy - elliptik (Alt+E)</translation>
     </message>
     <message>
         <source>Mirror Objects by Line (M, L)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ob'ektlarni chiziq bo'yicha aks ettirish (M, L)</translation>
     </message>
     <message>
         <source>Mirror Objects by Axis (M, A)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ob'ektlarni o'q bo'yicha aks ettirish (M, A)</translation>
     </message>
     <message>
         <source>Move Objects (Alt+M)</source>
-        <translation type="unfinished"></translation>
+        <translation>Obyektlarni siljitish (Alt+M)</translation>
     </message>
     <message>
         <source>True Darts (T, D)</source>
-        <translation type="unfinished"></translation>
+        <translation>Haqiqiy Darts (T, D)</translation>
     </message>
     <message>
         <source>Add New Pattern Piece (N, P)</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangi andoza qoʻshish (N, P)</translation>
     </message>
     <message>
         <source>Add Anchor Point (A, P)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ankraj nuqtasini qo'shish (A, P)</translation>
     </message>
     <message>
         <source>Insert Nodes (I, N)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tugunlarni kiritish (I, N)</translation>
     </message>
     <message>
         <source>Add Internal Path (I, P)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ichki yoʻlni qoʻshish (I, P)</translation>
     </message>
     <message>
         <source>Import Image (Alt + I)</source>
-        <translation type="unfinished"></translation>
+        <translation>Rasmni import qilish (Alt + I)</translation>
     </message>
     <message>
         <source>Export Pieces (E, P)</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksport qismlari (E, P)</translation>
     </message>
     <message>
         <source>New Print Layout (N, L)</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangi chop etish tartibi (N, L)</translation>
     </message>
     <message>
         <source>Export Layout (E, L)</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksport tartibi (E, L)</translation>
     </message>
     <message>
         <source>Contains information about custom and internal variables</source>
-        <translation type="unfinished"></translation>
+        <translation>Maxsus va ichki o'zgaruvchilar haqida ma'lumotni o'z ichiga oladi</translation>
     </message>
     <message>
         <source>Alt+M</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+M</translation>
     </message>
     <message>
         <source>Elliptical</source>
-        <translation type="unfinished"></translation>
+        <translation>Elliptik</translation>
     </message>
     <message>
         <source>Arc - Elliptical</source>
-        <translation type="unfinished"></translation>
+        <translation>Ark - elliptik</translation>
     </message>
     <message>
         <source>Alt+E</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+E</translation>
     </message>
     <message>
         <source>Midpoint on Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiziqdagi o'rta nuqta</translation>
     </message>
     <message>
         <source>Shift+O, Shift+L</source>
-        <translation type="unfinished"></translation>
+        <translation>Shift+O, Shift+L</translation>
     </message>
     <message>
         <source>On Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Onlayn</translation>
     </message>
     <message>
         <source>Length and Angle</source>
-        <translation type="unfinished"></translation>
+        <translation>Uzunlik va burchak</translation>
     </message>
     <message>
         <source>On Perpendicular</source>
-        <translation type="unfinished"></translation>
+        <translation>Perpendikulyar bo'yicha</translation>
     </message>
     <message>
         <source>On Bisector</source>
-        <translation type="unfinished"></translation>
+        <translation>Bissektrisa bo'yicha</translation>
     </message>
     <message>
         <source>Length to Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiziqgacha bo'lgan uzunlik</translation>
     </message>
     <message>
         <source>Intersect  Arc and Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Yoy va chiziqni kesish</translation>
     </message>
     <message>
         <source>Intersect Axis and Triangle</source>
-        <translation type="unfinished"></translation>
+        <translation>O'q va uchburchakni kesish</translation>
     </message>
     <message>
         <source>Intersect Line and Perpendicular</source>
-        <translation type="unfinished"></translation>
+        <translation>Kesishgan chiziq va perpendikulyar</translation>
     </message>
     <message>
         <source>Intersect Line and Axis</source>
-        <translation type="unfinished"></translation>
+        <translation>Kesishgan chiziq va o'q</translation>
     </message>
     <message>
         <source>Intersect Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Kesishgan chiziqlar</translation>
     </message>
     <message>
         <source>Curve - Interactive</source>
-        <translation type="unfinished"></translation>
+        <translation>Egri chiziq - interaktiv</translation>
     </message>
     <message>
         <source>Point on Curve</source>
-        <translation type="unfinished"></translation>
+        <translation>Egri chiziqdagi nuqta</translation>
     </message>
     <message>
         <source>Curve - Fixed</source>
-        <translation type="unfinished"></translation>
+        <translation>Egri chiziq - aniqlangan</translation>
     </message>
     <message>
         <source>Alt+Shift+C</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+Shift+C</translation>
     </message>
     <message>
         <source>Spline - Interactive</source>
-        <translation type="unfinished"></translation>
+        <translation>Spline - interaktiv</translation>
     </message>
     <message>
         <source>Point on Spline</source>
-        <translation type="unfinished"></translation>
+        <translation>Spline ustida ishora</translation>
     </message>
     <message>
         <source>Point on Spline (O, S)</source>
-        <translation type="unfinished"></translation>
+        <translation>Splinedagi nuqta (O, S)</translation>
     </message>
     <message>
         <source>Spline - Fixed</source>
-        <translation type="unfinished"></translation>
+        <translation>Spline - Ruxsat etilgan</translation>
     </message>
     <message>
         <source>Alt+Shift+S</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+Shift+S</translation>
     </message>
     <message>
         <source>Intersect Curves</source>
-        <translation type="unfinished"></translation>
+        <translation>Kesishgan egri chiziqlar</translation>
     </message>
     <message>
         <source>Intersect Curve and Axis</source>
-        <translation type="unfinished"></translation>
+        <translation>Egri chiziq va o'qni kesish</translation>
     </message>
     <message>
         <source>Radius and Angles</source>
-        <translation type="unfinished"></translation>
+        <translation>Radius va burchaklar</translation>
     </message>
     <message>
         <source>Arc - Radius and Angles</source>
@@ -6882,59 +6897,59 @@ Do you want to save your changes?</translation>
     </message>
     <message>
         <source>Point on Arc</source>
-        <translation type="unfinished"></translation>
+        <translation>Ark ustidagi nuqta</translation>
     </message>
     <message>
         <source>Point on Arc (O, A)</source>
-        <translation type="unfinished"></translation>
+        <translation>Yoy ustidagi nuqta (O, A)</translation>
     </message>
     <message>
         <source>Intersect Arc and Axis</source>
-        <translation type="unfinished"></translation>
+        <translation>Yoy va o'qni kesish</translation>
     </message>
     <message>
         <source>Intersect Arc and Axis (A, X)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kesishgan yoy va o'q (A, X)</translation>
     </message>
     <message>
         <source>Intersect Arcs</source>
-        <translation type="unfinished"></translation>
+        <translation>Kesishgan yoylar</translation>
     </message>
     <message>
         <source>Intersect Arcs (I, A)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kesishgan yoylar (I, A)</translation>
     </message>
     <message>
         <source>Intersect Circles</source>
-        <translation type="unfinished"></translation>
+        <translation>Kesishgan doiralar</translation>
     </message>
     <message>
         <source>Intersect Circles (Shift+I, Shift+C)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kesishgan doiralar (Shift+I, Shift+C)</translation>
     </message>
     <message>
         <source>Shift+I, Shift+C</source>
-        <translation type="unfinished"></translation>
+        <translation>Shift+I, Shift+C</translation>
     </message>
     <message>
         <source>Intersect Circle and Tangent</source>
-        <translation type="unfinished"></translation>
+        <translation>Aylana va tangensni kesish</translation>
     </message>
     <message>
         <source>Intersect Circle and Tangent (C, T)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kesishgan doira va tangens (C, T)</translation>
     </message>
     <message>
         <source>Intersect Arc and Tangent</source>
-        <translation type="unfinished"></translation>
+        <translation>Kesishgan yoy va tangens</translation>
     </message>
     <message>
         <source>Intersect Arc and Tangent (A, T)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kesishgan yoy va tangens (A, T)</translation>
     </message>
     <message>
         <source>Radius and Length</source>
-        <translation type="unfinished"></translation>
+        <translation>Radius va uzunlik</translation>
     </message>
     <message>
         <source>Arc - Radius and Length</source>
@@ -6942,35 +6957,35 @@ Do you want to save your changes?</translation>
     </message>
     <message>
         <source>Alt+Shift+A</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+Shift+A</translation>
     </message>
     <message>
         <source>Activate last used tool (Ctrl+Shift+L)</source>
-        <translation type="unfinished"></translation>
+        <translation>Oxirgi ishlatilgan vositani faollashtirish (Ctrl+Shift+L)</translation>
     </message>
     <message>
         <source>Zoom to Selected (Ctrl+Right)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tanlanganga kattalashtirish (Ctrl+O‘ng)</translation>
     </message>
     <message>
         <source>Zoom to selected Area (Ctrl+A)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tanlangan hududga kattalashtirish (Ctrl+A)</translation>
     </message>
     <message>
         <source>Pan Work Area (Z, P)</source>
-        <translation type="unfinished"></translation>
+        <translation>Panning ish maydoni (Z, P)</translation>
     </message>
     <message>
         <source>Create New Print Layout (N, L)</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangi chop etish tartibini yaratish (N, L)</translation>
     </message>
     <message>
         <source>Toggle Point Name Text (V, P)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta nomi matnini almashtirish (V, P)</translation>
     </message>
     <message>
         <source>Images tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Tasvirlar vositalari</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -6978,147 +6993,147 @@ Do you want to save your changes?</translation>
     </message>
     <message>
         <source>Align</source>
-        <translation type="unfinished"></translation>
+        <translation>Tegishlash</translation>
     </message>
     <message>
         <source>Lock</source>
-        <translation type="unfinished"></translation>
+        <translation>Qulflash</translation>
     </message>
     <message>
         <source>Zoom to point (Ctrl + Alt + P)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqtaga kattalashtirish (Ctrl + Alt + P)</translation>
     </message>
     <message>
         <source>Please provide additional measurements: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Iltimos, qoʻshimcha oʻlchovlarni kiriting: %1</translation>
     </message>
     <message>
         <source>&lt;b&gt;Tool::Point - Midpoint on Line&lt;/b&gt;: Select first point</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Tool::Point - Midpoint on Line&lt;/b&gt;: Birinchi nuqtani tanlang</translation>
     </message>
     <message>
         <source>&lt;b&gt;Tool::Point - Length and Angle&lt;/b&gt;: Select point</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Tool::Point - Uzunlik va burchak&lt;/b&gt;: Nuqtani tanlang</translation>
     </message>
     <message>
         <source>&lt;b&gt;Tool::Point - On Line:&lt;/b&gt; Select first point</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Tool::Point - Onlayn:&lt;/b&gt; Birinchi nuqtani tanlang</translation>
     </message>
     <message>
         <source>&lt;b&gt;Tool::Point - On Perpendicular:&lt;/b&gt; Select first point of line</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Tool::Point - Perpendikulyarda:&lt;/b&gt; Chiziqning birinchi nuqtasini tanlang</translation>
     </message>
     <message>
         <source>&lt;b&gt;Tool::Point - On Bisector:&lt;/b&gt; Select first point of angle</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Tool::Point - Bissektrisada:&lt;/b&gt; Burchakning birinchi nuqtasini tanlang</translation>
     </message>
     <message>
         <source>&lt;b&gt;Tool::Point - Length to Line:&lt;/b&gt; Select point</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Tool::Point - Chiziqgacha bo'lgan uzunlik:&lt;/b&gt; Nuqtani tanlang</translation>
     </message>
     <message>
         <source>&lt;b&gt;Tool::Point - Intersect Arc and Line:&lt;/b&gt; Select first point of line</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Tool::Point - Yoy va chiziqni kesish:&lt;/b&gt; Chiziqning birinchi nuqtasini tanlang</translation>
     </message>
     <message>
         <source>&lt;b&gt;Tool::Point - Intersect Axis and Triangle:&lt;/b&gt; Select first point of axis</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Tool::Point - O'q va uchburchakni kesish:&lt;/b&gt; O'qning birinchi nuqtasini tanlang</translation>
     </message>
     <message>
         <source>&lt;b&gt;Tool::Point - Intersect XY&lt;/b&gt; Select point for X value (vertical)</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Tool::Point - XY kesishishi&lt;/b&gt; X qiymati uchun nuqtani tanlang (vertikal)</translation>
     </message>
     <message>
         <source>&lt;b&gt;Tool::Point - Intersect Line and Perpendicular:&lt;/b&gt; Select base point</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Tool::Point - Kesishgan chiziq va perpendikulyar:&lt;/b&gt; Asosiy nuqtani tanlang</translation>
     </message>
     <message>
         <source>&lt;b&gt;Tool::Point - Intersect Line and Axis:&lt;/b&gt; Select first point of line</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Tool::Point - Chiziq va o'qni kesish:&lt;/b&gt; Chiziqning birinchi nuqtasini tanlang</translation>
     </message>
     <message>
         <source>&lt;b&gt;Tool::Line:&lt;/b&gt;:Select first point</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Tool::Line:&lt;/b&gt;:Birinchi nuqtani tanlang</translation>
     </message>
     <message>
         <source>&lt;b&gt;Tool::Point - Intersect Lines:&lt;/b&gt; Select first point of first line</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Tool::Point - Chiziqlarni kesish:&lt;/b&gt; Birinchi qatorning birinchi nuqtasini tanlang</translation>
     </message>
     <message>
         <source>&lt;b&gt;Tool::Curve - Interactive:&lt;/b&gt; Select start point of curve</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Tool::Curve - Interaktiv:&lt;/b&gt; Egri chiziqning boshlang'ich nuqtasini tanlang</translation>
     </message>
     <message>
         <source>&lt;b&gt;Tool::Spline - Interactive:&lt;/b&gt; Select start point of spline</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Tool::Spline - Interaktiv:&lt;/b&gt; Splaynning boshlanish nuqtasini tanlang</translation>
     </message>
     <message>
         <source>&lt;b&gt;Tool::Curve - Fixed:&lt;/b&gt; Select first point of curve</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Tool::Curve - Fixed:&lt;/b&gt; Egri chiziqning birinchi nuqtasini tanlang</translation>
     </message>
     <message>
         <source>&lt;b&gt;Tool::Spline - Fixed:&lt;/b&gt; Select first point of spline</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Tool::Spline - Fixed:&lt;/b&gt; Splinening birinchi nuqtasini tanlang</translation>
     </message>
     <message>
         <source>&lt;b&gt;Tool::Point - On Curve:&lt;/b&gt; Select first point of curve</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Tool::Point - Curve On:&lt;/b&gt; Egri chiziqning birinchi nuqtasini tanlang</translation>
     </message>
     <message>
         <source>&lt;b&gt;Tool::Point - On Spline:&lt;/b&gt; Select spline</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Tool::Point - Spline-da:&lt;/b&gt; Splayn-ni tanlang</translation>
     </message>
     <message>
         <source>&lt;b&gt;Tool::Point - Intersect Curves:&lt;/b&gt; Select first curve</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Tool::Point - Egri chiziqlarni kesish:&lt;/b&gt; Birinchi egri chiziqni tanlang</translation>
     </message>
     <message>
         <source>&lt;b&gt;Tool::Point - Intersect Curve and Axis:&lt;/b&gt; Select curve</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Tool::Point - Egri chiziq va o'qni kesish:&lt;/b&gt; Egri chiziqni tanlang</translation>
     </message>
     <message>
         <source>&lt;b&gt;Tool::Arc - Radius and Angles:&lt;/b&gt; Select point of center of arc</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Tool::Arc - Radius va burchaklar:&lt;/b&gt; Yoy markazi nuqtasini tanlang</translation>
     </message>
     <message>
         <source>&lt;b&gt;Tool::Point - On Arc:&lt;/b&gt; Select arc</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Tool::Point - On Arc:&lt;/b&gt; Yoyni tanlang</translation>
     </message>
     <message>
         <source>&lt;b&gt;Tool::Point - Intersect Arc and Axis:&lt;/b&gt; Select arc</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Tool::Point - Yoy va o'qni kesish:&lt;/b&gt; Yoyni tanlang</translation>
     </message>
     <message>
         <source>&lt;b&gt;Tool::Point - Intersect Arcs:&lt;/b&gt; Select first an arc</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Tool::Point - Yoylarni kesish:&lt;/b&gt; Avval yoyni tanlang</translation>
     </message>
     <message>
         <source>&lt;b&gt;Tool::Point - Intersect Circles:&lt;/b&gt; Select first circle center</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Tool::Point - Doiralarni kesish:&lt;/b&gt; Birinchi doira markazini tanlang</translation>
     </message>
     <message>
         <source>&lt;b&gt;Tool::Point - Intersect Circle and Tangent:&lt;/b&gt; Select point on tangent</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Tool::Point - Aylana va Tangensni kesish:&lt;/b&gt; Tangensdagi nuqtani tanlang</translation>
     </message>
     <message>
         <source>&lt;b&gt;Tool::Point - Intersect Arc and Tangent:&lt;/b&gt; Select point on tangent</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Tool::Point - Yoy va Tangentni kesish:&lt;/b&gt; Tangensdagi nuqtani tanlang</translation>
     </message>
     <message>
         <source>&lt;b&gt;Tool::Arc - Radius and Length:&lt;/b&gt; Select point of the center of the arc</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Tool::Arc - Radius va uzunlik:&lt;/b&gt; Yoy markazining nuqtasini tanlang</translation>
     </message>
     <message>
         <source>&lt;b&gt;Tool::Arc - Elliptical:&lt;/b&gt; Select point of center of elliptical arc</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Tool::Arc - Elliptik:&lt;/b&gt; Elliptik yoy markazi nuqtasini tanlang</translation>
     </message>
     <message>
         <source>Images</source>
-        <translation type="unfinished"></translation>
+        <translation>Tasvirlar</translation>
     </message>
     <message>
         <source>Zoom to Point</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqtaga kattalashtirish</translation>
     </message>
     <message>
         <source>Point:</source>
@@ -7126,39 +7141,39 @@ Do you want to save your changes?</translation>
     </message>
     <message>
         <source>Intersect Arc and Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Yoy va chiziqni kesish</translation>
     </message>
     <message>
         <source>Intersect Curve &amp; Axis</source>
-        <translation type="unfinished"></translation>
+        <translation>Egri chiziq va o'qni kesish</translation>
     </message>
     <message>
         <source>Add Objects to Group (G)</source>
-        <translation type="unfinished"></translation>
+        <translation>Guruhga ob'ektlar qo'shish (G)</translation>
     </message>
     <message>
         <source>Add Objects to Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Guruhga ob'ektlar qo'shing</translation>
     </message>
     <message>
         <source>Add Group Objects</source>
-        <translation type="unfinished"></translation>
+        <translation>Guruh ob'ektlarini qo'shish</translation>
     </message>
     <message>
         <source>Group is Locked. Unlock to add objects</source>
-        <translation type="unfinished"></translation>
+        <translation>Guruh qulflangan.Ob'ektlarni qo'shish uchun qulfni oching</translation>
     </message>
     <message>
         <source>Can not save file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fayl saqlanmadi.</translation>
     </message>
     <message>
         <source>Pattern is read only.</source>
-        <translation type="unfinished"></translation>
+        <translation>Shakl faqat o'qiladi.</translation>
     </message>
     <message>
         <source>Failed to lock. File with this name is opened in another window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Qulflab bo‘lmadi.Bu nomdagi fayl boshqa oynada ochiladi.</translation>
     </message>
     <message>
         <source>untitled</source>
@@ -7166,32 +7181,33 @@ Do you want to save your changes?</translation>
     </message>
     <message>
         <source>Failed to lock. This file already opened in another window. Expect collisions when running 2 copies of the program.</source>
-        <translation type="unfinished"></translation>
+        <translation>Qulflab bo‘lmadi.Bu fayl allaqachon boshqa oynada ochilgan.Dasturning 2 nusxasini ishga tushirishda to'qnashuvlarni kuting.</translation>
     </message>
     <message>
         <source>Pen Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Qalam asboblar paneli</translation>
     </message>
     <message>
         <source>Toolbars</source>
-        <translation type="unfinished"></translation>
+        <translation>Asboblar paneli</translation>
     </message>
     <message>
         <source>File exception.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fayldan istisno.</translation>
     </message>
     <message>
         <source>Export exception.</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksportdan istisno.</translation>
     </message>
     <message>
         <source>pattern</source>
-        <translation type="unfinished"></translation>
+        <translation>andoza</translation>
     </message>
     <message>
         <source>Base name used for new points.
 Press enter to temporarily add it to the list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangi nuqtalar uchun asosiy nom ishlatiladi.
+Uni vaqtincha ro'yxatga qo'shish uchun Enter tugmasini bosing.</translation>
     </message>
     <message>
         <source>Default</source>
@@ -7199,137 +7215,137 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>Zoom to Fit All(Ctrl+9)</source>
-        <translation type="unfinished"></translation>
+        <translation>Hammasiga moslash uchun kattalashtirish (Ctrl+9)</translation>
     </message>
     <message>
         <source>Zoom 100%</source>
-        <translation type="unfinished"></translation>
+        <translation>Kattalashtirish 100%</translation>
     </message>
     <message>
         <source>Previous Draft Block</source>
-        <translation type="unfinished"></translation>
+        <translation>Oldingi qoralama blok</translation>
     </message>
     <message>
         <source>Next Draft Block</source>
-        <translation type="unfinished"></translation>
+        <translation>Keyingi qoralama blok</translation>
     </message>
     <message>
         <source>Exporting...</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksport qilinmoqda...</translation>
     </message>
     <message>
         <source>Error creating a backup copy: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaxira nusxasini yaratishda xatolik yuz berdi: % 1.</translation>
     </message>
 </context>
 <context>
     <name>MainWindowsNoGUI</name>
     <message>
-        <source>Creating file &apos;%1&apos; failed! %2</source>
-        <translation type="unfinished"></translation>
+        <source>Creating file '%1' failed! %2</source>
+        <translation>"% 1" faylini yaratib bo'lmadi!% 2</translation>
     </message>
     <message>
         <source>Critical error!</source>
-        <translation type="unfinished"></translation>
+        <translation>Kritik xato!</translation>
     </message>
     <message>
         <source>Print error</source>
-        <translation type="unfinished"></translation>
+        <translation>Chop etish xatosi</translation>
     </message>
     <message>
         <source>Cannot proceed because there are no available printers in your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Davom etib bo‘lmaydi, chunki tizimingizda mavjud printerlar yo‘q.</translation>
     </message>
     <message>
         <source>unnamed</source>
-        <translation type="unfinished"></translation>
+        <translation>nomsiz</translation>
     </message>
     <message>
         <source>The layout is stale.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tarkib eskirgan.</translation>
     </message>
     <message>
         <source>The layout was not updated since last pattern modification. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>andoza so‘nggi o‘zgartirilgandan beri tartib yangilanmagan.Davom etishni xohlaysizmi?</translation>
     </message>
     <message>
-        <source>Couldn&apos;t prepare data for creation layout</source>
-        <translation type="unfinished"></translation>
+        <source>Couldn't prepare data for creation layout</source>
+        <translation>Tartibni yaratish uchun maʼlumotlarni tayyorlab boʻlmadi</translation>
     </message>
     <message>
-        <source>Can&apos;t open printer %1</source>
-        <translation type="unfinished"></translation>
+        <source>Can't open printer %1</source>
+        <translation>%1 printerini ochib bo‘lmadi</translation>
     </message>
     <message>
         <source>For previewing multipage document all sheet should have the same size.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ko'p sahifali hujjatni oldindan ko'rish uchun barcha varaqlar bir xil o'lchamga ega bo'lishi kerak.</translation>
     </message>
     <message>
         <source>For printing multipages document all sheet should have the same size.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ko'p sahifali hujjatni chop etish uchun barcha varaqlar bir xil o'lchamga ega bo'lishi kerak.</translation>
     </message>
     <message>
         <source>Pages will be cropped because they do not fit printer paper size.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sahifalar kesiladi, chunki ular printer qog'ozining o'lchamiga mos kelmaydi.</translation>
     </message>
     <message>
         <source>Cannot set printer margins</source>
-        <translation type="unfinished"></translation>
+        <translation>Printer chetlarini o‘rnatib bo‘lmadi</translation>
     </message>
     <message>
-        <source>Can&apos;t create a path</source>
-        <translation type="unfinished"></translation>
+        <source>Can't create a path</source>
+        <translation>Yoʻl yaratib boʻlmadi</translation>
     </message>
     <message>
         <source>One or more pattern pieces are bigger than the paper format you selected. Please select a bigger paper format.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bir yoki bir nechta andoza bo'lagi siz tanlagan qog'oz formatidan kattaroq.Iltimos, kattaroq qog'oz formatini tanlang.</translation>
     </message>
 </context>
 <context>
     <name>MeShortcutsDialog</name>
     <message>
         <source>Copy shortcuts to the clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Yorliqlarni vaqtinchalik xotiraga nusxalash</translation>
     </message>
     <message>
         <source>Export shortcuts as a PDF</source>
-        <translation type="unfinished"></translation>
+        <translation>Yorliqlarni PDF sifatida eksport qiling</translation>
     </message>
     <message>
         <source>Send shortcuts to the printer</source>
-        <translation type="unfinished"></translation>
+        <translation>Printerga yorliqlarni yuboring</translation>
     </message>
     <message>
         <source>Export PDF</source>
-        <translation type="unfinished"></translation>
+        <translation>PDF eksport qilish</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Fayl</translation>
     </message>
     <message>
         <source>New</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangi</translation>
     </message>
     <message>
         <source>Ctrl+N</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+N</translation>
     </message>
     <message>
         <source>Open Individual</source>
-        <translation type="unfinished"></translation>
+        <translation>Individualni oching</translation>
     </message>
     <message>
         <source>Ctrl+O</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+O</translation>
     </message>
     <message>
         <source>Open Multisize</source>
-        <translation type="unfinished"></translation>
+        <translation>Multisize-ni oching</translation>
     </message>
     <message>
         <source>Ctrl+Shift+O</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Shift+O</translation>
     </message>
     <message>
         <source>Print</source>
@@ -7337,23 +7353,23 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>Ctrl+P</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+P</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Saqlash</translation>
     </message>
     <message>
         <source>Ctrl+S</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+S</translation>
     </message>
     <message>
         <source>Save as</source>
-        <translation type="unfinished"></translation>
+        <translation>Sifatida saqlash</translation>
     </message>
     <message>
         <source>Ctrl+Shift+S</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Shift+S</translation>
     </message>
     <message>
         <source>Export to CSV</source>
@@ -7361,43 +7377,43 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>Ctrl+E</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+E</translation>
     </message>
     <message>
         <source>Exit</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiqish</translation>
     </message>
     <message>
         <source>Ctrl+Q</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Q</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Yordam</translation>
     </message>
     <message>
         <source>Keyboard Shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>Klaviatura yorliqlari</translation>
     </message>
     <message>
         <source>SeamlyMe Shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>SeamlyMe yorliqlari</translation>
     </message>
     <message>
         <source>Find previous</source>
-        <translation type="unfinished"></translation>
+        <translation>Avvalgisini toping</translation>
     </message>
     <message>
         <source>Ctrl+Shift+G</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Shift+G</translation>
     </message>
     <message>
         <source>Find next</source>
-        <translation type="unfinished"></translation>
+        <translation>Keyingisini toping</translation>
     </message>
     <message>
         <source>Ctrl+G</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+G</translation>
     </message>
 </context>
 <context>
@@ -7507,12 +7523,12 @@ Press enter to temporarily add it to the list.</source>
 <context>
     <name>MeasurementDoc</name>
     <message>
-        <source>Can&apos;t find measurement &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <source>Can't find measurement '%1'</source>
+        <translation>“% 1” oʻlchovi topilmadi</translation>
     </message>
     <message>
         <source>The measurement name is empty!</source>
-        <translation type="unfinished"></translation>
+        <translation>O'lchov nomi bo'sh!</translation>
     </message>
 </context>
 <context>
@@ -7523,19 +7539,19 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source> XPos:</source>
-        <translation type="unfinished"></translation>
+        <translation>XPos:</translation>
     </message>
     <message>
         <source>xpos</source>
-        <translation type="unfinished"></translation>
+        <translation>xpos</translation>
     </message>
     <message>
         <source>YPos:</source>
-        <translation type="unfinished"></translation>
+        <translation>YPos:</translation>
     </message>
     <message>
         <source>ypos</source>
-        <translation type="unfinished"></translation>
+        <translation>ypos</translation>
     </message>
     <message>
         <source>Units:</source>
@@ -7543,25 +7559,25 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>units</source>
-        <translation type="unfinished"></translation>
+        <translation>birliklar</translation>
     </message>
 </context>
 <context>
     <name>MoveDoubleLabel</name>
     <message>
         <source>move the first dart label</source>
-        <translation type="unfinished"></translation>
+        <translation>birinchi dart yorlig'ini siljiting</translation>
     </message>
     <message>
         <source>move the second dart label</source>
-        <translation type="unfinished"></translation>
+        <translation>ikkinchi dart yorlig'ini siljiting</translation>
     </message>
 </context>
 <context>
     <name>MoveGroupItem</name>
     <message>
         <source>Move group item</source>
-        <translation type="unfinished"></translation>
+        <translation>Guruh elementini ko'chirish</translation>
     </message>
 </context>
 <context>
@@ -7582,64 +7598,64 @@ Press enter to temporarily add it to the list.</source>
     <name>MoveSPoint</name>
     <message>
         <source>move single point</source>
-        <translation type="unfinished"></translation>
+        <translation>bitta nuqtani siljiting</translation>
     </message>
 </context>
 <context>
     <name>MoveSpline</name>
     <message>
         <source>move spline</source>
-        <translation type="unfinished"></translation>
+        <translation>splineni siljiting</translation>
     </message>
 </context>
 <context>
     <name>MoveSplinePath</name>
     <message>
         <source>move spline path</source>
-        <translation type="unfinished"></translation>
+        <translation>spline yo'lini siljiting</translation>
     </message>
 </context>
 <context>
     <name>NewMeasurementsDialog</name>
     <message>
         <source>New measurement file</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangi o'lchov fayli</translation>
     </message>
     <message>
         <source>Measurement type:</source>
-        <translation type="unfinished"></translation>
+        <translation>O'lchov turi:</translation>
     </message>
     <message>
         <source>Unit:</source>
-        <translation type="unfinished"></translation>
+        <translation>Birlik:</translation>
     </message>
     <message>
         <source>Base size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Asosiy o'lcham:</translation>
     </message>
     <message>
         <source>Base height:</source>
-        <translation type="unfinished"></translation>
+        <translation>Baza balandligi:</translation>
     </message>
     <message>
         <source>Individual</source>
-        <translation type="unfinished"></translation>
+        <translation>Individual</translation>
     </message>
     <message>
         <source>Centimeters</source>
-        <translation type="unfinished"></translation>
+        <translation>Santimetr</translation>
     </message>
     <message>
         <source>Inches</source>
-        <translation type="unfinished"></translation>
+        <translation>dyuym</translation>
     </message>
     <message>
         <source>Multisize</source>
-        <translation type="unfinished"></translation>
+        <translation>Ko'p o'lchamli</translation>
     </message>
     <message>
         <source>Millimeters</source>
-        <translation type="unfinished"></translation>
+        <translation>Millimetr</translation>
     </message>
 </context>
 <context>
@@ -7654,19 +7670,19 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>Tabloid</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabloid</translation>
     </message>
     <message>
         <source>ANSI C</source>
-        <translation type="unfinished"></translation>
+        <translation>ANSI C</translation>
     </message>
     <message>
         <source>ANSI D</source>
-        <translation type="unfinished"></translation>
+        <translation>ANSI D</translation>
     </message>
     <message>
         <source>ANSI E</source>
-        <translation type="unfinished"></translation>
+        <translation>ANSI E</translation>
     </message>
     <message>
         <source>Roll 24in</source>
@@ -7697,47 +7713,47 @@ Press enter to temporarily add it to the list.</source>
     <name>PatternPieceDialog</name>
     <message>
         <source>Pattern Piece Tool</source>
-        <translation type="unfinished"></translation>
+        <translation>andoza parchasi vositasi</translation>
     </message>
     <message>
         <source>Properties </source>
-        <translation type="unfinished"></translation>
+        <translation>Xususiyatlari</translation>
     </message>
     <message>
         <source>Paths </source>
-        <translation type="unfinished"></translation>
+        <translation>Yo'llar</translation>
     </message>
     <message>
         <source>Seam Allowance </source>
-        <translation type="unfinished"></translation>
+        <translation>Tikuv to'lovi</translation>
     </message>
     <message>
         <source>Labels </source>
-        <translation type="unfinished"></translation>
+        <translation>Yorliqlar</translation>
     </message>
     <message>
         <source>Anchors </source>
-        <translation type="unfinished"></translation>
+        <translation>Ankerlar</translation>
     </message>
     <message>
         <source>Grainline </source>
-        <translation type="unfinished"></translation>
+        <translation>Don liniyasi</translation>
     </message>
     <message>
         <source>Notches </source>
-        <translation type="unfinished"></translation>
+        <translation>Teshiklar</translation>
     </message>
     <message>
         <source>Piece name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Qism nomi:</translation>
     </message>
     <message>
         <source>PatternPiece</source>
-        <translation type="unfinished"></translation>
+        <translation>PatternPiece</translation>
     </message>
     <message>
-        <source>Name can&apos;t be empty</source>
-        <translation>Name can&apos;t be empty</translation>
+        <source>Name can't be empty</source>
+        <translation>Name can't be empty</translation>
     </message>
     <message>
         <source>Letter:</source>
@@ -7749,7 +7765,7 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>Quantity:</source>
-        <translation type="unfinished"></translation>
+        <translation>Miqdori:</translation>
     </message>
     <message>
         <source>Placement:</source>
@@ -7761,31 +7777,31 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>Fold position:</source>
-        <translation type="unfinished"></translation>
+        <translation>Katlama holati:</translation>
     </message>
     <message>
         <source>Undefined</source>
-        <translation type="unfinished"></translation>
+        <translation>Aniqlanmagan</translation>
     </message>
     <message>
         <source>Up/Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Yuqoriga/pastga</translation>
     </message>
     <message>
         <source>Left/Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Chap/o‘ng</translation>
     </message>
     <message>
         <source>Orientation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Orientatsiya:</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Chapga</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>To'g'ri</translation>
     </message>
     <message>
         <source>Rotation:</source>
@@ -7797,31 +7813,31 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>1-Way</source>
-        <translation type="unfinished"></translation>
+        <translation>1-yo'l</translation>
     </message>
     <message>
         <source>2-Way</source>
-        <translation type="unfinished"></translation>
+        <translation>2-tarmoq</translation>
     </message>
     <message>
         <source>4-Way</source>
-        <translation type="unfinished"></translation>
+        <translation>4-yo'l</translation>
     </message>
     <message>
         <source>Any</source>
-        <translation type="unfinished"></translation>
+        <translation>Har qanday</translation>
     </message>
     <message>
         <source>Tilt:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nishab:</translation>
     </message>
     <message>
         <source>Annotation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Izoh:</translation>
     </message>
     <message>
         <source>A text field to add comments</source>
-        <translation type="unfinished"></translation>
+        <translation>Fikr qo'shish uchun matn maydoni</translation>
     </message>
     <message>
         <source>Attributes</source>
@@ -7837,11 +7853,11 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>hex Value</source>
-        <translation type="unfinished"></translation>
+        <translation>hex qiymati</translation>
     </message>
     <message>
         <source>Fill:</source>
-        <translation type="unfinished"></translation>
+        <translation>Toʻldirish:</translation>
     </message>
     <message>
         <source>Main path</source>
@@ -7853,23 +7869,23 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>Move row to top of list</source>
-        <translation type="unfinished"></translation>
+        <translation>Qatorni roʻyxatning tepasiga oʻtkazing</translation>
     </message>
     <message>
         <source>Move row up one row</source>
-        <translation type="unfinished"></translation>
+        <translation>Qatorni bir qator yuqoriga siljiting</translation>
     </message>
     <message>
         <source>Move row down one row</source>
-        <translation type="unfinished"></translation>
+        <translation>Qatorni bir qator pastga siljiting</translation>
     </message>
     <message>
         <source>Molve row to botton of list</source>
-        <translation type="unfinished"></translation>
+        <translation>Qatorni roʻyxatning oxiriga oʻtkazing</translation>
     </message>
     <message>
         <source>Status:</source>
-        <translation type="unfinished"></translation>
+        <translation>Holati:</translation>
     </message>
     <message>
         <source>Ready!</source>
@@ -7933,7 +7949,7 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>Use Default</source>
-        <translation type="unfinished"></translation>
+        <translation>Standartdan foydalaning</translation>
     </message>
     <message>
         <source>After:</source>
@@ -7961,19 +7977,19 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>Piece label</source>
-        <translation type="unfinished"></translation>
+        <translation>Parcha yorlig'i</translation>
     </message>
     <message>
         <source>Edit pattern label</source>
-        <translation type="unfinished"></translation>
+        <translation>andoza yorlig‘ini tahrirlash</translation>
     </message>
     <message>
         <source>Edit template</source>
-        <translation type="unfinished"></translation>
+        <translation>Shablonni tahrirlash</translation>
     </message>
     <message>
         <source>Show piece label</source>
-        <translation type="unfinished"></translation>
+        <translation>Parcha yorlig'ini ko'rsatish</translation>
     </message>
     <message>
         <source>Height:</source>
@@ -7981,19 +7997,19 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>Anchor points</source>
-        <translation type="unfinished"></translation>
+        <translation>Ankraj nuqtalari</translation>
     </message>
     <message>
         <source>Pattern label</source>
-        <translation type="unfinished"></translation>
+        <translation>andozali yorliq</translation>
     </message>
     <message>
         <source>Show pattern label</source>
-        <translation type="unfinished"></translation>
+        <translation>andoza yorlig‘ini ko‘rsatish</translation>
     </message>
     <message>
         <source>Show grainline</source>
-        <translation type="unfinished"></translation>
+        <translation>Don chizig'ini ko'rsating</translation>
     </message>
     <message>
         <source>Length:</source>
@@ -8001,7 +8017,7 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>Arrows</source>
-        <translation type="unfinished"></translation>
+        <translation>Oklar</translation>
     </message>
     <message>
         <source>Type:</source>
@@ -8021,35 +8037,35 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>Slit</source>
-        <translation type="unfinished"></translation>
+        <translation>Yoriq</translation>
     </message>
     <message>
         <source>T Notch</source>
-        <translation type="unfinished"></translation>
+        <translation>T Notch</translation>
     </message>
     <message>
         <source>U Notch</source>
-        <translation type="unfinished"></translation>
+        <translation>U Notch</translation>
     </message>
     <message>
         <source>V Internal </source>
-        <translation type="unfinished"></translation>
+        <translation>V Ichki</translation>
     </message>
     <message>
         <source>V External</source>
-        <translation type="unfinished"></translation>
+        <translation>V Tashqi</translation>
     </message>
     <message>
         <source>Castle</source>
-        <translation type="unfinished"></translation>
+        <translation>Qal'a</translation>
     </message>
     <message>
         <source>Diamond</source>
-        <translation type="unfinished"></translation>
+        <translation>Olmos</translation>
     </message>
     <message>
         <source>Subtype</source>
-        <translation type="unfinished"></translation>
+        <translation>Pastki turi</translation>
     </message>
     <message>
         <source>Straightforward</source>
@@ -8061,7 +8077,7 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>Select to designate a corner point as a notch</source>
-        <translation type="unfinished"></translation>
+        <translation>Burchak nuqtasini tirqish sifatida belgilash uchun tanlang</translation>
     </message>
     <message>
         <source>Intersection</source>
@@ -8073,27 +8089,27 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source> Width:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kengligi:</translation>
     </message>
     <message>
         <source>Reset notch length to default.</source>
-        <translation type="unfinished"></translation>
+        <translation>Teshik uzunligini standart holatga qaytaring.</translation>
     </message>
     <message>
         <source>Reset notch with to default.</source>
-        <translation type="unfinished"></translation>
+        <translation>Teshikni asl holatiga qaytaring.</translation>
     </message>
     <message>
         <source>Reset notch angle to default.</source>
-        <translation type="unfinished"></translation>
+        <translation>Teshik burchagini standart holatga qaytaring.</translation>
     </message>
     <message>
         <source>Count:</source>
-        <translation type="unfinished"></translation>
+        <translation>Hisob:</translation>
     </message>
     <message>
         <source>Press OK to create pattern piece</source>
-        <translation type="unfinished"></translation>
+        <translation>andoza parchasini yaratish uchun OK tugmasini bosing</translation>
     </message>
     <message>
         <source>Reverse</source>
@@ -8101,23 +8117,23 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>Duplicate</source>
-        <translation type="unfinished"></translation>
+        <translation>Dublikat</translation>
     </message>
     <message>
         <source>TNotch</source>
-        <translation type="unfinished"></translation>
+        <translation>TNotch</translation>
     </message>
     <message>
         <source>UNotch</source>
-        <translation type="unfinished"></translation>
+        <translation>UNNotch</translation>
     </message>
     <message>
         <source>VInternal</source>
-        <translation type="unfinished"></translation>
+        <translation>Vichki</translation>
     </message>
     <message>
         <source>VExternal</source>
-        <translation type="unfinished"></translation>
+        <translation>VTashqi</translation>
     </message>
     <message>
         <source>Excluded</source>
@@ -8132,8 +8148,8 @@ Press enter to temporarily add it to the list.</source>
         <translation>Options</translation>
     </message>
     <message>
-        <source>Error. Can&apos;t save piece path.</source>
-        <translation>Error. Can&apos;t save piece path.</translation>
+        <source>Error. Can't save piece path.</source>
+        <translation>Error. Can't save piece path.</translation>
     </message>
     <message>
         <source>Infinite/undefined result</source>
@@ -8193,11 +8209,11 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>You must choose points in a clockwise direction!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqtalarni soat yo'nalishi bo'yicha tanlashingiz kerak!</translation>
     </message>
     <message>
         <source>First point cannot be same as last point!</source>
-        <translation type="unfinished"></translation>
+        <translation>Birinchi nuqta oxirgi nuqta bilan bir xil bo'lishi mumkin emas!</translation>
     </message>
     <message>
         <source>You have double points!</source>
@@ -8233,31 +8249,31 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>Show notch on the cut line.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kesilgan chiziqda tirqishni ko'rsating.</translation>
     </message>
     <message>
         <source>Show notch on Cut Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Kesish chizig'ida chiziqni ko'rsating</translation>
     </message>
     <message>
         <source>Show notch on the seam line.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tikuv chizig'idagi tirqishni ko'rsating.</translation>
     </message>
     <message>
         <source>Show notch on Seam Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Chok chizig'ida chokni ko'rsating</translation>
     </message>
     <message>
         <source>Show Cut Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Kesilgan chiziqni ko'rsatish</translation>
     </message>
     <message>
         <source>Hide Seam Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Chok chizig'ini yashirish</translation>
     </message>
     <message>
         <source>Seam Allowance</source>
-        <translation type="unfinished"></translation>
+        <translation>Chok haqi</translation>
     </message>
     <message>
         <source>Paths</source>
@@ -8265,7 +8281,7 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Xususiyatlari</translation>
     </message>
     <message>
         <source>Labels</source>
@@ -8273,27 +8289,27 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>Select Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Rangni tanlang</translation>
     </message>
     <message>
         <source>Flipping:</source>
-        <translation type="unfinished"></translation>
+        <translation>Aytish:</translation>
     </message>
     <message>
         <source>Forbid</source>
-        <translation type="unfinished"></translation>
+        <translation>Taqiqlash</translation>
     </message>
     <message>
         <source>Center:</source>
-        <translation type="unfinished"></translation>
+        <translation>Markaz:</translation>
     </message>
     <message>
         <source>Top left:</source>
-        <translation type="unfinished"></translation>
+        <translation>Yuqori chap:</translation>
     </message>
     <message>
         <source>Bottom right:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pastki o'ngda:</translation>
     </message>
     <message>
         <source>Top:</source>
@@ -8305,39 +8321,39 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>Count</source>
-        <translation type="unfinished"></translation>
+        <translation>Hisoblash</translation>
     </message>
     <message>
-        <source>Length can&apos;t be less than length of 2 arrows</source>
-        <translation type="unfinished"></translation>
+        <source>Length can't be less than length of 2 arrows</source>
+        <translation>Uzunlik 2 strelka uzunligidan kam boʻlmasligi kerak</translation>
     </message>
     <message>
         <source>Press &lt;b&gt;ENTER&lt;/b&gt; to finish piece creation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Parcha yaratishni tugatish uchun &lt;b&gt;ENTER&lt;/b&gt; tugmasini bosing.</translation>
     </message>
     <message>
         <source>Select main path objects clockwise, Use &lt;b&gt;SHIFT&lt;/b&gt; to reverse curve direction, or &lt;b&gt;CTRL&lt;/b&gt; to keep curve direction.</source>
-        <translation type="unfinished"></translation>
+        <translation>Asosiy yoʻl obyektlarini soat yoʻnalishi boʻyicha tanlang, egri chiziq yoʻnalishini teskari oʻzgartirish uchun &lt;b&gt;SHIFT&lt;/b&gt; tugmalaridan foydalaning yoki egri chiziq yoʻnalishini saqlab qolish uchun &lt;b&gt;CTRL&lt;/b&gt; tugmalaridan foydalaning.</translation>
     </message>
     <message>
         <source>Show Cut Line Notch</source>
-        <translation type="unfinished"></translation>
+        <translation>Kesish chizig'ining kesilishini ko'rsatish</translation>
     </message>
     <message>
         <source>Show Seam Line Notch</source>
-        <translation type="unfinished"></translation>
+        <translation>Tikuv chizig'ining kesilishini ko'rsatish</translation>
     </message>
     <message>
         <source>Make Default Notch</source>
-        <translation type="unfinished"></translation>
+        <translation>Standart çentik qiling</translation>
     </message>
     <message>
         <source>Edit Notch</source>
-        <translation type="unfinished"></translation>
+        <translation>Notchni tahrirlash</translation>
     </message>
     <message>
         <source>Remove Notch</source>
-        <translation type="unfinished"></translation>
+        <translation>Notchni olib tashlang</translation>
     </message>
 </context>
 <context>
@@ -8384,51 +8400,51 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Xususiyatlari</translation>
     </message>
     <message>
         <source>Lock Pattern Piece</source>
-        <translation type="unfinished"></translation>
+        <translation>Qulf andoza qismi</translation>
     </message>
     <message>
         <source>Include in Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Layout-ga kiriting</translation>
     </message>
     <message>
         <source>Forbid Flipping</source>
-        <translation type="unfinished"></translation>
+        <translation>O'chirishni taqiqlash</translation>
     </message>
     <message>
         <source>Raise to top</source>
-        <translation type="unfinished"></translation>
+        <translation>Yuqoriga ko'taring</translation>
     </message>
     <message>
         <source>Lower to bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Pastdan pastga</translation>
     </message>
     <message>
         <source>Hide Seam Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Chok chizig'ini yashirish</translation>
     </message>
     <message>
         <source>Show Seam Allowance</source>
-        <translation type="unfinished"></translation>
+        <translation>Tikuv to'lovini ko'rsatish</translation>
     </message>
     <message>
         <source>Show Grainline</source>
-        <translation type="unfinished"></translation>
+        <translation>Grainline-ni ko'rsatish</translation>
     </message>
     <message>
         <source>Show Pattern Label</source>
-        <translation type="unfinished"></translation>
+        <translation>andoza yorlig'ini ko'rsatish</translation>
     </message>
     <message>
         <source>Show Piece Label</source>
-        <translation type="unfinished"></translation>
+        <translation>Parcha yorlig'ini ko'rsatish</translation>
     </message>
     <message>
         <source>Rename...</source>
-        <translation type="unfinished"></translation>
+        <translation>Nomini oʻzgartirish...</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -8436,177 +8452,177 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>Forbid Flipping changed: </source>
-        <translation type="unfinished"></translation>
+        <translation>Forbid Flipping oʻzgartirildi:</translation>
     </message>
     <message>
         <source>Enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Yoqilgan</translation>
     </message>
     <message>
         <source>Disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Oʻchirilgan</translation>
     </message>
     <message>
         <source>Seam line visibility changed: </source>
-        <translation type="unfinished"></translation>
+        <translation>Chok chizig'ining ko'rinishi o'zgardi:</translation>
     </message>
     <message>
         <source>Hide</source>
-        <translation type="unfinished"></translation>
+        <translation>Yashirish</translation>
     </message>
     <message>
         <source>Show</source>
-        <translation type="unfinished"></translation>
+        <translation>Ko'rsatish</translation>
     </message>
     <message>
         <source>Show seam allowance</source>
-        <translation type="unfinished"></translation>
+        <translation>Tikuv joyini ko'rsating</translation>
     </message>
     <message>
         <source>Seam allowance visibility changed: </source>
-        <translation type="unfinished"></translation>
+        <translation>Choklarning ko'rinishi o'zgartirildi:</translation>
     </message>
     <message>
         <source>Show grainline</source>
-        <translation type="unfinished"></translation>
+        <translation>Don chizig'ini ko'rsating</translation>
     </message>
     <message>
         <source>Grainline visibility changed: </source>
-        <translation type="unfinished"></translation>
+        <translation>Don chizig'ining ko'rinishi o'zgardi:</translation>
     </message>
     <message>
         <source>Show pattern label</source>
-        <translation type="unfinished"></translation>
+        <translation>andoza yorlig‘ini ko‘rsatish</translation>
     </message>
     <message>
         <source>Pattern label visibility changed: </source>
-        <translation type="unfinished"></translation>
+        <translation>andoza yorlig‘i ko‘rinishi o‘zgartirildi:</translation>
     </message>
     <message>
         <source>Show piece label</source>
-        <translation type="unfinished"></translation>
+        <translation>Parcha yorlig'ini ko'rsatish</translation>
     </message>
     <message>
         <source>Piece label visibility changed: </source>
-        <translation type="unfinished"></translation>
+        <translation>Parcha yorlig‘i ko‘rinishi o‘zgardi:</translation>
     </message>
     <message>
         <source>Piece name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Qism nomi:</translation>
     </message>
     <message>
         <source>Rename Pattern Piece</source>
-        <translation type="unfinished"></translation>
+        <translation>Pattern Piece nomini o'zgartiring</translation>
     </message>
     <message>
         <source>Rename pattern piece</source>
-        <translation type="unfinished"></translation>
+        <translation>andoza parchasini qayta nomlash</translation>
     </message>
     <message>
         <source>Piece renamed to: </source>
-        <translation type="unfinished"></translation>
+        <translation>Parcha nomi:</translation>
     </message>
     <message>
         <source>Update Node Angle</source>
-        <translation type="unfinished"></translation>
+        <translation>Tugun burchagini yangilash</translation>
     </message>
     <message>
         <source>Update Notch</source>
-        <translation type="unfinished"></translation>
+        <translation>Notch-ni yangilang</translation>
     </message>
     <message>
         <source>Exclude Node</source>
-        <translation type="unfinished"></translation>
+        <translation>Tugunni istisno qilish</translation>
     </message>
     <message>
         <source>Delete Node</source>
-        <translation type="unfinished"></translation>
+        <translation>Tugunni o'chirish</translation>
     </message>
 </context>
 <context>
     <name>PenToolBar</name>
     <message>
         <source>Current line color</source>
-        <translation type="unfinished"></translation>
+        <translation>Joriy chiziq rangi</translation>
     </message>
     <message>
         <source>Current line type</source>
-        <translation type="unfinished"></translation>
+        <translation>Joriy chiziq turi</translation>
     </message>
     <message>
         <source>Current line weight</source>
-        <translation type="unfinished"></translation>
+        <translation>Joriy chiziq og'irligi</translation>
     </message>
     <message>
         <source>Reset current pen to defaults</source>
-        <translation type="unfinished"></translation>
+        <translation>Joriy qalamni asl holatiga qaytaring</translation>
     </message>
     <message>
         <source>Save current pen preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Joriy qalam sozlamalarini saqlang</translation>
     </message>
 </context>
 <context>
     <name>PieceFillComboBox</name>
     <message>
         <source>No Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>To'ldirish yo'q</translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation type="unfinished"></translation>
+        <translation>Qattiq</translation>
     </message>
     <message>
         <source>Density 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Zichlik 1</translation>
     </message>
     <message>
         <source>Density 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Zichlik 2</translation>
     </message>
     <message>
         <source>Density 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Zichlik 3</translation>
     </message>
     <message>
         <source>Density 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Zichlik 4</translation>
     </message>
     <message>
         <source>Density 5</source>
-        <translation type="unfinished"></translation>
+        <translation>Zichlik 5</translation>
     </message>
     <message>
         <source>Density 6</source>
-        <translation type="unfinished"></translation>
+        <translation>Zichlik 6</translation>
     </message>
     <message>
         <source>Density 7</source>
-        <translation type="unfinished"></translation>
+        <translation>Zichlik 7</translation>
     </message>
     <message>
         <source>Horizontal Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Gorizontal chiziq</translation>
     </message>
     <message>
         <source>Vertical Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertikal chiziq</translation>
     </message>
     <message>
         <source>Cross</source>
-        <translation type="unfinished"></translation>
+        <translation>Xoch</translation>
     </message>
     <message>
         <source>Backward Diagonal</source>
-        <translation type="unfinished"></translation>
+        <translation>Orqaga diagonal</translation>
     </message>
     <message>
         <source>Forward Diagonal</source>
-        <translation type="unfinished"></translation>
+        <translation>Oldinga diagonal</translation>
     </message>
     <message>
         <source>Diagonal Cross</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagonal xoch</translation>
     </message>
 </context>
 <context>
@@ -8621,94 +8637,94 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>Include all pieces</source>
-        <translation type="unfinished"></translation>
+        <translation>Barcha qismlarni qo'shing</translation>
     </message>
     <message>
         <source>Exclude all pieces</source>
-        <translation type="unfinished"></translation>
+        <translation>Barcha qismlarni chiqarib tashlang</translation>
     </message>
     <message>
         <source>Invert included pieces</source>
-        <translation type="unfinished"></translation>
+        <translation>Kiritilgan qismlarni aylantiring</translation>
     </message>
     <message>
         <source>Lock all pieces</source>
-        <translation type="unfinished"></translation>
+        <translation>Barcha qismlarni qulflang</translation>
     </message>
     <message>
         <source>Unlock all pieces</source>
-        <translation type="unfinished"></translation>
+        <translation>Barcha qismlarni qulfdan chiqaring</translation>
     </message>
     <message>
         <source>Invert locked pieces</source>
-        <translation type="unfinished"></translation>
+        <translation>Qulflangan qismlarni teskari aylantiring</translation>
     </message>
     <message>
         <source>Toggle inclusion of pattern piece in layout</source>
-        <translation type="unfinished"></translation>
+        <translation>andoza boʻlagini tartibga kiritishni yoqish/oʻchirish</translation>
     </message>
     <message>
         <source>Select Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Rangni tanlang</translation>
     </message>
     <message>
         <source>Edit pattern piece properties</source>
-        <translation type="unfinished"></translation>
+        <translation>andoza parchasi xususiyatlarini tahrirlash</translation>
     </message>
     <message>
         <source>Included</source>
-        <translation type="unfinished"></translation>
+        <translation>Kiritilgan</translation>
     </message>
     <message>
         <source>Pattern piece is included in layout</source>
-        <translation type="unfinished"></translation>
+        <translation>andoza qismi tartibga kiritilgan</translation>
     </message>
     <message>
         <source>Locked</source>
-        <translation type="unfinished"></translation>
+        <translation>Qulflangan</translation>
     </message>
     <message>
         <source>Pattern piece is locked</source>
-        <translation type="unfinished"></translation>
+        <translation>andoza qismi qulflangan</translation>
     </message>
     <message>
         <source>Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Rang</translation>
     </message>
     <message>
         <source>Pattern piece color</source>
-        <translation type="unfinished"></translation>
+        <translation>andoza qismi rangi</translation>
     </message>
     <message>
         <source>Piece</source>
-        <translation type="unfinished"></translation>
+        <translation>Qism</translation>
     </message>
     <message>
         <source>Pattern piece letter</source>
-        <translation type="unfinished"></translation>
+        <translation>andozali parcha harfi</translation>
     </message>
     <message>
         <source>Pattern piece name</source>
-        <translation type="unfinished"></translation>
+        <translation>andoza qismi nomi</translation>
     </message>
     <message>
         <source>Toggle lock on pattern piece</source>
-        <translation type="unfinished"></translation>
+        <translation>andozali qismdagi qulfni almashtirish</translation>
     </message>
     <message>
         <source>Double click opens color selector</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikki marta bosish rang tanlashni ochadi</translation>
     </message>
     <message>
         <source>Double click opens pattern piece properties dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikki marta bosish andoza qismi xususiyatlari dialogini ochadi</translation>
     </message>
 </context>
 <context>
     <name>PointIntersectXYDialog</name>
     <message>
         <source>Point - Intersect XY</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta - XY kesishadi</translation>
     </message>
     <message>
         <source>Selection</source>
@@ -8716,11 +8732,11 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>1st point:</source>
-        <translation type="unfinished"></translation>
+        <translation>1-band:</translation>
     </message>
     <message>
         <source>2nd point:</source>
-        <translation type="unfinished"></translation>
+        <translation>2-band:</translation>
     </message>
     <message>
         <source>Attributes</source>
@@ -8759,7 +8775,7 @@ Press enter to temporarily add it to the list.</source>
     <name>PreferencesConfigurationPage</name>
     <message>
         <source>Interval:</source>
-        <translation type="unfinished"></translation>
+        <translation>Interval:</translation>
     </message>
     <message>
         <source>Language</source>
@@ -8771,23 +8787,23 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>Default unit:</source>
-        <translation type="unfinished"></translation>
+        <translation>Standart birlik:</translation>
     </message>
     <message>
         <source>The Default unit has been updated and will be used as the default for the next pattern you create.</source>
-        <translation type="unfinished"></translation>
+        <translation>Standart birlik yangilandi va siz yaratgan keyingi andoza uchun standart sifatida ishlatiladi.</translation>
     </message>
     <message>
         <source>Centimeters</source>
-        <translation type="unfinished"></translation>
+        <translation>Santimetr</translation>
     </message>
     <message>
         <source>Inches</source>
-        <translation type="unfinished"></translation>
+        <translation>dyuym</translation>
     </message>
     <message>
         <source>Editing</source>
-        <translation type="unfinished"></translation>
+        <translation>Tahrirlash</translation>
     </message>
     <message>
         <source>Undo</source>
@@ -8795,83 +8811,83 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>Count step:</source>
-        <translation type="unfinished"></translation>
+        <translation>Qadamni hisoblash:</translation>
     </message>
     <message>
         <source> (0 - no limit)</source>
-        <translation type="unfinished"></translation>
+        <translation>(0 - cheklanmagan)</translation>
     </message>
     <message>
         <source>Pattern Editing Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>Shaklni tahrirlash bo'yicha ogohlantirishlar</translation>
     </message>
     <message>
         <source>Confirm Item Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Elementni o'chirishni tasdiqlang</translation>
     </message>
     <message>
         <source>Confirm Format Rewriting</source>
-        <translation type="unfinished"></translation>
+        <translation>Formatni qayta yozishni tasdiqlang</translation>
     </message>
     <message>
         <source>Operations Default Suffix</source>
-        <translation type="unfinished"></translation>
+        <translation>Operatsiyalar standart suffiksi</translation>
     </message>
     <message>
         <source>Mirror by axis suffix:</source>
-        <translation type="unfinished"></translation>
+        <translation>O‘q bo‘yicha ko‘zgu qo‘shimchasi:</translation>
     </message>
     <message>
         <source>Mirror by line suffix:</source>
-        <translation type="unfinished"></translation>
+        <translation>Satr bo'yicha ko'zgu qo'shimchasi:</translation>
     </message>
     <message>
         <source>Move suffix:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ko‘chirish qo‘shimchasi:</translation>
     </message>
     <message>
         <source>Rotate suffix:</source>
-        <translation type="unfinished"></translation>
+        <translation>Qaytish qo'shimchasi:</translation>
     </message>
     <message>
         <source>File Handling</source>
-        <translation type="unfinished"></translation>
+        <translation>Fayl bilan ishlash</translation>
     </message>
     <message>
         <source>Backups</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaxira nusxalari</translation>
     </message>
     <message>
         <source>Create backup file when converting</source>
-        <translation type="unfinished"></translation>
+        <translation>Konvertatsiya qilishda zaxira fayl yarating</translation>
     </message>
     <message>
         <source>Enable Autosave</source>
-        <translation type="unfinished"></translation>
+        <translation>Avtomatik saqlashni yoqing</translation>
     </message>
     <message>
         <source> min</source>
-        <translation type="unfinished"></translation>
+        <translation>min</translation>
     </message>
     <message>
         <source>Every </source>
-        <translation type="unfinished"></translation>
+        <translation>Har</translation>
     </message>
     <message>
         <source>Export Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksport formati</translation>
     </message>
     <message>
         <source>Include mode type in filename</source>
-        <translation type="unfinished"></translation>
+        <translation>Fayl nomiga rejim turini kiriting</translation>
     </message>
     <message>
         <source>Save last used</source>
-        <translation type="unfinished"></translation>
+        <translation>Oxirgi foydalanilganni saqlang</translation>
     </message>
     <message>
         <source>Default:</source>
-        <translation type="unfinished"></translation>
+        <translation>Standart:</translation>
     </message>
     <message>
         <source>None</source>
@@ -8879,79 +8895,79 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>_M</source>
-        <translation type="unfinished"></translation>
+        <translation>_M</translation>
     </message>
     <message>
         <source>_MOV</source>
-        <translation type="unfinished"></translation>
+        <translation>_MOV</translation>
     </message>
     <message>
         <source>_R</source>
-        <translation type="unfinished"></translation>
+        <translation>_R</translation>
     </message>
     <message>
         <source>_ROT</source>
-        <translation type="unfinished"></translation>
+        <translation>_ROT</translation>
     </message>
     <message>
         <source>_MA</source>
-        <translation type="unfinished"></translation>
+        <translation>_MA</translation>
     </message>
     <message>
         <source>_MBA</source>
-        <translation type="unfinished"></translation>
+        <translation>_MBA</translation>
     </message>
     <message>
         <source>_MB</source>
-        <translation type="unfinished"></translation>
+        <translation>_MB</translation>
     </message>
     <message>
         <source>_MBL</source>
-        <translation type="unfinished"></translation>
+        <translation>_MBL</translation>
     </message>
     <message>
         <source>Millimeters</source>
-        <translation type="unfinished"></translation>
+        <translation>Millimetr</translation>
     </message>
     <message>
         <source>Selection sound</source>
-        <translation type="unfinished"></translation>
+        <translation>Tanlov ovozi</translation>
     </message>
     <message>
         <source>Sound:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ovoz:</translation>
     </message>
     <message>
         <source>Designer Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Dizayner haqida ma'lumot</translation>
     </message>
     <message>
         <source>Company / Designer Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Kompaniya / Dizayner haqida ma'lumot</translation>
     </message>
     <message>
         <source>Company / Designer:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kompaniya / Dizayner:</translation>
     </message>
     <message>
         <source>Contact:</source>
-        <translation type="unfinished"></translation>
+        <translation>Aloqa:</translation>
     </message>
     <message>
         <source>Address:</source>
-        <translation type="unfinished"></translation>
+        <translation>Manzil:</translation>
     </message>
     <message>
         <source>City:</source>
-        <translation type="unfinished"></translation>
+        <translation>Shahar:</translation>
     </message>
     <message>
         <source>State:</source>
-        <translation type="unfinished"></translation>
+        <translation>Davlat:</translation>
     </message>
     <message>
         <source>Zipcode:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pochta indeksi:</translation>
     </message>
     <message>
         <source>Country:</source>
@@ -8959,15 +8975,15 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>Telephone:</source>
-        <translation type="unfinished"></translation>
+        <translation>Telefon:</translation>
     </message>
     <message>
         <source>Fax:</source>
-        <translation type="unfinished"></translation>
+        <translation>Faks:</translation>
     </message>
     <message>
         <source>Email:</source>
-        <translation type="unfinished"></translation>
+        <translation>Email:</translation>
     </message>
     <message>
         <source>Website:</source>
@@ -8975,39 +8991,39 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>Email verification</source>
-        <translation type="unfinished"></translation>
+        <translation>Elektron pochtani tekshirish</translation>
     </message>
     <message>
         <source>Email format is not valid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elektron pochta formati noto‘g‘ri.</translation>
     </message>
     <message>
         <source>Startup</source>
-        <translation type="unfinished"></translation>
+        <translation>Ish boshlash</translation>
     </message>
     <message>
         <source>Welcome</source>
-        <translation type="unfinished"></translation>
+        <translation>Xush kelibsiz</translation>
     </message>
     <message>
         <source>Do not show welcome screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Xush kelibsiz ekran ko'rsatilmasin</translation>
     </message>
     <message>
         <source>Point name text:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta nomi matni:</translation>
     </message>
     <message>
         <source>Separator Locale:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajratuvchi mahalliy:</translation>
     </message>
     <message>
         <source>Default</source>
         <translation>Default</translation>
     </message>
     <message>
-        <source>User&apos;s System</source>
-        <translation type="unfinished"></translation>
+        <source>User's System</source>
+        <translation>Foydalanuvchi tizimi</translation>
     </message>
     <message>
         <source>Locale</source>
@@ -9015,62 +9031,62 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>Country</source>
-        <translation type="unfinished"></translation>
+        <translation>Mamlakat</translation>
     </message>
     <message>
         <source>Group Separator</source>
-        <translation type="unfinished"></translation>
+        <translation>Guruh ajratuvchi</translation>
     </message>
     <message>
         <source>Decimal Point</source>
-        <translation type="unfinished"></translation>
+        <translation>O'nlik nuqta</translation>
     </message>
     <message>
         <source>Negative Sign</source>
-        <translation type="unfinished"></translation>
+        <translation>Salbiy belgi</translation>
     </message>
     <message>
         <source>Positive Sign</source>
-        <translation type="unfinished"></translation>
+        <translation>Ijobiy belgi</translation>
     </message>
     <message>
         <source>Max number of backups:</source>
-        <translation type="unfinished"></translation>
+        <translation>Maksimal zaxira nusxalari soni:</translation>
     </message>
     <message>
         <source> per file</source>
-        <translation type="unfinished"></translation>
+        <translation>har bir fayl uchun</translation>
     </message>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>Tashqi ko'rinish</translation>
     </message>
     <message>
         <source>Theme:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mavzu:</translation>
     </message>
 </context>
 <context>
     <name>PreferencesGraphicsViewPage</name>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>Tashqi ko'rinish</translation>
     </message>
     <message>
         <source>Toolbars</source>
-        <translation type="unfinished"></translation>
+        <translation>Asboblar paneli</translation>
     </message>
     <message>
         <source>Text label appears under the icon (recommended for beginners)</source>
-        <translation type="unfinished"></translation>
+        <translation>Belgi ostida matn yorlig'i paydo bo'ladi (yangi boshlanuvchilar uchun tavsiya etiladi)</translation>
     </message>
     <message>
         <source>Show tool toolbars</source>
-        <translation type="unfinished"></translation>
+        <translation>Asboblar panelini ko'rsatish</translation>
     </message>
     <message>
         <source>ToolBox</source>
-        <translation type="unfinished"></translation>
+        <translation>ToolBox</translation>
     </message>
     <message>
         <source>Point</source>
@@ -9094,7 +9110,7 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>Piece</source>
-        <translation type="unfinished"></translation>
+        <translation>Qism</translation>
     </message>
     <message>
         <source>Details</source>
@@ -9110,19 +9126,19 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>Use anti-aliasing</source>
-        <translation type="unfinished"></translation>
+        <translation>Anti-aliasingdan foydalaning</translation>
     </message>
     <message>
         <source>Fonts</source>
-        <translation type="unfinished"></translation>
+        <translation>Shriftlar</translation>
     </message>
     <message>
         <source>Label</source>
-        <translation type="unfinished"></translation>
+        <translation>Yozuv</translation>
     </message>
     <message>
         <source>Font:</source>
-        <translation type="unfinished"></translation>
+        <translation>Shrift:</translation>
     </message>
     <message>
         <source>Size:</source>
@@ -9130,47 +9146,47 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>The quick brown fox jumps over the lazy dog</source>
-        <translation type="unfinished"></translation>
+        <translation>Tez jigarrang tulki dangasa itning ustiga sakraydi</translation>
     </message>
     <message>
         <source>Point Names</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta nomlari</translation>
     </message>
     <message>
         <source>GUI</source>
-        <translation type="unfinished"></translation>
+        <translation>GUI</translation>
     </message>
     <message>
         <source>Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Ranglar</translation>
     </message>
     <message>
         <source>Zoom Rubberband</source>
-        <translation type="unfinished"></translation>
+        <translation>Kattalashtirish kauchuk</translation>
     </message>
     <message>
         <source>Positive:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ijobiy:</translation>
     </message>
     <message>
         <source>Negative:</source>
-        <translation type="unfinished"></translation>
+        <translation>Salbiy:</translation>
     </message>
     <message>
         <source>Default:</source>
-        <translation type="unfinished"></translation>
+        <translation>Standart:</translation>
     </message>
     <message>
         <source>Hover</source>
-        <translation type="unfinished"></translation>
+        <translation>Hover</translation>
     </message>
     <message>
         <source>Drawing</source>
-        <translation type="unfinished"></translation>
+        <translation>Chizma</translation>
     </message>
     <message>
         <source>Axis Origin</source>
-        <translation type="unfinished"></translation>
+        <translation>Axis kelib chiqishi</translation>
     </message>
     <message>
         <source>Selection</source>
@@ -9178,27 +9194,27 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>Primary:</source>
-        <translation type="unfinished"></translation>
+        <translation>Asosiy:</translation>
     </message>
     <message>
         <source>Secondary:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikkilamchi:</translation>
     </message>
     <message>
         <source>Tertiary:</source>
-        <translation type="unfinished"></translation>
+        <translation>Uchinchi darajali:</translation>
     </message>
     <message>
         <source>Navigation</source>
-        <translation type="unfinished"></translation>
+        <translation>Navigatsiya</translation>
     </message>
     <message>
         <source>Scrollbars</source>
-        <translation type="unfinished"></translation>
+        <translation>Scrollbars</translation>
     </message>
     <message>
         <source>Show Scrollbars</source>
-        <translation type="unfinished"></translation>
+        <translation>O‘tkazish panelini ko‘rsatish</translation>
     </message>
     <message>
         <source>Width:</source>
@@ -9206,64 +9222,64 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source> px</source>
-        <translation type="unfinished"></translation>
+        <translation>px</translation>
     </message>
     <message>
         <source>Duration:</source>
-        <translation type="unfinished"></translation>
+        <translation>Davomiyligi:</translation>
     </message>
     <message>
         <source>Scrolling animation duration</source>
-        <translation type="unfinished"></translation>
+        <translation>O'tkazish animatsiyasi davomiyligi</translation>
     </message>
     <message>
         <source> ms</source>
         <comment>milliseconds</comment>
-        <translation type="unfinished"></translation>
+        <translation>Xonim</translation>
     </message>
     <message>
         <source>Update interval:</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangilash oralig'i:</translation>
     </message>
     <message>
         <source>Time in milliseconds between each animation update</source>
-        <translation type="unfinished"></translation>
+        <translation>Har bir animatsiya yangilanishi orasidagi vaqt millisekundlarda</translation>
     </message>
     <message>
         <source>Speed:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tezlik:</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Kattalashtirish</translation>
     </message>
     <message>
         <source>Use CTRL modifier</source>
-        <translation type="unfinished"></translation>
+        <translation>CTRL modifikatoridan foydalaning</translation>
     </message>
     <message>
         <source>Behavior</source>
-        <translation type="unfinished"></translation>
+        <translation>Xulq-atvor</translation>
     </message>
     <message>
         <source>Constraints</source>
-        <translation type="unfinished"></translation>
+        <translation>Cheklovlar</translation>
     </message>
     <message>
         <source>Angle Step:</source>
-        <translation type="unfinished"></translation>
+        <translation>Burchak qadami:</translation>
     </message>
     <message>
         <source> deg</source>
-        <translation type="unfinished"></translation>
+        <translation>deg</translation>
     </message>
     <message>
         <source>Zoom to selected with double click</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikki marta bosish bilan tanlanganni kattalashtiring</translation>
     </message>
     <message>
         <source>Pan active while Space key is pressed</source>
-        <translation type="unfinished"></translation>
+        <translation>Bo'sh joy tugmasi bosilganda pana faol</translation>
     </message>
     <message>
         <source>Export</source>
@@ -9271,79 +9287,79 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>Quality:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sifat:</translation>
     </message>
     <message>
         <source>Pen</source>
-        <translation type="unfinished"></translation>
+        <translation>Qalam</translation>
     </message>
     <message>
         <source>Always use current pen</source>
-        <translation type="unfinished"></translation>
+        <translation>Har doim joriy qalamdan foydalaning</translation>
     </message>
     <message>
         <source>Dialogs</source>
-        <translation type="unfinished"></translation>
+        <translation>Dialoglar</translation>
     </message>
     <message>
         <source>Open on second monitor if available</source>
-        <translation type="unfinished"></translation>
+        <translation>Agar mavjud bo'lsa, ikkinchi monitorda oching</translation>
     </message>
     <message>
         <source>Position</source>
-        <translation type="unfinished"></translation>
+        <translation>Lavozim</translation>
     </message>
     <message>
         <source>Top left</source>
-        <translation type="unfinished"></translation>
+        <translation>Yuqori chap</translation>
     </message>
     <message>
         <source>Top right</source>
-        <translation type="unfinished"></translation>
+        <translation>Yuqori o'ng</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Markaz</translation>
     </message>
     <message>
         <source>Bottom left</source>
-        <translation type="unfinished"></translation>
+        <translation>Pastki chap</translation>
     </message>
     <message>
         <source>Bottom right</source>
-        <translation type="unfinished"></translation>
+        <translation>Pastki o'ng</translation>
     </message>
     <message>
         <source>Offset</source>
-        <translation type="unfinished"></translation>
+        <translation>Ofset</translation>
     </message>
     <message>
         <source>X Offset:</source>
-        <translation type="unfinished"></translation>
+        <translation>X ofset:</translation>
     </message>
     <message>
         <source>Y Offset:</source>
-        <translation type="unfinished"></translation>
+        <translation>Y Ofset:</translation>
     </message>
     <message>
         <source>Show only ISO line weights in drop down boxes</source>
-        <translation type="unfinished"></translation>
+        <translation>Ochiladigan qutilarda faqat ISO chiziq og'irliklarini ko'rsating</translation>
     </message>
     <message>
         <source>Workspace</source>
-        <translation type="unfinished"></translation>
+        <translation>Ish maydoni</translation>
     </message>
     <message>
         <source>Background:</source>
-        <translation type="unfinished"></translation>
+        <translation>Fon:</translation>
     </message>
     <message>
         <source>Formula Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Formula muharriri</translation>
     </message>
     <message>
         <source>Auto clear formula</source>
-        <translation type="unfinished"></translation>
+        <translation>Avtomatik tozalash formulasi</translation>
     </message>
 </context>
 <context>
@@ -9382,19 +9398,19 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>My Images</source>
-        <translation type="unfinished"></translation>
+        <translation>Mening rasmlarim</translation>
     </message>
     <message>
         <source>My Backups</source>
-        <translation type="unfinished"></translation>
+        <translation>Mening zaxira nusxalarim</translation>
     </message>
     <message>
         <source>My Patterns</source>
-        <translation type="unfinished"></translation>
+        <translation>Mening andozalarim</translation>
     </message>
     <message>
         <source>My Layouts</source>
-        <translation type="unfinished"></translation>
+        <translation>Mening maketlarim</translation>
     </message>
     <message>
         <source>My Templates</source>
@@ -9402,7 +9418,7 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>My Label Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Mening yorliq shablonlari</translation>
     </message>
 </context>
 <context>
@@ -9413,11 +9429,11 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>By default forbid flipping for all new created workpieces</source>
-        <translation type="unfinished"></translation>
+        <translation>Odatiy bo'lib, barcha yangi yaratilgan ish qismlari uchun aylantirishni taqiqlang</translation>
     </message>
     <message>
         <source>By default hide the main path if the seam allowance was enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Agar tikuv to'lovi yoqilgan bo'lsa, sukut bo'yicha asosiy yo'lni yashiring</translation>
     </message>
     <message>
         <source>Seam allowance</source>
@@ -9425,27 +9441,27 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>Default value:</source>
-        <translation type="unfinished"></translation>
+        <translation>Birlamchi qiymat:</translation>
     </message>
     <message>
         <source>Date:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sana:</translation>
     </message>
     <message>
         <source>Edit formats</source>
-        <translation type="unfinished"></translation>
+        <translation>Formatlarni tahrirlash</translation>
     </message>
     <message>
         <source>Time:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vaqt:</translation>
     </message>
     <message>
         <source>Pattern Piece</source>
-        <translation type="unfinished"></translation>
+        <translation>andoza parchasi</translation>
     </message>
     <message>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Xususiyatlari</translation>
     </message>
     <message>
         <source>Notches</source>
@@ -9453,7 +9469,7 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>Show notch on both the seam allowance and seam line.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tikuv joyida ham, tikuv chizig'ida ham chokni ko'rsating.</translation>
     </message>
     <message>
         <source>Type:</source>
@@ -9473,11 +9489,11 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>Grainlines</source>
-        <translation type="unfinished"></translation>
+        <translation>Donachalar</translation>
     </message>
     <message>
         <source>Show grainlines</source>
-        <translation type="unfinished"></translation>
+        <translation>Donalarni ko'rsating</translation>
     </message>
     <message>
         <source>Lineweight:</source>
@@ -9485,7 +9501,7 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>x 3</source>
-        <translation type="unfinished"></translation>
+        <translation>x 3</translation>
     </message>
     <message>
         <source>Paths</source>
@@ -9493,7 +9509,7 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>Seam Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Tikuv liniyasi</translation>
     </message>
     <message>
         <source>Linetype:</source>
@@ -9501,15 +9517,15 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>Lineweight</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiziq og'irligi</translation>
     </message>
     <message>
         <source>Cut Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiziqni kesish</translation>
     </message>
     <message>
         <source>Cutouts</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiqib ketishlar</translation>
     </message>
     <message>
         <source>Labels</source>
@@ -9517,35 +9533,35 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>Label data (date/time format)</source>
-        <translation type="unfinished"></translation>
+        <translation>Yorliq maʼlumotlari (sana/vaqt formati)</translation>
     </message>
     <message>
         <source>Slit</source>
-        <translation type="unfinished"></translation>
+        <translation>Yoriq</translation>
     </message>
     <message>
         <source>T Notch</source>
-        <translation type="unfinished"></translation>
+        <translation>T Notch</translation>
     </message>
     <message>
         <source>U Notch</source>
-        <translation type="unfinished"></translation>
+        <translation>U Notch</translation>
     </message>
     <message>
         <source>V Internal</source>
-        <translation type="unfinished"></translation>
+        <translation>V Ichki</translation>
     </message>
     <message>
         <source>V External</source>
-        <translation type="unfinished"></translation>
+        <translation>V Tashqi</translation>
     </message>
     <message>
         <source>Castle</source>
-        <translation type="unfinished"></translation>
+        <translation>Qal'a</translation>
     </message>
     <message>
         <source>Diamond</source>
-        <translation type="unfinished"></translation>
+        <translation>Olmos</translation>
     </message>
     <message>
         <source>Attributes</source>
@@ -9553,11 +9569,11 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>Show pattern labels</source>
-        <translation type="unfinished"></translation>
+        <translation>andoza belgilarini ko'rsatish</translation>
     </message>
     <message>
         <source>Show piece labels</source>
-        <translation type="unfinished"></translation>
+        <translation>Parcha yorliqlarini ko'rsatish</translation>
     </message>
     <message>
         <source>Width</source>
@@ -9573,66 +9589,66 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>Pattern label:</source>
-        <translation type="unfinished"></translation>
+        <translation>andoza yorlig‘i:</translation>
     </message>
     <message>
         <source>Piece label:</source>
-        <translation type="unfinished"></translation>
+        <translation>Parcha yorlig'i:</translation>
     </message>
     <message>
         <source>Label template</source>
-        <translation type="unfinished"></translation>
+        <translation>Yorliq shabloni</translation>
     </message>
     <message>
         <source>Import template</source>
-        <translation type="unfinished"></translation>
+        <translation>Import shablon</translation>
     </message>
     <message>
         <source>Show notch on Cut Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Kesish chizig'ida chiziqni ko'rsating</translation>
     </message>
     <message>
         <source>Show notch on Seam Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Chok chizig'ida chokni ko'rsating</translation>
     </message>
     <message>
         <source>Internals</source>
-        <translation type="unfinished"></translation>
+        <translation>Ichki qismlar</translation>
     </message>
     <message>
         <source>Show Cut Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Kesilgan chiziqni ko'rsatish</translation>
     </message>
     <message>
         <source>Hide Seam Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Chok chizig'ini yashirish</translation>
     </message>
     <message>
         <source>Arrow length:</source>
-        <translation type="unfinished"></translation>
+        <translation>O'q uzunligi:</translation>
     </message>
     <message>
         <source> px</source>
-        <translation type="unfinished"></translation>
+        <translation>px</translation>
     </message>
 </context>
 <context>
     <name>QCoreApplication</name>
     <message>
         <source>Based on Qt %1 (%2, %3 bit)</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt %1 asosida (%2, %3 bit)</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
         <source>Create new pattern piece to start working.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ishni boshlash uchun yangi andoza qismini yarating.</translation>
     </message>
     <message>
         <source>Property</source>
         <extracomment>The text that appears in the first column header</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Mulk</translation>
     </message>
     <message>
         <source>Value</source>
@@ -9641,35 +9657,35 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>add node</source>
-        <translation type="unfinished"></translation>
+        <translation>tugun qo'shing</translation>
     </message>
     <message>
         <source>Changes applied.</source>
-        <translation type="unfinished"></translation>
+        <translation>Oʻzgarishlar qoʻllanildi.</translation>
     </message>
     <message>
-        <source>Wrong tag name &apos;%1&apos;.</source>
-        <translation type="unfinished"></translation>
+        <source>Wrong tag name '%1'.</source>
+        <translation>Teg nomi noto‘g‘ri '% 1'.</translation>
     </message>
     <message>
-        <source>Can&apos;t convert toUInt parameter</source>
-        <translation type="unfinished"></translation>
+        <source>Can't convert toUInt parameter</source>
+        <translation>toUInt parametrini oʻzgartirib boʻlmadi</translation>
     </message>
     <message>
-        <source>Can&apos;t convert toBool parameter</source>
-        <translation type="unfinished"></translation>
+        <source>Can't convert toBool parameter</source>
+        <translation>ToBool parametrini aylantirib bo'lmadi</translation>
     </message>
     <message>
         <source>Got empty parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Bo'sh parametr bor</translation>
     </message>
     <message>
-        <source>Can&apos;t convert toDouble parameter</source>
-        <translation type="unfinished"></translation>
+        <source>Can't convert toDouble parameter</source>
+        <translation>Double parametriga aylantirib bo'lmadi</translation>
     </message>
     <message>
         <source>Got wrong parameter id. Need only id &gt; 0.</source>
-        <translation type="unfinished"></translation>
+        <translation>Noto'g'ri parametr identifikatori bor.Faqat id &gt; 0 kerak.</translation>
     </message>
     <message>
         <source>Fabric</source>
@@ -9697,67 +9713,67 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>Union piece</source>
-        <translation type="unfinished"></translation>
+        <translation>Birlashma qismi</translation>
     </message>
     <message>
         <source>move piece</source>
-        <translation type="unfinished"></translation>
+        <translation>harakatlanuvchi qism</translation>
     </message>
     <message>
         <source>Solidline</source>
-        <translation type="unfinished"></translation>
+        <translation>Qattiq chiziq</translation>
     </message>
     <message>
         <source>Dash</source>
-        <translation type="unfinished"></translation>
+        <translation>Dash</translation>
     </message>
     <message>
         <source>Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta</translation>
     </message>
     <message>
         <source>Dash Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiziqli nuqta</translation>
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiziqli nuqta</translation>
     </message>
     <message>
         <source>No Pen</source>
-        <translation type="unfinished"></translation>
+        <translation>Qalam yo'q</translation>
     </message>
     <message>
         <source>Forward (from start point)</source>
-        <translation type="unfinished"></translation>
+        <translation>Oldinga (boshlanish nuqtasidan)</translation>
     </message>
     <message>
         <source>Backward (from end point)</source>
-        <translation type="unfinished"></translation>
+        <translation>Orqaga (oxirgi nuqtadan)</translation>
     </message>
     <message>
         <source>Images</source>
-        <translation type="unfinished"></translation>
+        <translation>Tasvirlar</translation>
     </message>
     <message>
         <source>Open Image File</source>
-        <translation type="unfinished"></translation>
+        <translation>Rasm faylini oching</translation>
     </message>
     <message>
-        <source>Can not extend internal path &apos;%1&apos; start point to cut line.</source>
-        <translation type="unfinished"></translation>
+        <source>Can not extend internal path '%1' start point to cut line.</source>
+        <translation>'% 1' boshlang'ich nuqtasi ichki yo'lini kesish chizig'iga kengaytirib bo'lmadi.</translation>
     </message>
     <message>
-        <source>Can not extend internal path &apos;%1&apos; end point to cut line.</source>
-        <translation type="unfinished"></translation>
+        <source>Can not extend internal path '%1' end point to cut line.</source>
+        <translation>“% 1” so‘nggi nuqtasi ichki yo‘lni kesish chizig‘iga kengaytirib bo‘lmadi.</translation>
     </message>
     <message>
         <source>%1</source>
-        <translation type="unfinished"></translation>
+        <translation>% 1</translation>
     </message>
     <message>
         <source>inch</source>
-        <translation type="unfinished"></translation>
+        <translation>dyuym</translation>
     </message>
 </context>
 <context>
@@ -9765,202 +9781,202 @@ Press enter to temporarily add it to the list.</source>
     <message>
         <source>too few arguments for function sum.</source>
         <comment>parser error message</comment>
-        <translation type="unfinished"></translation>
+        <translation>funktsiya summasi uchun juda kam argumentlar.</translation>
     </message>
     <message>
         <source>too few arguments for function min.</source>
         <comment>parser error message</comment>
-        <translation type="unfinished"></translation>
+        <translation>funktsiya uchun juda kam argumentlar min.</translation>
     </message>
 </context>
 <context>
     <name>QmuParserErrorMsg</name>
     <message>
-        <source>Unexpected token &quot;$TOK$&quot; found at position $POS$.</source>
-        <comment>Math parser error messages. Left untouched &quot;$TOK$&quot; and $POS$</comment>
-        <translation type="unfinished"></translation>
+        <source>Unexpected token "$TOK$" found at position $POS$.</source>
+        <comment>Math parser error messages. Left untouched "$TOK$" and $POS$</comment>
+        <translation>$POS$ pozitsiyasida kutilmagan “$TOK$” tokeni topildi.</translation>
     </message>
     <message>
         <source>Internal error</source>
         <comment>Math parser error messages.</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ichki xato</translation>
     </message>
     <message>
-        <source>Invalid function-, variable- or constant name: &quot;$TOK$&quot;.</source>
-        <comment>Math parser error messages. Left untouched &quot;$TOK$&quot;</comment>
-        <translation type="unfinished"></translation>
+        <source>Invalid function-, variable- or constant name: "$TOK$".</source>
+        <comment>Math parser error messages. Left untouched "$TOK$"</comment>
+        <translation>Yaroqsiz funktsiya, o'zgaruvchi yoki doimiy nom: "$TOK$".</translation>
     </message>
     <message>
-        <source>Invalid binary operator identifier: &quot;$TOK$&quot;.</source>
-        <comment>Math parser error messages. Left untouched &quot;$TOK$&quot;</comment>
-        <translation type="unfinished"></translation>
+        <source>Invalid binary operator identifier: "$TOK$".</source>
+        <comment>Math parser error messages. Left untouched "$TOK$"</comment>
+        <translation>Ikkilik operator identifikatori yaroqsiz: "$TOK$".</translation>
     </message>
     <message>
-        <source>Invalid infix operator identifier: &quot;$TOK$&quot;.</source>
-        <comment>Math parser error messages. Left untouched &quot;$TOK$&quot;</comment>
-        <translation type="unfinished"></translation>
+        <source>Invalid infix operator identifier: "$TOK$".</source>
+        <comment>Math parser error messages. Left untouched "$TOK$"</comment>
+        <translation>Infix operator identifikatori yaroqsiz: "$TOK$".</translation>
     </message>
     <message>
-        <source>Invalid postfix operator identifier: &quot;$TOK$&quot;.</source>
-        <comment>Math parser error messages. Left untouched &quot;$TOK$&quot;</comment>
-        <translation type="unfinished"></translation>
+        <source>Invalid postfix operator identifier: "$TOK$".</source>
+        <comment>Math parser error messages. Left untouched "$TOK$"</comment>
+        <translation>Postfiks operatori identifikatori noto‘g‘ri: "$TOK$".</translation>
     </message>
     <message>
         <source>Invalid pointer to callback function.</source>
         <comment>Math parser error messages.</comment>
-        <translation type="unfinished"></translation>
+        <translation>Qayta qo'ng'iroq qilish funktsiyasi uchun noto'g'ri ko'rsatgich.</translation>
     </message>
     <message>
         <source>Expression is empty.</source>
         <comment>Math parser error messages.</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ifoda bo'sh.</translation>
     </message>
     <message>
         <source>Invalid pointer to variable.</source>
         <comment>Math parser error messages.</comment>
-        <translation type="unfinished"></translation>
+        <translation>O‘zgaruvchiga ko‘rsatgich noto‘g‘ri.</translation>
     </message>
     <message>
-        <source>Unexpected operator &quot;$TOK$&quot; found at position $POS$</source>
-        <comment>Math parser error messages. Left untouched &quot;$TOK$&quot; and $POS$</comment>
-        <translation type="unfinished"></translation>
+        <source>Unexpected operator "$TOK$" found at position $POS$</source>
+        <comment>Math parser error messages. Left untouched "$TOK$" and $POS$</comment>
+        <translation>$POS$ pozitsiyasida kutilmagan “$TOK$” operatori topildi</translation>
     </message>
     <message>
         <source>Unexpected end of expression at position $POS$</source>
         <comment>Math parser error messages. Left untouched $POS$</comment>
-        <translation type="unfinished"></translation>
+        <translation>$POS$ pozitsiyasida ifodaning kutilmagan tugashi</translation>
     </message>
     <message>
         <source>Unexpected argument separator at position $POS$</source>
         <comment>Math parser error messages. Left untouched $POS$</comment>
-        <translation type="unfinished"></translation>
+        <translation>$POS$ pozitsiyasida kutilmagan argument ajratuvchi</translation>
     </message>
     <message>
-        <source>Unexpected parenthesis &quot;$TOK$&quot; at position $POS$</source>
-        <comment>Math parser error messages. Left untouched &quot;$TOK$&quot; and $POS$</comment>
-        <translation type="unfinished"></translation>
+        <source>Unexpected parenthesis "$TOK$" at position $POS$</source>
+        <comment>Math parser error messages. Left untouched "$TOK$" and $POS$</comment>
+        <translation>$POS$ pozitsiyasida kutilmagan qavs "$TOK$"</translation>
     </message>
     <message>
-        <source>Unexpected function &quot;$TOK$&quot; at position $POS$</source>
-        <comment>Math parser error messages. Left untouched &quot;$TOK$&quot; and $POS$</comment>
-        <translation type="unfinished"></translation>
+        <source>Unexpected function "$TOK$" at position $POS$</source>
+        <comment>Math parser error messages. Left untouched "$TOK$" and $POS$</comment>
+        <translation>$POS$ pozitsiyasida kutilmagan “$TOK$” funksiyasi</translation>
     </message>
     <message>
-        <source>Unexpected value &quot;$TOK$&quot; found at position $POS$</source>
-        <comment>Math parser error messages. Left untouched &quot;$TOK$&quot; and $POS$</comment>
-        <translation type="unfinished"></translation>
+        <source>Unexpected value "$TOK$" found at position $POS$</source>
+        <comment>Math parser error messages. Left untouched "$TOK$" and $POS$</comment>
+        <translation>$POS$ pozitsiyasida kutilmagan “$TOK$” qiymati topildi</translation>
     </message>
     <message>
-        <source>Unexpected variable &quot;$TOK$&quot; found at position $POS$</source>
-        <comment>Math parser error messages. Left untouched &quot;$TOK$&quot; and $POS$</comment>
-        <translation type="unfinished"></translation>
+        <source>Unexpected variable "$TOK$" found at position $POS$</source>
+        <comment>Math parser error messages. Left untouched "$TOK$" and $POS$</comment>
+        <translation>Kutilmagan oʻzgaruvchi “$TOK$” $POS$ pozitsiyasida topildi</translation>
     </message>
     <message>
         <source>Function arguments used without a function (position: $POS$)</source>
         <comment>Math parser error messages. Left untouched $POS$</comment>
-        <translation type="unfinished"></translation>
+        <translation>Funksiyasiz ishlatiladigan funktsiya argumentlari (pozitsiya: $POS$)</translation>
     </message>
     <message>
         <source>Missing parenthesis</source>
         <comment>Math parser error messages.</comment>
-        <translation type="unfinished"></translation>
+        <translation>Qavs yetishmayapti</translation>
     </message>
     <message>
-        <source>Too many parameters for function &quot;$TOK$&quot; at expression position $POS$</source>
-        <comment>Math parser error messages. Left untouched &quot;$TOK$&quot; and $POS$</comment>
-        <translation type="unfinished"></translation>
+        <source>Too many parameters for function "$TOK$" at expression position $POS$</source>
+        <comment>Math parser error messages. Left untouched "$TOK$" and $POS$</comment>
+        <translation>$POS$ ifoda pozitsiyasida “$TOK$” funksiyasi uchun parametrlar juda koʻp</translation>
     </message>
     <message>
-        <source>Too few parameters for function &quot;$TOK$&quot; at expression position $POS$</source>
-        <comment>Math parser error messages. Left untouched &quot;$TOK$&quot; and $POS$</comment>
-        <translation type="unfinished"></translation>
+        <source>Too few parameters for function "$TOK$" at expression position $POS$</source>
+        <comment>Math parser error messages. Left untouched "$TOK$" and $POS$</comment>
+        <translation>$POS$ ifoda pozitsiyasida “$TOK$” funksiyasi uchun parametrlar juda kam</translation>
     </message>
     <message>
         <source>Divide by zero</source>
         <comment>Math parser error messages.</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nolga bo'ling</translation>
     </message>
     <message>
         <source>Domain error</source>
         <comment>Math parser error messages.</comment>
-        <translation type="unfinished"></translation>
+        <translation>Domen xatosi</translation>
     </message>
     <message>
         <source>Name conflict</source>
         <comment>Math parser error messages.</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ism ziddiyati</translation>
     </message>
     <message>
         <source>Invalid value for operator priority (must be greater or equal to zero).</source>
         <comment>Math parser error messages.</comment>
-        <translation type="unfinished"></translation>
+        <translation>Operator ustuvorligi uchun yaroqsiz qiymat (nolga teng yoki katta boʻlishi kerak).</translation>
     </message>
     <message>
-        <source>user defined binary operator &quot;$TOK$&quot; conflicts with a built in operator.</source>
-        <comment>Math parser error messages. Left untouched &quot;$TOK$&quot;</comment>
-        <translation type="unfinished"></translation>
+        <source>user defined binary operator "$TOK$" conflicts with a built in operator.</source>
+        <comment>Math parser error messages. Left untouched "$TOK$"</comment>
+        <translation>foydalanuvchi tomonidan belgilangan ikkilik operator "$TOK$" o'rnatilgan operatorga zid keladi.</translation>
     </message>
     <message>
         <source>Unexpected string token found at position $POS$.</source>
         <comment>Math parser error messages. Left untouched $POS$</comment>
-        <translation type="unfinished"></translation>
+        <translation>$POS$ pozitsiyasida kutilmagan string tokeni topildi.</translation>
     </message>
     <message>
         <source>Unterminated string starting at position $POS$.</source>
         <comment>Math parser error messages. Left untouched $POS$</comment>
-        <translation type="unfinished"></translation>
+        <translation>$POS$ pozitsiyasidan boshlanadigan tugatilmagan qator.</translation>
     </message>
     <message>
         <source>String function called with a non string type of argument.</source>
         <comment>Math parser error messages.</comment>
-        <translation type="unfinished"></translation>
+        <translation>String funktsiyasi qator bo'lmagan argument turi bilan chaqiriladi.</translation>
     </message>
     <message>
         <source>String value used where a numerical argument is expected.</source>
         <comment>Math parser error messages.</comment>
-        <translation type="unfinished"></translation>
+        <translation>Raqamli argument kutilgan joyda ishlatiladigan satr qiymati.</translation>
     </message>
     <message>
-        <source>No suitable overload for operator &quot;$TOK$&quot; at position $POS$.</source>
-        <comment>Math parser error messages. Left untouched &quot;$TOK$&quot; and $POS$</comment>
-        <translation type="unfinished"></translation>
+        <source>No suitable overload for operator "$TOK$" at position $POS$.</source>
+        <comment>Math parser error messages. Left untouched "$TOK$" and $POS$</comment>
+        <translation>$POS$ pozitsiyasida "$TOK$" operatori uchun mos ortiqcha yuk yo'q.</translation>
     </message>
     <message>
         <source>Function result is a string.</source>
         <comment>Math parser error messages.</comment>
-        <translation type="unfinished"></translation>
+        <translation>Funktsiya natijasi qatordir.</translation>
     </message>
     <message>
         <source>Parser error.</source>
         <comment>Math parser error messages.</comment>
-        <translation type="unfinished"></translation>
+        <translation>Parser xatosi.</translation>
     </message>
     <message>
         <source>Decimal separator is identic to function argument separator.</source>
         <comment>Math parser error messages.</comment>
-        <translation type="unfinished"></translation>
+        <translation>O'nlik bo'luvchi funktsiya argumentlarini ajratuvchi bilan bir xil.</translation>
     </message>
     <message>
-        <source>The &quot;$TOK$&quot; operator must be preceded by a closing bracket.</source>
-        <comment>Math parser error messages. Left untouched &quot;$TOK$&quot;</comment>
-        <translation type="unfinished"></translation>
+        <source>The "$TOK$" operator must be preceded by a closing bracket.</source>
+        <comment>Math parser error messages. Left untouched "$TOK$"</comment>
+        <translation>"$TOK$" operatoridan oldin yopish qavs bo'lishi kerak.</translation>
     </message>
     <message>
         <source>If-then-else operator is missing an else clause</source>
         <comment>Math parser error messages. Do not translate operator name.</comment>
-        <translation type="unfinished"></translation>
+        <translation>If-then-else operatorida else bandi mavjud emas</translation>
     </message>
     <message>
         <source>Misplaced colon at position $POS$</source>
         <comment>Math parser error messages. Left untouched $POS$</comment>
-        <translation type="unfinished"></translation>
+        <translation>$POS$ pozitsiyasida ikki nuqta noto'g'ri</translation>
     </message>
 </context>
 <context>
     <name>RemoveGroupItem</name>
     <message>
         <source>Delete group item</source>
-        <translation type="unfinished"></translation>
+        <translation>Guruh elementini o'chirish</translation>
     </message>
 </context>
 <context>
@@ -9974,32 +9990,32 @@ Press enter to temporarily add it to the list.</source>
     <name>ResizeHandlesItem</name>
     <message>
         <source>Press &lt;b&gt;CTRL&lt;/b&gt; to scale around the center - &lt;b&gt; Aspect ratio locked &lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Markaz atrofida masshtab o'tkazish uchun &lt;b&gt;CTRL&lt;/b&gt; tugmasini bosing - &lt;b&gt; Tomonlar nisbati qulflangan &lt;/b&gt;</translation>
     </message>
     <message>
         <source>Press &lt;b&gt;CTRL&lt;/b&gt; to scale around the center, &lt;b&gt;SHIFT&lt;/b&gt; to scale uniformly.</source>
-        <translation type="unfinished"></translation>
+        <translation>Markaz boʻylab masshtab oʻtkazish uchun &lt;b&gt;CTRL&lt;/b&gt; tugmasini, bir xil oʻlchamda oʻlchash uchun &lt;b&gt;SHIFT&lt;/b&gt; tugmasini bosing.</translation>
     </message>
 </context>
 <context>
     <name>SavePieceOptions</name>
     <message>
         <source>save piece options</source>
-        <translation type="unfinished"></translation>
+        <translation>parchani saqlash imkoniyatlari</translation>
     </message>
 </context>
 <context>
     <name>SavePiecePathOptions</name>
     <message>
         <source>save path options</source>
-        <translation type="unfinished"></translation>
+        <translation>yo'l variantlarini saqlash</translation>
     </message>
 </context>
 <context>
     <name>SaveToolOptions</name>
     <message>
         <source>save tool option</source>
-        <translation type="unfinished"></translation>
+        <translation>saqlash vositasi opsiyasi</translation>
     </message>
 </context>
 <context>
@@ -10058,23 +10074,23 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>Startup</source>
-        <translation type="unfinished"></translation>
+        <translation>Ish boshlash</translation>
     </message>
     <message>
         <source>Do not show welcome screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Xush kelibsiz ekran ko'rsatilmasin</translation>
     </message>
     <message>
         <source>Separator Locale:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajratuvchi mahalliy:</translation>
     </message>
     <message>
         <source>Default</source>
         <translation>Default</translation>
     </message>
     <message>
-        <source>User&apos;s System</source>
-        <translation type="unfinished"></translation>
+        <source>User's System</source>
+        <translation>Foydalanuvchi tizimi</translation>
     </message>
     <message>
         <source>Locale</source>
@@ -10082,39 +10098,39 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>Country</source>
-        <translation type="unfinished"></translation>
+        <translation>Mamlakat</translation>
     </message>
     <message>
         <source>Group Separator</source>
-        <translation type="unfinished"></translation>
+        <translation>Guruh ajratuvchi</translation>
     </message>
     <message>
         <source>Decimal Point</source>
-        <translation type="unfinished"></translation>
+        <translation>O'nlik nuqta</translation>
     </message>
     <message>
         <source>Negative Sign</source>
-        <translation type="unfinished"></translation>
+        <translation>Salbiy belgi</translation>
     </message>
     <message>
         <source>Positive Sign</source>
-        <translation type="unfinished"></translation>
+        <translation>Ijobiy belgi</translation>
     </message>
     <message>
         <source>Welcome</source>
-        <translation type="unfinished"></translation>
+        <translation>Xush kelibsiz</translation>
     </message>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>Tashqi ko'rinish</translation>
     </message>
     <message>
         <source>Theme:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mavzu:</translation>
     </message>
     <message>
         <source>Measurements</source>
-        <translation type="unfinished">Measurements</translation>
+        <translation>Measurements</translation>
     </message>
 </context>
 <context>
@@ -10153,42 +10169,42 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>Paths that SeamlyME uses</source>
-        <translation type="unfinished"></translation>
+        <translation>SeamlyME foydalanadigan yo'llar</translation>
     </message>
     <message>
         <source>My Body Scans</source>
-        <translation type="unfinished"></translation>
+        <translation>Mening tanam skanerlash</translation>
     </message>
 </context>
 <context>
     <name>SeamlyMeWelcomeDialog</name>
     <message>
         <source>Welcome</source>
-        <translation type="unfinished"></translation>
+        <translation>Xush kelibsiz</translation>
     </message>
     <message>
         <source>Welcome to SeamlyME</source>
-        <translation type="unfinished"></translation>
+        <translation>SeamlyME ga xush kelibsiz</translation>
     </message>
     <message>
         <source>3D Look users</source>
-        <translation type="unfinished"></translation>
+        <translation>3D Look foydalanuvchilari</translation>
     </message>
     <message>
         <source>To utilize a 3D Look body scan the file needs to be converted to SeamlyME format. </source>
-        <translation type="unfinished"></translation>
+        <translation>3D Look tanani skanerlashdan foydalanish uchun fayl SeamlyME formatiga aylantirilishi kerak.</translation>
     </message>
     <message>
         <source>Attach your 3DLook file to an email and send to convert@seamly.io.</source>
-        <translation type="unfinished"></translation>
+        <translation>3DLook faylingizni elektron pochtaga biriktiring va convert@seamly.io manziliga yuboring.</translation>
     </message>
     <message>
         <source>You will receive an email with the converted file, which you can then load in SeamlyME as usual.</source>
-        <translation type="unfinished"></translation>
+        <translation>Siz o'zgartirilgan fayl bilan elektron pochta xabarini olasiz, keyin uni odatdagidek SeamlyME-ga yuklashingiz mumkin.</translation>
     </message>
     <message>
         <source>Please choose your preferred units, decimal separator, and language. (You can change these later.)</source>
-        <translation type="unfinished"></translation>
+        <translation>Iltimos, oʻzingizga yoqqan birliklar, oʻnlik ajratgich va tilni tanlang.(Bularni keyinroq oʻzgartirishingiz mumkin.)</translation>
     </message>
     <message>
         <source>Units:</source>
@@ -10196,7 +10212,7 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>Sets the default units for a new measurement file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangi o'lchov fayli uchun standart birliklarni o'rnatadi.</translation>
     </message>
     <message>
         <source>GUI language:</source>
@@ -10204,39 +10220,39 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>Sets the language used for SeamlyMe.</source>
-        <translation type="unfinished"></translation>
+        <translation>SeamlyMe uchun ishlatiladigan tilni o'rnatadi.</translation>
     </message>
     <message>
         <source>Do not show again</source>
-        <translation type="unfinished"></translation>
+        <translation>Qayta ko'rsatma</translation>
     </message>
     <message>
         <source>Centimeters</source>
-        <translation type="unfinished"></translation>
+        <translation>Santimetr</translation>
     </message>
     <message>
         <source>Millimeters</source>
-        <translation type="unfinished"></translation>
+        <translation>Millimetr</translation>
     </message>
     <message>
         <source>Inches</source>
-        <translation type="unfinished"></translation>
+        <translation>dyuym</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;When checked the Welcome window will not be displayed. You can change this setting in the SeamlyMe preferences.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt; Belgilanganda Xush kelibsiz oynasi ko'rsatilmaydi.Siz bu sozlamani SeamlyMe sozlamalarida o‘zgartirishingiz mumkin.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Separator Locale:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajratuvchi mahalliy:</translation>
     </message>
     <message>
         <source>Default</source>
         <translation>Default</translation>
     </message>
     <message>
-        <source>User&apos;s System</source>
-        <translation type="unfinished"></translation>
+        <source>User's System</source>
+        <translation>Foydalanuvchi tizimi</translation>
     </message>
     <message>
         <source>Locale</source>
@@ -10244,7 +10260,7 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>Country</source>
-        <translation type="unfinished"></translation>
+        <translation>Mamlakat</translation>
     </message>
     <message>
         <source>Language</source>
@@ -10252,34 +10268,34 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>Group Separator</source>
-        <translation type="unfinished"></translation>
+        <translation>Guruh ajratuvchi</translation>
     </message>
     <message>
         <source>Decimal Point</source>
-        <translation type="unfinished"></translation>
+        <translation>O'nlik nuqta</translation>
     </message>
     <message>
         <source>Negative Sign</source>
-        <translation type="unfinished"></translation>
+        <translation>Salbiy belgi</translation>
     </message>
     <message>
         <source>Positive Sign</source>
-        <translation type="unfinished"></translation>
+        <translation>Ijobiy belgi</translation>
     </message>
     <message>
         <source>Theme:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mavzu:</translation>
     </message>
 </context>
 <context>
     <name>SeamlyWelcomeDialog</name>
     <message>
         <source>Welcome</source>
-        <translation type="unfinished"></translation>
+        <translation>Xush kelibsiz</translation>
     </message>
     <message>
         <source>Welcome to Seamly2D</source>
-        <translation type="unfinished"></translation>
+        <translation>Seamly2D ga xush kelibsiz</translation>
     </message>
     <message>
         <source>Units:</source>
@@ -10287,7 +10303,7 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>Sets the default units for a new measurement file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangi o'lchov fayli uchun standart birliklarni o'rnatadi.</translation>
     </message>
     <message>
         <source>GUI language:</source>
@@ -10295,51 +10311,51 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>Do not show again</source>
-        <translation type="unfinished"></translation>
+        <translation>Qayta ko'rsatma</translation>
     </message>
     <message>
         <source>Centimeters</source>
-        <translation type="unfinished"></translation>
+        <translation>Santimetr</translation>
     </message>
     <message>
         <source>Millimeters</source>
-        <translation type="unfinished"></translation>
+        <translation>Millimetr</translation>
     </message>
     <message>
         <source>Inches</source>
-        <translation type="unfinished"></translation>
+        <translation>dyuym</translation>
     </message>
     <message>
         <source>Sets the language used for Seamly2D.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seamly2D uchun ishlatiladigan tilni o'rnatadi.</translation>
     </message>
     <message>
         <source>Please choose your preferred units, decimal separator, language, and selection sound. (You can change these later.)</source>
-        <translation type="unfinished"></translation>
+        <translation>Iltimos, oʻzingiz yoqtirgan birliklarni, oʻnlik ajratgichni, tilni va tanlash tovushini tanlang.(Bularni keyinroq oʻzgartirishingiz mumkin.)</translation>
     </message>
     <message>
         <source>Sound:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ovoz:</translation>
     </message>
     <message>
         <source>Sets the node selection click  sound.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tugunni tanlash bosish ovozini o'rnatadi.</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;When checked the Welcome window will not be displayed.  You can change this setting in the Seamly2D preferences.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt; Belgilanganda Xush kelibsiz oynasi ko'rsatilmaydi.Siz bu sozlamani Seamly2D sozlamalarida o‘zgartirishingiz mumkin.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Separator Locale:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajratuvchi mahalliy:</translation>
     </message>
     <message>
         <source>Default</source>
         <translation>Default</translation>
     </message>
     <message>
-        <source>User&apos;s System</source>
-        <translation type="unfinished"></translation>
+        <source>User's System</source>
+        <translation>Foydalanuvchi tizimi</translation>
     </message>
     <message>
         <source>Locale</source>
@@ -10347,7 +10363,7 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>Country</source>
-        <translation type="unfinished"></translation>
+        <translation>Mamlakat</translation>
     </message>
     <message>
         <source>Language</source>
@@ -10355,97 +10371,97 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>Group Separator</source>
-        <translation type="unfinished"></translation>
+        <translation>Guruh ajratuvchi</translation>
     </message>
     <message>
         <source>Decimal Point</source>
-        <translation type="unfinished"></translation>
+        <translation>O'nlik nuqta</translation>
     </message>
     <message>
         <source>Negative Sign</source>
-        <translation type="unfinished"></translation>
+        <translation>Salbiy belgi</translation>
     </message>
     <message>
         <source>Positive Sign</source>
-        <translation type="unfinished"></translation>
+        <translation>Ijobiy belgi</translation>
     </message>
     <message>
         <source>Theme:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mavzu:</translation>
     </message>
 </context>
 <context>
     <name>SetPieceColor</name>
     <message>
         <source>Change piece color</source>
-        <translation type="unfinished"></translation>
+        <translation>Parcha rangini o'zgartiring</translation>
     </message>
     <message>
         <source>Piece color changed: </source>
-        <translation type="unfinished"></translation>
+        <translation>Parcha rangi o'zgartirildi:</translation>
     </message>
 </context>
 <context>
     <name>ShortcutsDialog</name>
     <message>
         <source>Copy shortcuts to the clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Yorliqlarni vaqtinchalik xotiraga nusxalash</translation>
     </message>
     <message>
         <source>Export shortcuts as a PDF</source>
-        <translation type="unfinished"></translation>
+        <translation>Yorliqlarni PDF sifatida eksport qiling</translation>
     </message>
     <message>
         <source>Send shortcuts to the Printer</source>
-        <translation type="unfinished"></translation>
+        <translation>Printerga yorliqlarni yuboring</translation>
     </message>
     <message>
         <source>Seamly2D Shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>Seamly2D yorliqlari</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Fayl</translation>
     </message>
     <message>
         <source>New</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangi</translation>
     </message>
     <message>
         <source>Ctrl+N</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+N</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Ochiq</translation>
     </message>
     <message>
         <source>Ctrl+O</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+O</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Yopish</translation>
     </message>
     <message>
         <source>Ctrl+W</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+W</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Saqlash</translation>
     </message>
     <message>
         <source>Ctrl+S</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+S</translation>
     </message>
     <message>
         <source>Save as</source>
-        <translation type="unfinished"></translation>
+        <translation>Sifatida saqlash</translation>
     </message>
     <message>
         <source>Ctrl+Shift+S</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Shift+S</translation>
     </message>
     <message>
         <source>Print</source>
@@ -10453,31 +10469,31 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>Ctrl+P</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+P</translation>
     </message>
     <message>
         <source>Pattern Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Shakl afzalliklari</translation>
     </message>
     <message>
         <source>Ctrl+Shift+Comma</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Shift+vergul</translation>
     </message>
     <message>
         <source>Document Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Hujjat ma'lumotlari</translation>
     </message>
     <message>
         <source>Ctrl+I</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+I</translation>
     </message>
     <message>
         <source>Exit</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiqish</translation>
     </message>
     <message>
         <source>Ctrl+Q</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Q</translation>
     </message>
     <message>
         <source>Edit</source>
@@ -10489,143 +10505,143 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>Ctrl+Z</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Z</translation>
     </message>
     <message>
         <source>Redo</source>
-        <translation type="unfinished"></translation>
+        <translation>Qayta qiling</translation>
     </message>
     <message>
         <source>Ctrl+Y</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Y</translation>
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished"></translation>
+        <translation>Ko‘rish</translation>
     </message>
     <message>
         <source>Draft Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Qoralama rejimi</translation>
     </message>
     <message>
         <source>Shift+D</source>
-        <translation type="unfinished"></translation>
+        <translation>Shift+D</translation>
     </message>
     <message>
         <source>Piece Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Parcha rejimi</translation>
     </message>
     <message>
         <source>Layout Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Layout rejimi</translation>
     </message>
     <message>
         <source>Shift+L</source>
-        <translation type="unfinished"></translation>
+        <translation>Shift+L</translation>
     </message>
     <message>
         <source>Zoom In</source>
-        <translation type="unfinished"></translation>
+        <translation>Kattalashtirish</translation>
     </message>
     <message>
         <source>Ctrl++</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl++</translation>
     </message>
     <message>
         <source>Zoom Out</source>
-        <translation type="unfinished"></translation>
+        <translation>Kichraytirish</translation>
     </message>
     <message>
         <source>Ctrl+-</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+-</translation>
     </message>
     <message>
         <source>Ctrl+0</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+0</translation>
     </message>
     <message>
         <source>Zoom to Point</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqtaga kattalashtirish</translation>
     </message>
     <message>
         <source>Ctrl+Alt+P</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Alt+P</translation>
     </message>
     <message>
         <source>Fit All</source>
-        <translation type="unfinished"></translation>
+        <translation>Hammasiga mos</translation>
     </message>
     <message>
         <source>Previous</source>
-        <translation type="unfinished"></translation>
+        <translation>Oldingi</translation>
     </message>
     <message>
         <source>Ctrl+Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Chap</translation>
     </message>
     <message>
         <source>Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Tanlangan</translation>
     </message>
     <message>
         <source>Ctrl+Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+O‘ng</translation>
     </message>
     <message>
         <source>Area</source>
-        <translation type="unfinished"></translation>
+        <translation>Hudud</translation>
     </message>
     <message>
         <source>Ctrl+A</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+A</translation>
     </message>
     <message>
         <source>Pan</source>
-        <translation type="unfinished"></translation>
+        <translation>Pan</translation>
     </message>
     <message>
         <source>Show Name Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Ism matnini ko'rsatish</translation>
     </message>
     <message>
         <source>Increase Text Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Matn hajmini oshirish</translation>
     </message>
     <message>
         <source>Ctrl+]</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+]</translation>
     </message>
     <message>
         <source>Decrease Text Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Matn hajmini kamaytirish</translation>
     </message>
     <message>
         <source>Ctrl+[</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+[</translation>
     </message>
     <message>
         <source>Use Tool Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Asbob rangidan foydalaning</translation>
     </message>
     <message>
         <source>Wireframe</source>
-        <translation type="unfinished"></translation>
+        <translation>Tel ramka</translation>
     </message>
     <message>
         <source>Curve Control Points</source>
-        <translation type="unfinished"></translation>
+        <translation>Egri nazorat nuqtalari</translation>
     </message>
     <message>
         <source>Axis Origin</source>
-        <translation type="unfinished"></translation>
+        <translation>Axis kelib chiqishi</translation>
     </message>
     <message>
         <source>Seam Allowance</source>
-        <translation type="unfinished"></translation>
+        <translation>Chok haqi</translation>
     </message>
     <message>
         <source>Grainlines</source>
-        <translation type="unfinished"></translation>
+        <translation>Donachalar</translation>
     </message>
     <message>
         <source>Labels</source>
@@ -10637,43 +10653,43 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>Open SeamlyMe</source>
-        <translation type="unfinished"></translation>
+        <translation>SeamlyMe-ni oching</translation>
     </message>
     <message>
         <source>Ctrl+M</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+M</translation>
     </message>
     <message>
         <source>Variables Table</source>
-        <translation type="unfinished"></translation>
+        <translation>O'zgaruvchilar jadvali</translation>
     </message>
     <message>
         <source>Ctrl+T</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+T</translation>
     </message>
     <message>
         <source>Export Variables Table  to CSV</source>
-        <translation type="unfinished"></translation>
+        <translation>O'zgaruvchilar jadvalini CSV ga eksport qiling</translation>
     </message>
     <message>
         <source>Ctrl+E</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+E</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Asboblar</translation>
     </message>
     <message>
         <source>New Draft Block</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangi qoralama blok</translation>
     </message>
     <message>
         <source>Ctrl+Shift+N</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Shift+N</translation>
     </message>
     <message>
         <source>Rename Draft Block</source>
-        <translation type="unfinished"></translation>
+        <translation>Qoralama blokining nomini o‘zgartiring</translation>
     </message>
     <message>
         <source>Point</source>
@@ -10681,51 +10697,51 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>Length and Angle</source>
-        <translation type="unfinished"></translation>
+        <translation>Uzunlik va burchak</translation>
     </message>
     <message>
         <source>On Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Onlayn</translation>
     </message>
     <message>
         <source>On Perpendicular</source>
-        <translation type="unfinished"></translation>
+        <translation>Perpendikulyar bo'yicha</translation>
     </message>
     <message>
         <source>On Bisector</source>
-        <translation type="unfinished"></translation>
+        <translation>Bissektrisa bo'yicha</translation>
     </message>
     <message>
         <source>Length to Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiziqgacha bo'lgan uzunlik</translation>
     </message>
     <message>
         <source>Intersect Arc and Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Yoy va chiziqni kesish</translation>
     </message>
     <message>
         <source>Intersect Axis and Triangle</source>
-        <translation type="unfinished"></translation>
+        <translation>O'q va uchburchakni kesish</translation>
     </message>
     <message>
         <source>Intersect XY</source>
-        <translation type="unfinished"></translation>
+        <translation>XY bilan kesish</translation>
     </message>
     <message>
         <source>Intersect Line and Perpendicular</source>
-        <translation type="unfinished"></translation>
+        <translation>Kesishgan chiziq va perpendikulyar</translation>
     </message>
     <message>
         <source>Intersect Line and Axis</source>
-        <translation type="unfinished"></translation>
+        <translation>Kesishgan chiziq va o'q</translation>
     </message>
     <message>
         <source>Midpoint On Line</source>
-        <translation type="unfinished"></translation>
+        <translation>O'rta nuqta Onlayn</translation>
     </message>
     <message>
         <source>Shift+O, Shift+L</source>
-        <translation type="unfinished"></translation>
+        <translation>Shift+O, Shift+L</translation>
     </message>
     <message>
         <source>Line</source>
@@ -10733,71 +10749,71 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>Alt+L</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+L</translation>
     </message>
     <message>
         <source>Point - Intersect Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta - kesishgan chiziqlar</translation>
     </message>
     <message>
         <source>Curves</source>
-        <translation type="unfinished"></translation>
+        <translation>Egri chiziqlar</translation>
     </message>
     <message>
         <source>Curve - Interactive</source>
-        <translation type="unfinished"></translation>
+        <translation>Egri chiziq - interaktiv</translation>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+C</translation>
     </message>
     <message>
         <source>Spline - Interactive</source>
-        <translation type="unfinished"></translation>
+        <translation>Spline - interaktiv</translation>
     </message>
     <message>
         <source>Alt+S</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+S</translation>
     </message>
     <message>
         <source>Curve - Fixed</source>
-        <translation type="unfinished"></translation>
+        <translation>Egri chiziq - aniqlangan</translation>
     </message>
     <message>
         <source>Alt+Shift+C</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+Shift+C</translation>
     </message>
     <message>
         <source>Spline - Fixed</source>
-        <translation type="unfinished"></translation>
+        <translation>Spline - Ruxsat etilgan</translation>
     </message>
     <message>
         <source>Alt+Shift+S</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+Shift+S</translation>
     </message>
     <message>
         <source>Point - On Curve</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta - Egri chiziqda</translation>
     </message>
     <message>
         <source>Point - On Spline	</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta - Splineda</translation>
     </message>
     <message>
         <source>Point - Intersect Curves</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta - kesishgan egri chiziqlar</translation>
     </message>
     <message>
         <source>Arcs</source>
-        <translation type="unfinished"></translation>
+        <translation>Yoylar</translation>
     </message>
     <message>
         <source>Arc - Radius and Angle</source>
-        <translation type="unfinished"></translation>
+        <translation>Yoy - radius va burchak</translation>
     </message>
     <message>
         <source>Alt+A</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+A</translation>
     </message>
     <message>
         <source>Arc - Radius and Length</source>
@@ -10805,43 +10821,43 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>Alt+Shift+A</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+Shift+A</translation>
     </message>
     <message>
         <source>Point - On Arc</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta - Ark ustida</translation>
     </message>
     <message>
         <source>Point - Intersect Arc and Axis</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta - yoy va o'qni kesish</translation>
     </message>
     <message>
         <source>Point - Intersect Arcs</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta - kesishgan yoylar</translation>
     </message>
     <message>
         <source>Point - Intersect Circles</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta - kesishgan doiralar</translation>
     </message>
     <message>
         <source>Shift+I, Shift+C</source>
-        <translation type="unfinished"></translation>
+        <translation>Shift+I, Shift+C</translation>
     </message>
     <message>
         <source>Point - Intersect Circle and Tangent</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta - aylana va tangensni kesish</translation>
     </message>
     <message>
         <source>Point - Intersect Arc and Tangent</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta - yoy va tangensni kesish</translation>
     </message>
     <message>
         <source>Elliptical Arc</source>
-        <translation type="unfinished"></translation>
+        <translation>Elliptik yoy</translation>
     </message>
     <message>
         <source>Alt+E</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+E</translation>
     </message>
     <message>
         <source>Operations</source>
@@ -10849,7 +10865,7 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>Add Objects to Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Guruhga ob'ektlar qo'shing</translation>
     </message>
     <message>
         <source>Rotation</source>
@@ -10857,11 +10873,11 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>Mirror by Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiziq bo'yicha ko'zgu</translation>
     </message>
     <message>
         <source>Mirror by Axis</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksa bo'yicha oyna</translation>
     </message>
     <message>
         <source>Move</source>
@@ -10869,35 +10885,35 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>Alt+M</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+M</translation>
     </message>
     <message>
         <source>True Darts</source>
-        <translation type="unfinished"></translation>
+        <translation>Haqiqiy Darts</translation>
     </message>
     <message>
         <source>Export Draft Blocks</source>
-        <translation type="unfinished"></translation>
+        <translation>Qoralama bloklarini eksport qilish</translation>
     </message>
     <message>
         <source>Images</source>
-        <translation type="unfinished"></translation>
+        <translation>Tasvirlar</translation>
     </message>
     <message>
         <source>Import Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Tasvirni import qilish</translation>
     </message>
     <message>
         <source>Alt + I</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt + I</translation>
     </message>
     <message>
         <source>Pattern Piece</source>
-        <translation type="unfinished"></translation>
+        <translation>andoza parchasi</translation>
     </message>
     <message>
         <source>New Pattern Piece</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangi andoza parchasi</translation>
     </message>
     <message>
         <source>Anchor Point</source>
@@ -10905,43 +10921,43 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>Internal Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Ichki yo'l</translation>
     </message>
     <message>
         <source>Edit Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Xususiyatlarni tahrirlash</translation>
     </message>
     <message>
         <source>Toggle Lock</source>
-        <translation type="unfinished"></translation>
+        <translation>Qulfni almashtirish</translation>
     </message>
     <message>
         <source>Ctrl+L</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+L</translation>
     </message>
     <message>
         <source>Include in Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Layout-ga kiriting</translation>
     </message>
     <message>
         <source>Forbid Flipping</source>
-        <translation type="unfinished"></translation>
+        <translation>O'chirishni taqiqlash</translation>
     </message>
     <message>
         <source>Raise To Top</source>
-        <translation type="unfinished"></translation>
+        <translation>Yuqoriga ko'taring</translation>
     </message>
     <message>
         <source>Ctrl+Home</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Uyga</translation>
     </message>
     <message>
         <source>Lower To Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Pastdan Pastga</translation>
     </message>
     <message>
         <source>Ctrl+End</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+End</translation>
     </message>
     <message>
         <source>Rename</source>
@@ -10953,7 +10969,7 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>Del</source>
-        <translation type="unfinished"></translation>
+        <translation>Del</translation>
     </message>
     <message>
         <source>Details</source>
@@ -10961,11 +10977,11 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>Unite Pieces</source>
-        <translation type="unfinished"></translation>
+        <translation>Parchalarni birlashtiring</translation>
     </message>
     <message>
         <source>Export Pieces</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksport bo'laklari</translation>
     </message>
     <message>
         <source>Layout</source>
@@ -10973,19 +10989,19 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>New Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangi tartib</translation>
     </message>
     <message>
         <source>Export Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Tartibni eksport qilish</translation>
     </message>
     <message>
         <source>Last Tool</source>
-        <translation type="unfinished"></translation>
+        <translation>Oxirgi vosita</translation>
     </message>
     <message>
         <source>Ctrl+Shift+L</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Shift+L</translation>
     </message>
     <message>
         <source>History</source>
@@ -10993,11 +11009,11 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>Ctrl+H</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+H</translation>
     </message>
     <message>
         <source>Utilities</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilitalar</translation>
     </message>
     <message>
         <source>Calculator</source>
@@ -11005,7 +11021,7 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>Ctrl+Shift+C</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Shift+C</translation>
     </message>
     <message>
         <source>Decimal Chart</source>
@@ -11013,118 +11029,118 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>Ctrl+Shift+D</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Shift+D</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Yordam</translation>
     </message>
     <message>
         <source>Keyboard Shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>Klaviatura yorliqlari</translation>
     </message>
     <message>
         <source>Shift+P</source>
-        <translation type="unfinished"></translation>
+        <translation>Shift+P</translation>
     </message>
     <message>
         <source>Export PDF</source>
-        <translation type="unfinished"></translation>
+        <translation>PDF eksport qilish</translation>
     </message>
     <message>
         <source>Insert Nodes</source>
-        <translation type="unfinished"></translation>
+        <translation>Tugunlarni kiritish</translation>
     </message>
     <message>
         <source>Zoom 100%</source>
-        <translation type="unfinished"></translation>
+        <translation>Kattalashtirish 100%</translation>
     </message>
     <message>
         <source>Ctrl+9</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+9</translation>
     </message>
     <message>
         <source>Previous Draft Block</source>
-        <translation type="unfinished"></translation>
+        <translation>Oldingi qoralama blok</translation>
     </message>
     <message>
         <source>Ctrl+PgUp</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+PgUp</translation>
     </message>
     <message>
         <source>Next Draft Block</source>
-        <translation type="unfinished"></translation>
+        <translation>Keyingi qoralama blok</translation>
     </message>
     <message>
         <source>Ctrl+PgDown</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+PgDown</translation>
     </message>
 </context>
 <context>
     <name>ShowDoublePointName</name>
     <message>
         <source>toggle the first dart visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>birinchi dart ko'rinishini o'zgartiring</translation>
     </message>
     <message>
         <source>toggle the second dart visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>ikkinchi dart ko'rinishini o'zgartiring</translation>
     </message>
 </context>
 <context>
     <name>ShowInfoDialog</name>
     <message>
         <source>Document Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Hujjat ma'lumotlari</translation>
     </message>
     <message>
         <source>Copy info to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Ma'lumotni vaqtinchalik xotiraga nusxalash</translation>
     </message>
     <message>
         <source>Export info as PDF</source>
-        <translation type="unfinished"></translation>
+        <translation>Ma'lumotni PDF sifatida eksport qiling</translation>
     </message>
     <message>
         <source>Send info to the Printer</source>
-        <translation type="unfinished"></translation>
+        <translation>Printerga ma'lumot yuboring</translation>
     </message>
     <message>
         <source>&lt;table style=font-size:11pt; font-weight:600&gt;&lt;tr&gt;&lt;td align = right&gt;&lt;b&gt;Company:     &lt;/b&gt;&lt;/td&gt;&lt;td&gt;%1&lt;/td&gt;&lt;tr&gt;&lt;tr&gt;&lt;td align = right&gt;&lt;b&gt;Customer:    &lt;/b&gt;&lt;/td&gt;&lt;td&gt;%2&lt;/td&gt;&lt;tr&gt;&lt;tr&gt;&lt;td align = right&gt;&lt;b&gt;Pattern Name:&lt;/b&gt;&lt;/td&gt;&lt;td&gt;%3&lt;/td&gt;&lt;tr&gt;&lt;tr&gt;&lt;td align = right&gt;&lt;b&gt;Pattern No:  &lt;/b&gt;&lt;/td&gt;&lt;td&gt;%4&lt;/td&gt;&lt;tr&gt;&lt;tr&gt;&lt;td align = right&gt;&lt;b&gt;Version:     &lt;/b&gt;&lt;/td&gt;&lt;td&gt;%5&lt;/td&gt;&lt;tr&gt;&lt;tr&gt;&lt;td align = right&gt;&lt;b&gt;Units:       &lt;/b&gt;&lt;/td&gt;&lt;td&gt;%6&lt;/td&gt;&lt;tr&gt;&lt;tr&gt;&lt;td align = right&gt;&lt;b&gt;Measurements:&lt;/b&gt;&lt;/td&gt;&lt;td&gt;%7&lt;br&gt;&lt;/td&gt;&lt;tr&gt;&lt;tr&gt;&lt;td align = right&gt;&lt;b&gt;Description: &lt;/b&gt;&lt;/td&gt;&lt;td&gt;%8&lt;br&gt;&lt;/td&gt;&lt;tr&gt;&lt;tr&gt;&lt;td align = right&gt;&lt;b&gt;Notes:       &lt;/b&gt;&lt;/td&gt;&lt;td&gt;%9&lt;br&gt;&lt;/td&gt;&lt;tr&gt;&lt;tr&gt;&lt;td align = right&gt;&lt;b&gt;Image:       &lt;/b&gt;&lt;/td&gt;&lt;td&gt;%10&lt;/td&gt;&lt;tr&gt;&lt;/table&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;table style=font-size:11pt;font-weight:600&gt;&lt;tr&gt;&lt;td align = right&gt;&lt;b&gt;Kompaniya: &lt;/b&gt;&lt;/td&gt;&lt;td&gt;%1&lt;/td&gt;&lt;tr&gt;&lt;tr&gt;&lt;td align = right&gt;&lt;b&gt;Mijoz: &lt;/b&gt;&lt;/td&gt;&lt;td&gt;%2&lt;/td&gt;&lt;tr&gt;&lt;tr&gt;&lt;td align = right&gt;&lt;b&gt;andoza nomi:&lt;/b&gt;&lt;/td&gt;&lt;td&gt;%1align = right&gt;&lt;b&gt;Qalb raqami: &lt;/b&gt;&lt;/td&gt;&lt;td&gt;%4&lt;/td&gt;&lt;tr&gt;&lt;tr&gt;&lt;td align = right&gt;&lt;b&gt;Versiya: &lt;/b&gt;&lt;/td&gt;&lt;td&gt;%5&lt;/td&gt;&lt;tr&gt;&lt;tr&gt;&lt;td align = right&gt;&lt;b&gt;Birliklar: &lt;/b&gt;&lt;/td&gt;&lt;td&gt;%6&lt;/td&gt;&lt;tr&gt;ignright&gt;&lt;b&gt;O'lchovlar:&lt;/b&gt;&lt;/td&gt;&lt;td&gt;%7&lt;br&gt;&lt;/td&gt;&lt;tr&gt;&lt;tr&gt;&lt;td align = right&gt;&lt;b&gt;Tavsif: &lt;/b&gt;&lt;/td&gt;&lt;td&gt;%8&lt;br&gt;&lt;/td&gt;&lt;tr&gt;&lt;tr&gt;&lt;td align = right&gt;&lt;b&gt;Izohlar: &lt;/b&gt;&lt;/td&gt;&lt;td&gt;%7: &lt;/b&gt;&lt;/td&gt;&lt;td&gt;%9&lt;br&gt;&lt;/td&gt;&lt;td&gt;align:align =tr&gt;&lt;/aget:&lt;/b&gt;&lt;/td&gt;&lt;td&gt;%10&lt;/td&gt;&lt;tr&gt;&lt;/table&gt;</translation>
     </message>
     <message>
         <source>Info files</source>
-        <translation type="unfinished"></translation>
+        <translation>Ma'lumot fayllari</translation>
     </message>
     <message>
         <source>Export PDF</source>
-        <translation type="unfinished"></translation>
+        <translation>PDF eksport qilish</translation>
     </message>
     <message>
         <source>_info</source>
-        <translation type="unfinished"></translation>
+        <translation>_ma'lumot</translation>
     </message>
 </context>
 <context>
     <name>ShowOperationPointName</name>
     <message>
         <source>toggle point visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>nuqta ko'rinishini almashtirish</translation>
     </message>
 </context>
 <context>
     <name>ShowPointName</name>
     <message>
         <source>toggle point visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>nuqta ko'rinishini almashtirish</translation>
     </message>
 </context>
 <context>
     <name>TMainWindow</name>
     <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:18pt;&quot;&gt;Select New for creation measurement file.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=" font-size:18pt;"&gt;Select New for creation measurement file.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=" font-size:18pt;"&gt;Oʻlchov faylini yaratish uchun Yangi ni tanlang.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Name</source>
@@ -11140,15 +11156,15 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>Base value</source>
-        <translation type="unfinished"></translation>
+        <translation>Asosiy qiymat</translation>
     </message>
     <message>
         <source>In sizes</source>
-        <translation type="unfinished"></translation>
+        <translation>O'lchamlarda</translation>
     </message>
     <message>
         <source>In heights</source>
-        <translation type="unfinished"></translation>
+        <translation>Balandlikda</translation>
     </message>
     <message>
         <source>Details</source>
@@ -11164,15 +11180,15 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>Base value:</source>
-        <translation type="unfinished"></translation>
+        <translation>Asosiy qiymat:</translation>
     </message>
     <message>
         <source>In sizes:</source>
-        <translation type="unfinished"></translation>
+        <translation>O'lchamlarda:</translation>
     </message>
     <message>
         <source>In heights:</source>
-        <translation type="unfinished"></translation>
+        <translation>Balandlikda:</translation>
     </message>
     <message>
         <source>Description:</source>
@@ -11188,7 +11204,7 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>Full name:</source>
-        <translation type="unfinished"></translation>
+        <translation>To'liq ism:</translation>
     </message>
     <message>
         <source>Information</source>
@@ -11200,7 +11216,7 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>Measurement type</source>
-        <translation type="unfinished"></translation>
+        <translation>O'lchov turi</translation>
     </message>
     <message>
         <source>Path:</source>
@@ -11208,55 +11224,55 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>Show in Explorer</source>
-        <translation type="unfinished"></translation>
+        <translation>Explorerda ko'rsatish</translation>
     </message>
     <message>
         <source>Base size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Asosiy o'lcham:</translation>
     </message>
     <message>
         <source>Base size value</source>
-        <translation type="unfinished"></translation>
+        <translation>Asosiy o'lcham qiymati</translation>
     </message>
     <message>
         <source>Base height:</source>
-        <translation type="unfinished"></translation>
+        <translation>Baza balandligi:</translation>
     </message>
     <message>
         <source>Base height value</source>
-        <translation type="unfinished"></translation>
+        <translation>Asosiy balandlik qiymati</translation>
     </message>
     <message>
         <source>Given name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ismi:</translation>
     </message>
     <message>
         <source>Family name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Familiya:</translation>
     </message>
     <message>
         <source>Birth date:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tug'ilgan kun sanasi:</translation>
     </message>
     <message>
         <source>Email:</source>
-        <translation type="unfinished"></translation>
+        <translation>Email:</translation>
     </message>
     <message>
         <source>Notes:</source>
-        <translation type="unfinished"></translation>
+        <translation>Eslatmalar:</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Fayl</translation>
     </message>
     <message>
         <source>Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Oyna</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Yordam</translation>
     </message>
     <message>
         <source>Measurements</source>
@@ -11264,27 +11280,27 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Menyu</translation>
     </message>
     <message>
         <source>Gradation</source>
-        <translation type="unfinished"></translation>
+        <translation>Gradatsiya</translation>
     </message>
     <message>
         <source>Open individual ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ochiq individual ...</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Saqlash</translation>
     </message>
     <message>
         <source>Save As ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Boshqa saqlash...</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Qt haqida</translation>
     </message>
     <message>
         <source>About SeamlyMe</source>
@@ -11292,27 +11308,27 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>New</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangi</translation>
     </message>
     <message>
         <source>Add known</source>
-        <translation type="unfinished"></translation>
+        <translation>Ma'lum qo'shing</translation>
     </message>
     <message>
         <source>Add custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Maxsus qo'shing</translation>
     </message>
     <message>
         <source>Read only</source>
-        <translation type="unfinished"></translation>
+        <translation>Faqat o'qing</translation>
     </message>
     <message>
         <source>Database</source>
-        <translation type="unfinished"></translation>
+        <translation>Ma'lumotlar bazasi</translation>
     </message>
     <message>
         <source>Show information about all known measurement</source>
-        <translation type="unfinished"></translation>
+        <translation>Barcha ma'lum o'lchovlar haqida ma'lumotni ko'rsatish</translation>
     </message>
     <message>
         <source>Preferences</source>
@@ -11320,11 +11336,11 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>untitled %1</source>
-        <translation type="unfinished"></translation>
+        <translation>nomsiz % 1</translation>
     </message>
     <message>
         <source>This file already opened in another window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu fayl allaqachon boshqa oynada ochilgan.</translation>
     </message>
     <message>
         <source>File error.</source>
@@ -11336,15 +11352,15 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>Save as</source>
-        <translation type="unfinished"></translation>
+        <translation>Sifatida saqlash</translation>
     </message>
     <message>
         <source>&amp;New Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangi oyna</translation>
     </message>
     <message>
         <source>Edit measurement</source>
-        <translation type="unfinished"></translation>
+        <translation>O'lchovni tahrirlash</translation>
     </message>
     <message>
         <source>Error</source>
@@ -11360,7 +11376,7 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>Individual measurements</source>
-        <translation type="unfinished"></translation>
+        <translation>Shaxsiy o'lchovlar</translation>
     </message>
     <message>
         <source>untitled</source>
@@ -11368,7 +11384,7 @@ Press enter to temporarily add it to the list.</source>
     </message>
     <message>
         <source>Unsaved changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Saqlanmagan o'zgarishlar</translation>
     </message>
     <message>
         <source>Measurements have been modified.
@@ -11382,15 +11398,15 @@ Do you want to save your changes?</translation>
     </message>
     <message>
         <source>Open file</source>
-        <translation type="unfinished"></translation>
+        <translation>Faylni ochish</translation>
     </message>
     <message>
         <source>Import from a pattern</source>
-        <translation type="unfinished"></translation>
+        <translation>Shakldan import qilish</translation>
     </message>
     <message>
         <source>Pattern unit:</source>
-        <translation type="unfinished"></translation>
+        <translation>andoza birligi:</translation>
     </message>
     <message>
         <source>Find:</source>
@@ -11398,67 +11414,67 @@ Do you want to save your changes?</translation>
     </message>
     <message>
         <source>Find Previous</source>
-        <translation type="unfinished"></translation>
+        <translation>Oldingisini toping</translation>
     </message>
     <message>
         <source>Ctrl+Shift+G</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Shift+G</translation>
     </message>
     <message>
         <source>Find Next</source>
-        <translation type="unfinished"></translation>
+        <translation>Keyingisini toping</translation>
     </message>
     <message>
         <source>Ctrl+G</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+G</translation>
     </message>
     <message>
         <source>Failed to lock. This file already opened in another window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Qulflab bo‘lmadi.Bu fayl allaqachon boshqa oynada ochilgan.</translation>
     </message>
     <message>
         <source>File contains invalid known measurement(s).</source>
-        <translation type="unfinished"></translation>
+        <translation>Faylda yaroqsiz maʼlum oʻlchov(lar) mavjud.</translation>
     </message>
     <message>
         <source>File has unknown format.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fayl formati noma'lum.</translation>
     </message>
     <message>
         <source>Full name</source>
         <translation>Full name</translation>
     </message>
     <message>
-        <source>File &apos;%1&apos; doesn&apos;t exist!</source>
-        <translation type="unfinished"></translation>
+        <source>File '%1' doesn't exist!</source>
+        <translation>“% 1” fayli mavjud emas!</translation>
     </message>
     <message>
         <source>The name of known measurement forbidden to change.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ma'lum o'lchov nomini o'zgartirish taqiqlanadi.</translation>
     </message>
     <message>
-        <source>Can&apos;t find measurement &apos;%1&apos;.</source>
-        <translation type="unfinished"></translation>
+        <source>Can't find measurement '%1'.</source>
+        <translation>“% 1” oʻlchovi topilmadi.</translation>
     </message>
     <message>
         <source>The full name of known measurement forbidden to change.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ma'lum o'lchovning to'liq nomini o'zgartirish taqiqlanadi.</translation>
     </message>
     <message>
         <source>Function Wizard</source>
-        <translation type="unfinished"></translation>
+        <translation>Funktsiya ustasi</translation>
     </message>
     <message>
         <source>Move measurement top</source>
-        <translation type="unfinished"></translation>
+        <translation>O'lchovni yuqoriga siljiting</translation>
     </message>
     <message>
         <source>Move measurement bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>O'lchovni pastga siljiting</translation>
     </message>
     <message>
         <source>Delete measurement</source>
-        <translation type="unfinished"></translation>
+        <translation>O'lchovni o'chirish</translation>
     </message>
     <message>
         <source>unknown</source>
@@ -11468,88 +11484,88 @@ Do you want to save your changes?</translation>
     <message>
         <source>male</source>
         <comment>gender</comment>
-        <translation type="unfinished"></translation>
+        <translation>erkak</translation>
     </message>
     <message>
         <source>female</source>
         <comment>gender</comment>
-        <translation type="unfinished"></translation>
+        <translation>ayol</translation>
     </message>
     <message>
         <source>Gender:</source>
-        <translation type="unfinished"></translation>
+        <translation>Jins:</translation>
     </message>
     <message>
         <source>PM system:</source>
-        <translation type="unfinished"></translation>
+        <translation>PM tizimi:</translation>
     </message>
     <message>
         <source>Create from existing ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Mavjuddan yaratish...</translation>
     </message>
     <message>
         <source>Create from existing file</source>
-        <translation type="unfinished"></translation>
+        <translation>Mavjud fayldan yarating</translation>
     </message>
     <message>
         <source>Select file</source>
-        <translation type="unfinished"></translation>
+        <translation>Faylni tanlang</translation>
     </message>
     <message>
         <source>Measurement diagram</source>
-        <translation type="unfinished"></translation>
+        <translation>O'lchov diagrammasi</translation>
     </message>
     <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:340pt;&quot;&gt;?&lt;/span&gt;&lt;/p&gt;&lt;p align=\&quot;center\&quot;&gt;Unknown measurement&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=" font-size:340pt;"&gt;?&lt;/span&gt;&lt;/p&gt;&lt;p align=\"center\"&gt;Unknown measurement&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=" font-size:340pt;"&gt;?&lt;/span&gt;&lt;/p&gt;&lt;p align=\"center\"&gt;Noma'lum o'lchov&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:340pt;&quot;&gt;?&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;Unknown measurement&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=" font-size:340pt;"&gt;?&lt;/span&gt;&lt;/p&gt;&lt;p align="center"&gt;Unknown measurement&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=" font-size:340pt;"&gt;?&lt;/span&gt;&lt;/p&gt;&lt;p align="center"&gt;Noma'lum o'lchov&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>About Qt</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt haqida</translation>
     </message>
     <message>
         <source>File was not saved yet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fayl hali saqlanmadi.</translation>
     </message>
     <message>
         <source>Search</source>
         <translation>Search</translation>
     </message>
     <message>
-        <source>Measurement&apos;s name in a formula</source>
-        <translation type="unfinished"></translation>
+        <source>Measurement's name in a formula</source>
+        <translation>Formuladagi o'lchov nomi</translation>
     </message>
     <message>
-        <source>Measurement&apos;s name in a formula.</source>
-        <translation type="unfinished"></translation>
+        <source>Measurement's name in a formula.</source>
+        <translation>Formuladagi o'lchov nomi.</translation>
     </message>
     <message>
-        <source>Measurement&apos;s human-readable name.</source>
-        <translation type="unfinished"></translation>
+        <source>Measurement's human-readable name.</source>
+        <translation>O'lchovning odam o'qiy oladigan nomi.</translation>
     </message>
     <message>
         <source>Save...</source>
-        <translation type="unfinished"></translation>
+        <translation>Saqlash...</translation>
     </message>
     <message>
-        <source>Don&apos;t Save</source>
-        <translation type="unfinished"></translation>
+        <source>Don't Save</source>
+        <translation>Saqlamang</translation>
     </message>
     <message>
         <source>Locking file</source>
-        <translation type="unfinished"></translation>
+        <translation>Faylni qulflash</translation>
     </message>
     <message>
         <source>The lock file could not be created, for lack of permissions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ruxsatlar yo'qligi sababli blokirovka faylini yaratib bo'lmadi.</translation>
     </message>
     <message>
         <source>Unknown error happened, for instance a full partition prevented writing out the lock file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Noma'lum xatolik yuz berdi, masalan, to'liq bo'lim blokirovka faylini yozishga to'sqinlik qildi.</translation>
     </message>
     <message>
         <source>Export to CSV</source>
@@ -11557,19 +11573,19 @@ Do you want to save your changes?</translation>
     </message>
     <message>
         <source>Show in Finder</source>
-        <translation type="unfinished"></translation>
+        <translation>Finder-da ko'rsatish</translation>
     </message>
     <message>
-        <source>Customer&apos;s name</source>
-        <translation type="unfinished"></translation>
+        <source>Customer's name</source>
+        <translation>mijozning ismi</translation>
     </message>
     <message>
-        <source>Customer&apos;s family name</source>
-        <translation type="unfinished"></translation>
+        <source>Customer's family name</source>
+        <translation>Mijozning familiyasi</translation>
     </message>
     <message>
-        <source>Customer&apos;s email address</source>
-        <translation type="unfinished"></translation>
+        <source>Customer's email address</source>
+        <translation>Mijozning elektron pochta manzili</translation>
     </message>
     <message>
         <source>Height:</source>
@@ -11581,31 +11597,31 @@ Do you want to save your changes?</translation>
     </message>
     <message>
         <source>All files</source>
-        <translation type="unfinished"></translation>
+        <translation>Barcha fayllar</translation>
     </message>
     <message>
         <source>The measurements document has no write permissions.</source>
-        <translation type="unfinished"></translation>
+        <translation>O'lchovlar hujjatida yozish uchun ruxsat yo'q.</translation>
     </message>
     <message>
         <source>Cannot set permissions for %1 to writable.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 uchun yozish uchun ruxsatlarni o‘rnatib bo‘lmadi.</translation>
     </message>
     <message>
         <source>Could not save the file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fayl saqlanmadi.</translation>
     </message>
     <message>
         <source>Could not save the file</source>
-        <translation type="unfinished"></translation>
+        <translation>Fayl saqlanmadi</translation>
     </message>
     <message>
         <source>read only</source>
-        <translation type="unfinished"></translation>
+        <translation>faqat o'qish</translation>
     </message>
     <message>
         <source>Multisize measurements</source>
-        <translation type="unfinished"></translation>
+        <translation>Ko'p o'lchamli o'lchovlar</translation>
     </message>
     <message>
         <source>Invalid result. Value is infinite or NaN. Please, check your calculations.</source>
@@ -11617,55 +11633,55 @@ Do you want to save your changes?</translation>
     </message>
     <message>
         <source>Open multisize ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ko'p o'lchamli ochish ...</translation>
     </message>
     <message>
         <source>Export from multisize measurements is not supported.</source>
-        <translation type="unfinished"></translation>
+        <translation>Koʻp oʻlchamli oʻlchovlardan eksport qilish qoʻllab-quvvatlanmaydi.</translation>
     </message>
     <message>
         <source>Ctrl+O</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+O</translation>
     </message>
     <message>
         <source>Ctrl+S</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+S</translation>
     </message>
     <message>
         <source>Ctrl+Shift+S</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Shift+S</translation>
     </message>
     <message>
         <source>Exit</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiqish</translation>
     </message>
     <message>
         <source>Ctrl+Q</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Q</translation>
     </message>
     <message>
         <source>Ctrl+N</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+N</translation>
     </message>
     <message>
         <source>Ctrl+Shift+O</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Shift+O</translation>
     </message>
     <message>
         <source>Ctrl+,</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+,</translation>
     </message>
     <message>
         <source>Shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>Qisqa klavishlar</translation>
     </message>
     <message>
         <source>K</source>
-        <translation type="unfinished"></translation>
+        <translation>K</translation>
     </message>
     <message>
         <source>Failed to lock. This file already opened in another window. Expect collisions when running 2 copies of the program.</source>
-        <translation type="unfinished"></translation>
+        <translation>Qulflab bo‘lmadi.Bu fayl allaqachon boshqa oynada ochilgan.Dasturning 2 nusxasini ishga tushirishda to'qnashuvlarni kuting.</translation>
     </message>
     <message>
         <source>Print</source>
@@ -11673,89 +11689,90 @@ Do you want to save your changes?</translation>
     </message>
     <message>
         <source>Ctrl+P</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+P</translation>
     </message>
     <message>
         <source>Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Raqam</translation>
     </message>
     <message>
         <source>Ctrl+E</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+E</translation>
     </message>
     <message>
         <source>Copy to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Buferga nusxalash</translation>
     </message>
     <message>
         <source>Open template ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Shablonni ochish...</translation>
     </message>
     <message>
         <source>Ctrl+Alt+O</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Alt+O</translation>
     </message>
     <message>
         <source>Pattern files</source>
-        <translation type="unfinished"></translation>
+        <translation>Shakl fayllar</translation>
     </message>
     <message>
         <source>This file already opened in another window. Ignore if you want to continue (not recommended, can cause a data corruption).</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu fayl allaqachon boshqa oynada ochilgan.Agar davom etmoqchi bo'lsangiz, e'tibor bermang (tavsiya etilmaydi, ma'lumotlarning buzilishiga olib kelishi mumkin).</translation>
     </message>
     <message>
         <source>The lock file could not be created, for lack of permissions. Ignore if you want to continue (not recommended, can cause a data corruption).</source>
-        <translation type="unfinished"></translation>
+        <translation>Ruxsatlar yo'qligi sababli blokirovka faylini yaratib bo'lmadi.Agar davom etmoqchi bo'lsangiz, e'tibor bermang (tavsiya etilmaydi, ma'lumotlarning buzilishiga olib kelishi mumkin).</translation>
     </message>
     <message>
         <source>Unknown error happened, for instance a full partition prevented writing out the lock file. Ignore if you want to continue (not recommended, can cause a data corruption).</source>
-        <translation type="unfinished"></translation>
+        <translation>Noma'lum xatolik yuz berdi, masalan, to'liq bo'lim blokirovka faylini yozishga to'sqinlik qildi.Agar davom etmoqchi bo'lsangiz, e'tibor bermang (tavsiya etilmaydi, ma'lumotlarning buzilishiga olib kelishi mumkin).</translation>
     </message>
     <message>
         <source>Import body scan as</source>
-        <translation type="unfinished"></translation>
+        <translation>Tanani skanerlash sifatida import qiling</translation>
     </message>
     <message>
         <source>3D Measure Up</source>
-        <translation type="unfinished"></translation>
+        <translation>3D oʻlchash</translation>
     </message>
     <message>
         <source>3D Look</source>
-        <translation type="unfinished"></translation>
+        <translation>3D ko'rinish</translation>
     </message>
     <message>
         <source>To utilize a 3DLook body scan the file needs to be converted to SeamlyME format.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>3DLook tanasini skanerlashdan foydalanish uchun faylni SeamlyME formatiga aylantirish kerak.</translation>
     </message>
     <message>
         <source>Attach your 3DLook file to an email and send to convert@seamly.io.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>3DLook faylingizni elektron pochtaga biriktiring va convert@seamly.io manziliga yuboring.</translation>
     </message>
     <message>
         <source>You will receive an email with the converted file, which you can then
 load in SeamlyME as usual.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>O'zgartirilgan fayl bilan elektron pochta xabarini olasiz, keyin buni qilishingiz mumkin
+odatdagidek SeamlyME-da yuklang.</translation>
     </message>
     <message>
         <source>Convert 3DLook file:</source>
-        <translation type="unfinished"></translation>
+        <translation>3DLook faylini aylantirish:</translation>
     </message>
     <message>
         <source>Case sensitive</source>
-        <translation type="unfinished"></translation>
+        <translation>Harflar katta-kichikligiga sezgir</translation>
     </message>
     <message>
         <source>Search by full word</source>
-        <translation type="unfinished"></translation>
+        <translation>To'liq so'z bo'yicha qidirish</translation>
     </message>
     <message>
         <source>Seach by regular expression</source>
-        <translation type="unfinished"></translation>
+        <translation>Muntazam ifoda bo'yicha qidirish</translation>
     </message>
     <message>
         <source>Value:</source>
@@ -11766,38 +11783,38 @@ load in SeamlyME as usual.
     <name>TogglePieceInLayout</name>
     <message>
         <source>Piece in Layout List</source>
-        <translation type="unfinished"></translation>
+        <translation>Tartib roʻyxatidagi parcha</translation>
     </message>
     <message>
         <source>Include piece in layout changed: </source>
-        <translation type="unfinished"></translation>
+        <translation>O'zgartirilgan maketga parcha qo'shing:</translation>
     </message>
     <message>
         <source>Include</source>
-        <translation type="unfinished"></translation>
+        <translation>O'z ichiga oladi</translation>
     </message>
     <message>
         <source>Exclude</source>
-        <translation type="unfinished"></translation>
+        <translation>Cheklash</translation>
     </message>
 </context>
 <context>
     <name>TogglePieceLock</name>
     <message>
         <source>Pattern piece lock</source>
-        <translation type="unfinished"></translation>
+        <translation>andozali qismni qulflash</translation>
     </message>
     <message>
         <source>Piece lock changed: </source>
-        <translation type="unfinished"></translation>
+        <translation>Parcha qulfi o'zgartirildi:</translation>
     </message>
     <message>
         <source>Locked</source>
-        <translation type="unfinished"></translation>
+        <translation>Qulflangan</translation>
     </message>
     <message>
         <source>Unlocked</source>
-        <translation type="unfinished"></translation>
+        <translation>Qulfdan chiqarilgan</translation>
     </message>
 </context>
 <context>
@@ -11851,11 +11868,11 @@ load in SeamlyME as usual.
     </message>
     <message>
         <source>Select the first point</source>
-        <translation type="unfinished"></translation>
+        <translation>Birinchi nuqtani tanlang</translation>
     </message>
     <message>
         <source>Pattern piece should have at least two points and three objects</source>
-        <translation type="unfinished"></translation>
+        <translation>andoza bo'lagi kamida ikkita nuqta va uchta ob'ektga ega bo'lishi kerak</translation>
     </message>
     <message>
         <source>Select a second point</source>
@@ -11867,7 +11884,7 @@ load in SeamlyME as usual.
     </message>
     <message>
         <source>Select a piece</source>
-        <translation type="unfinished"></translation>
+        <translation>Bir qismni tanlang</translation>
     </message>
     <message>
         <source>Select a point on edge</source>
@@ -11878,91 +11895,91 @@ load in SeamlyME as usual.
     <name>UnionTool</name>
     <message>
         <source>union pieces</source>
-        <translation type="unfinished"></translation>
+        <translation>birlashma qismlari</translation>
     </message>
 </context>
 <context>
     <name>Utils::CheckableMessageBox</name>
     <message>
         <source>Do not ask again</source>
-        <translation type="unfinished"></translation>
+        <translation>Yana so'ramang</translation>
     </message>
     <message>
         <source>Do not &amp;ask again</source>
-        <translation type="unfinished"></translation>
+        <translation>Yana soʻramang</translation>
     </message>
     <message>
         <source>Do not &amp;show again</source>
-        <translation type="unfinished"></translation>
+        <translation>Qayta koʻrsatilmasin</translation>
     </message>
 </context>
 <context>
     <name>VAbstractConverter</name>
     <message>
-        <source>Couldn&apos;t get version information.</source>
-        <translation type="unfinished"></translation>
+        <source>Couldn't get version information.</source>
+        <translation>Versiya haqida maʼlumot olinmadi.</translation>
     </message>
     <message>
         <source>Too many tags &lt;%1&gt; in file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Faylda &lt;%1&gt; teglar juda koʻp.</translation>
     </message>
     <message>
-        <source>Version &quot;%1&quot; invalid.</source>
-        <translation type="unfinished"></translation>
+        <source>Version "%1" invalid.</source>
+        <translation>“% 1” versiyasi yaroqsiz.</translation>
     </message>
     <message>
-        <source>Version &quot;0.0.0&quot; invalid.</source>
-        <translation type="unfinished"></translation>
+        <source>Version "0.0.0" invalid.</source>
+        <translation>“0.0.0” versiyasi yaroqsiz.</translation>
     </message>
     <message>
         <source>Invalid version. Minimum supported version is %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Yaroqsiz versiya.Minimal qoʻllab-quvvatlanadigan versiya: %1</translation>
     </message>
     <message>
         <source>Invalid version. Maximum supported version is %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Yaroqsiz versiya.Maksimal qoʻllab-quvvatlanadigan versiya: %1</translation>
     </message>
     <message>
         <source>Error no unique id.</source>
-        <translation type="unfinished"></translation>
+        <translation>Noyob identifikator yo‘q xato.</translation>
     </message>
     <message>
         <source>Could not change version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Versiyani oʻzgartirib boʻlmadi.</translation>
     </message>
     <message>
         <source>Error creating a backup copy: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaxira nusxasini yaratishda xatolik yuz berdi: % 1.</translation>
     </message>
     <message>
-        <source>Unexpected version &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <source>Unexpected version "%1".</source>
+        <translation>Kutilmagan versiya "% 1".</translation>
     </message>
     <message>
         <source>Error Opening a temp file: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vaqtinchalik faylni ochishda xato: %1.</translation>
     </message>
 </context>
 <context>
     <name>VAbstractCubicBezierPath</name>
     <message>
-        <source>Can&apos;t cut this spline</source>
-        <translation type="unfinished"></translation>
+        <source>Can't cut this spline</source>
+        <translation>Bu splineni kesib bo‘lmaydi</translation>
     </message>
 </context>
 <context>
     <name>VAbstractMainWindow</name>
     <message>
         <source>Confirm format rewriting</source>
-        <translation type="unfinished"></translation>
+        <translation>Formatni qayta yozishni tasdiqlang</translation>
     </message>
     <message>
         <source>This file is using previous format version v%1. The current is v%2. Saving the file with this app version will update the format version for this file. This may prevent you from be able to open the file with older app versions. Do you really want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu fayl oldingi formatdagi v% 1 versiyasidan foydalanmoqda.Oqim v% 2.Faylni ushbu ilova versiyasi bilan saqlash ushbu fayl uchun format versiyasini yangilaydi.Bu eski ilova versiyalari bilan faylni ochishga xalaqit berishi mumkin.Haqiqatan ham davom etishni xohlaysizmi?</translation>
     </message>
     <message>
         <source>Comma-Separated Values</source>
-        <translation type="unfinished"></translation>
+        <translation>Vergul bilan ajratilgan qiymatlar</translation>
     </message>
     <message>
         <source>Export to CSV</source>
@@ -11983,27 +12000,27 @@ load in SeamlyME as usual.
 <context>
     <name>VAbstractPattern</name>
     <message>
-        <source>Can&apos;t find tool in table.</source>
-        <translation type="unfinished"></translation>
+        <source>Can't find tool in table.</source>
+        <translation>Jadvalda asbob topilmadi.</translation>
     </message>
     <message>
         <source>Error creating or updating group</source>
-        <translation type="unfinished"></translation>
+        <translation>Guruh yaratish yoki yangilashda xatolik yuz berdi</translation>
     </message>
     <message>
         <source>New group</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangi guruh</translation>
     </message>
     <message>
         <source>New group 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangi guruh 2</translation>
     </message>
 </context>
 <context>
     <name>VAbstractPieceData</name>
     <message>
         <source>Piece</source>
-        <translation type="unfinished"></translation>
+        <translation>Qism</translation>
     </message>
 </context>
 <context>
@@ -12021,254 +12038,254 @@ load in SeamlyME as usual.
     <name>VAbstractTool</name>
     <message>
         <source>Confirm deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Oʻchirishni tasdiqlang</translation>
     </message>
     <message>
         <source>Do you really want to delete?</source>
-        <translation type="unfinished"></translation>
+        <translation>Haqiqatan ham o'chirmoqchimisiz?</translation>
     </message>
     <message>
         <source>Edit wrong formula</source>
-        <translation type="unfinished"></translation>
+        <translation>Noto'g'ri formulani tahrirlash</translation>
     </message>
     <message>
         <source>Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Yashil</translation>
     </message>
     <message>
         <source>Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Moviy</translation>
     </message>
     <message>
         <source>Dark Red</source>
-        <translation type="unfinished"></translation>
+        <translation>To'q qizil</translation>
     </message>
     <message>
         <source>Dark Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Toʻq yashil</translation>
     </message>
     <message>
         <source>Dark Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Toʻq koʻk</translation>
     </message>
     <message>
         <source>Yellow</source>
-        <translation type="unfinished"></translation>
+        <translation>Sariq</translation>
     </message>
     <message>
         <source>Light Salmon</source>
-        <translation type="unfinished"></translation>
+        <translation>Yengil qizil ikra</translation>
     </message>
     <message>
         <source>Goldenrod</source>
-        <translation type="unfinished"></translation>
+        <translation>Oltin tayoq</translation>
     </message>
     <message>
         <source>Orange</source>
-        <translation type="unfinished"></translation>
+        <translation>Apelsin</translation>
     </message>
     <message>
         <source>Deep Pink</source>
-        <translation type="unfinished"></translation>
+        <translation>Chuqur pushti</translation>
     </message>
     <message>
         <source>Violet</source>
-        <translation type="unfinished"></translation>
+        <translation>Binafsha</translation>
     </message>
     <message>
         <source>Dark Violet</source>
-        <translation type="unfinished"></translation>
+        <translation>To'q binafsha</translation>
     </message>
     <message>
         <source>Medium Sea Green</source>
-        <translation type="unfinished"></translation>
+        <translation>O'rta dengiz yashil</translation>
     </message>
     <message>
         <source>Lime</source>
-        <translation type="unfinished"></translation>
+        <translation>Laym</translation>
     </message>
     <message>
         <source>Deep Sky Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Chuqur osmon moviy</translation>
     </message>
     <message>
         <source>Corn Flower Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Makkajo'xori guli Moviy</translation>
     </message>
     <message>
         <source>Black</source>
-        <translation type="unfinished"></translation>
+        <translation>Qora</translation>
     </message>
     <message>
         <source>Gold</source>
-        <translation type="unfinished"></translation>
+        <translation>Oltin</translation>
     </message>
     <message>
         <source>Forest Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Yashil o'rmon</translation>
     </message>
     <message>
         <source>Lawn Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Yashil maysa</translation>
     </message>
     <message>
         <source>Lime Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Ohak yashil</translation>
     </message>
     <message>
         <source>Green Yellow</source>
-        <translation type="unfinished"></translation>
+        <translation>Yashil sariq</translation>
     </message>
     <message>
         <source>Sandy Brown</source>
-        <translation type="unfinished"></translation>
+        <translation>Qumli jigarrang</translation>
     </message>
     <message>
         <source>Orange Red</source>
-        <translation type="unfinished"></translation>
+        <translation>Apelsin qizil</translation>
     </message>
     <message>
         <source>Maroon</source>
-        <translation type="unfinished"></translation>
+        <translation>Maroon</translation>
     </message>
     <message>
         <source>Pink</source>
-        <translation type="unfinished"></translation>
+        <translation>Pushti</translation>
     </message>
     <message>
         <source>Hot Pink</source>
-        <translation type="unfinished"></translation>
+        <translation>Issiq pushti</translation>
     </message>
     <message>
         <source>Blue Violet</source>
-        <translation type="unfinished"></translation>
+        <translation>Moviy binafsha</translation>
     </message>
     <message>
         <source>Medium Violet Red</source>
-        <translation type="unfinished"></translation>
+        <translation>O'rtacha binafsha qizil</translation>
     </message>
     <message>
         <source>Indigo</source>
-        <translation type="unfinished"></translation>
+        <translation>Indigo</translation>
     </message>
     <message>
         <source>Purple</source>
-        <translation type="unfinished"></translation>
+        <translation>Binafsha</translation>
     </message>
     <message>
         <source>Plum</source>
-        <translation type="unfinished"></translation>
+        <translation>olxo'ri</translation>
     </message>
     <message>
         <source>Turquoise</source>
-        <translation type="unfinished"></translation>
+        <translation>Turkuaz</translation>
     </message>
     <message>
         <source>Medium Turquoise</source>
-        <translation type="unfinished"></translation>
+        <translation>O'rta turkuaz</translation>
     </message>
     <message>
         <source>Powder Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Moviy chang</translation>
     </message>
     <message>
         <source>Light Sky Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Ochiq osmon moviy</translation>
     </message>
     <message>
         <source>Navy</source>
-        <translation type="unfinished"></translation>
+        <translation>Dengiz floti</translation>
     </message>
     <message>
         <source>Magenta</source>
-        <translation type="unfinished"></translation>
+        <translation>Magenta</translation>
     </message>
     <message>
         <source>Dark Slate Grey</source>
-        <translation type="unfinished"></translation>
+        <translation>To‘q shifer kulrang</translation>
     </message>
     <message>
         <source>Grey</source>
-        <translation type="unfinished"></translation>
+        <translation>Kulrang</translation>
     </message>
     <message>
         <source>Gainsboro</source>
-        <translation type="unfinished"></translation>
+        <translation>Gainsboro</translation>
     </message>
     <message>
         <source>Dark Sea Green</source>
-        <translation type="unfinished"></translation>
+        <translation>To'q dengiz yashil</translation>
     </message>
     <message>
         <source>Light Grey</source>
-        <translation type="unfinished"></translation>
+        <translation>Ochiq kulrang</translation>
     </message>
     <message>
         <source>Light Steel Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Yengil po'lat ko'k</translation>
     </message>
     <message>
         <source>Thistle</source>
-        <translation type="unfinished"></translation>
+        <translation>Thistle</translation>
     </message>
     <message>
         <source>Silver</source>
-        <translation type="unfinished"></translation>
+        <translation>Kumush</translation>
     </message>
     <message>
         <source>White Smoke</source>
-        <translation type="unfinished"></translation>
+        <translation>Oq tutun</translation>
     </message>
     <message>
         <source>White</source>
-        <translation type="unfinished"></translation>
+        <translation>Oq</translation>
     </message>
     <message>
         <source>Dark Grey</source>
-        <translation type="unfinished"></translation>
+        <translation>Toʻq kulrang</translation>
     </message>
     <message>
         <source>Cadet Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Kadet ko'k</translation>
     </message>
     <message>
         <source>Dark Khaki</source>
-        <translation type="unfinished"></translation>
+        <translation>To'q xaki</translation>
     </message>
     <message>
         <source>Tan</source>
-        <translation type="unfinished"></translation>
+        <translation>Tan</translation>
     </message>
     <message>
         <source>Beige</source>
-        <translation type="unfinished"></translation>
+        <translation>Bej</translation>
     </message>
 </context>
 <context>
     <name>VCommandLine</name>
     <message>
         <source>Path to custom measure file (export mode).</source>
-        <translation type="unfinished"></translation>
+        <translation>Maxsus o'lchov fayliga yo'l (eksport rejimi).</translation>
     </message>
     <message>
         <source>The measure file</source>
-        <translation type="unfinished"></translation>
+        <translation>O'lchov fayli</translation>
     </message>
     <message>
         <source>Format number</source>
-        <translation type="unfinished"></translation>
+        <translation>Raqamni formatlash</translation>
     </message>
     <message>
         <source>Template number</source>
-        <translation type="unfinished"></translation>
+        <translation>Shablon raqami</translation>
     </message>
     <message>
         <source>The page width</source>
-        <translation type="unfinished"></translation>
+        <translation>Sahifa kengligi</translation>
     </message>
     <message>
         <source>The measure unit</source>
-        <translation type="unfinished"></translation>
+        <translation>O'lchov birligi</translation>
     </message>
     <message>
         <source>Angle</source>
@@ -12276,183 +12293,183 @@ load in SeamlyME as usual.
     </message>
     <message>
         <source>Auto crop unused length (export mode).</source>
-        <translation type="unfinished"></translation>
+        <translation>Foydalanilmayotgan uzunlikni avtomatik kesish (eksport rejimi).</translation>
     </message>
     <message>
-        <source>Layout units (as paper&apos;s one except px, export mode).</source>
-        <translation type="unfinished"></translation>
+        <source>Layout units (as paper's one except px, export mode).</source>
+        <translation>Joylashtirish birliklari (px, eksport rejimidan tashqari qog'oz kabi).</translation>
     </message>
     <message>
         <source>The unit</source>
-        <translation type="unfinished"></translation>
+        <translation>Birlik</translation>
     </message>
     <message>
         <source>The gap width</source>
-        <translation type="unfinished"></translation>
+        <translation>Bo'shliq kengligi</translation>
     </message>
     <message>
         <source>Grouping type</source>
-        <translation type="unfinished"></translation>
+        <translation>Guruhlash turi</translation>
     </message>
     <message>
         <source>Cannot use pageformat and page explicit size/units together.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sahifa formati va sahifaning aniq oʻlchami/birliklarini birgalikda ishlatib boʻlmaydi.</translation>
     </message>
     <message>
         <source>Page height, width, units must be used all 3 at once.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sahifaning balandligi, kengligi, birliklari bir vaqtning o'zida barcha 3 tadan ishlatilishi kerak.</translation>
     </message>
     <message>
         <source>Invalid rotation value. That must be one of predefined values.</source>
-        <translation type="unfinished"></translation>
+        <translation>Noto'g'ri aylanish qiymati.Bu oldindan belgilangan qiymatlardan biri bo'lishi kerak.</translation>
     </message>
     <message>
         <source>Unknown page templated selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nomaʼlum sahifa shabloni tanlandi.</translation>
     </message>
     <message>
         <source>Unsupported paper units.</source>
-        <translation type="unfinished"></translation>
+        <translation>Qo'llab-quvvatlanmaydigan qog'oz birliklari.</translation>
     </message>
     <message>
         <source>Unsupported layout units.</source>
-        <translation type="unfinished"></translation>
+        <translation>Qo'llab-quvvatlanmaydigan tartib birliklari.</translation>
     </message>
     <message>
         <source>Export options can be used with single input file only.</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksport opsiyalaridan faqat bitta kirish fayli bilan foydalanish mumkin.</translation>
     </message>
     <message>
         <source>Test option can be used with single input file only.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sinov opsiyasi faqat bitta kirish fayli bilan ishlatilishi mumkin.</translation>
     </message>
     <message>
         <source>The base filename of exported layout files. Use it to enable console export mode.</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksport qilingan tartib fayllarining asosiy fayl nomi.Konsol eksport rejimini yoqish uchun undan foydalaning.</translation>
     </message>
     <message>
         <source>The base filename of layout files</source>
-        <translation type="unfinished"></translation>
+        <translation>Layout fayllarining asosiy fayl nomi</translation>
     </message>
     <message>
         <source>The destination folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Belgilangan papka</translation>
     </message>
     <message>
         <source>The size value</source>
-        <translation type="unfinished"></translation>
+        <translation>O'lcham qiymati</translation>
     </message>
     <message>
         <source>The height value</source>
-        <translation type="unfinished"></translation>
+        <translation>Balandlik qiymati</translation>
     </message>
     <message>
-        <source>Page width in current units like 12.0 (cannot be used with &quot;%1&quot;, export mode).</source>
-        <translation type="unfinished"></translation>
+        <source>Page width in current units like 12.0 (cannot be used with "%1", export mode).</source>
+        <translation>Joriy birliklarda sahifa kengligi 12.0 ("%1" bilan, eksport rejimi bilan ishlatib bo'lmaydi).</translation>
     </message>
     <message>
-        <source>Page height in current units like 12.0 (cannot be used with &quot;%1&quot;, export mode).</source>
-        <translation type="unfinished"></translation>
+        <source>Page height in current units like 12.0 (cannot be used with "%1", export mode).</source>
+        <translation>12.0 kabi joriy birliklarda sahifa balandligi (“% 1”, eksport rejimi bilan ishlatib boʻlmaydi).</translation>
     </message>
     <message>
         <source>Invalid gradation size value.</source>
-        <translation type="unfinished"></translation>
+        <translation>Yaroqsiz daraja o‘lchami.</translation>
     </message>
     <message>
         <source>Invalid gradation height value.</source>
-        <translation type="unfinished"></translation>
+        <translation>Yaroqsiz daraja balandligi qiymati.</translation>
     </message>
     <message>
         <source>Gap width must be used together with shift units.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bo'shliq kengligi siljish birliklari bilan birgalikda ishlatilishi kerak.</translation>
     </message>
     <message>
         <source>Left margin must be used together with page units.</source>
-        <translation type="unfinished"></translation>
+        <translation>Chap chekka sahifa birliklari bilan birga ishlatilishi kerak.</translation>
     </message>
     <message>
         <source>Right margin must be used together with page units.</source>
-        <translation type="unfinished"></translation>
+        <translation>O'ng chekka sahifa birliklari bilan birga ishlatilishi kerak.</translation>
     </message>
     <message>
         <source>Top margin must be used together with page units.</source>
-        <translation type="unfinished"></translation>
+        <translation>Yuqori chekka sahifa birliklari bilan birga ishlatilishi kerak.</translation>
     </message>
     <message>
         <source>Bottom margin must be used together with page units.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pastki chekka sahifa birliklari bilan birga ishlatilishi kerak.</translation>
     </message>
     <message>
         <source>The path to output destination folder. By default the directory at which the application was started.</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiqarish uchun mo'ljallangan papkaga yo'l.Odatiy bo'lib, dastur ishga tushirilgan katalog.</translation>
     </message>
     <message>
-        <source>Page height/width measure units (cannot be used with &quot;%1&quot;, export mode). Valid values: %2.</source>
-        <translation type="unfinished"></translation>
+        <source>Page height/width measure units (cannot be used with "%1", export mode). Valid values: %2.</source>
+        <translation>Sahifa balandligi/kengligi oʻlchov birliklari (“%1”, eksport rejimi bilan ishlatib boʻlmaydi).Yaroqli qiymatlar: %2.</translation>
     </message>
     <message>
-        <source>Ignore margins printing (export mode). Disable value keys: &quot;%1&quot;, &quot;%2&quot;, &quot;%3&quot;, &quot;%4&quot;. Set all margins to 0.</source>
-        <translation type="unfinished"></translation>
+        <source>Ignore margins printing (export mode). Disable value keys: "%1", "%2", "%3", "%4". Set all margins to 0.</source>
+        <translation>Chetlarni chop etishga e'tibor bermang (eksport rejimi).Qiymatli kalitlarni o'chirib qo'ying: "%1", "%2", "%3", "%4".Barcha chekkalarni 0 ga qo'ying.</translation>
     </message>
     <message>
-        <source>Page left margin in current units like 3.0 (export mode). If not set will be used value from default printer. Or 0 if none printers was found. Value will be ignored if key &quot;%1&quot; is used.</source>
-        <translation type="unfinished"></translation>
+        <source>Page left margin in current units like 3.0 (export mode). If not set will be used value from default printer. Or 0 if none printers was found. Value will be ignored if key "%1" is used.</source>
+        <translation>3.0 (eksport rejimi) kabi joriy birliklarda sahifaning chap cheti.Agar o'rnatilmagan bo'lsa, standart printerdagi qiymat ishlatiladi.Yoki hech qanday printer topilmasa, 0.Agar “% 1” tugmasi ishlatilsa, qiymat eʼtiborga olinmaydi.</translation>
     </message>
     <message>
-        <source>Page right margin in current units like 3.0 (export mode). If not set will be used value from default printer. Or 0 if none printers was found. Value will be ignored if key &quot;%1&quot; is used.</source>
-        <translation type="unfinished"></translation>
+        <source>Page right margin in current units like 3.0 (export mode). If not set will be used value from default printer. Or 0 if none printers was found. Value will be ignored if key "%1" is used.</source>
+        <translation>3.0 (eksport rejimi) kabi joriy birliklarda sahifaning oʻng cheti.Agar o'rnatilmagan bo'lsa, standart printerdagi qiymat ishlatiladi.Yoki hech qanday printer topilmasa, 0.Agar “% 1” tugmasi ishlatilsa, qiymat eʼtiborga olinmaydi.</translation>
     </message>
     <message>
-        <source>Page top margin in current units like 3.0 (export mode). If not set will be used value from default printer. Or 0 if none printers was found. Value will be ignored if key &quot;%1&quot; is used.</source>
-        <translation type="unfinished"></translation>
+        <source>Page top margin in current units like 3.0 (export mode). If not set will be used value from default printer. Or 0 if none printers was found. Value will be ignored if key "%1" is used.</source>
+        <translation>3.0 (eksport rejimi) kabi joriy birliklarda sahifaning yuqori chegarasi.Agar o'rnatilmagan bo'lsa, standart printerdagi qiymat ishlatiladi.Yoki hech qanday printer topilmasa, 0.Agar “% 1” tugmasi ishlatilsa, qiymat eʼtiborga olinmaydi.</translation>
     </message>
     <message>
-        <source>Page bottom margin in current units like 3.0 (export mode). If not set will be used value from default printer. Or 0 if none printers was found. Value will be ignored if key &quot;%1&quot; is used.</source>
-        <translation type="unfinished"></translation>
+        <source>Page bottom margin in current units like 3.0 (export mode). If not set will be used value from default printer. Or 0 if none printers was found. Value will be ignored if key "%1" is used.</source>
+        <translation>3.0 (eksport rejimi) kabi joriy birliklarda sahifaning pastki cheti.Agar o'rnatilmagan bo'lsa, standart printerdagi qiymat ishlatiladi.Yoki hech qanday printer topilmasa, 0.Agar “% 1” tugmasi ishlatilsa, qiymat eʼtiborga olinmaydi.</translation>
     </message>
     <message>
         <source>Rotation in degrees (one of predefined, export mode). Default value is 180. 0 is no-rotate. Valid values: %1. Each value show how many times details will be rotated. For example 180 mean two times (360/180=2) by 180 degree.</source>
-        <translation type="unfinished"></translation>
+        <translation>Darajada aylanish (oldindan belgilangan, eksport rejimidan biri).Standart qiymat - 180. 0 - aylantirilmaydi.Yaroqli qiymatlar: %1.Har bir qiymat tafsilotlar necha marta aylantirilishini ko'rsatadi.Masalan, 180 180 darajaga ikki marta (360/180 = 2) degan ma'noni anglatadi.</translation>
     </message>
     <message>
         <source>Unite pages if possible (export mode). Maximum value limited by QImage that supports only a maximum of 32768x32768 px images.</source>
-        <translation type="unfinished"></translation>
+        <translation>Iloji bo'lsa sahifalarni birlashtiring (eksport rejimi).QImage tomonidan cheklangan maksimal qiymat faqat maksimal 32768x32768 pikselli tasvirlarni qo'llab-quvvatlaydi.</translation>
     </message>
     <message>
         <source>Save length of the sheet if set (export mode). The option tells the program to use as much as possible width of sheet. Quality of a layout can be worse when this option was used.</source>
-        <translation type="unfinished"></translation>
+        <translation>Agar o'rnatilgan bo'lsa, varaq uzunligini saqlang (eksport rejimi).Variant dasturga varaqning iloji boricha ko'proq kengligidan foydalanishni aytadi.Ushbu parametr ishlatilganda tartibning sifati yomonlashishi mumkin.</translation>
     </message>
     <message>
         <source>The layout gap width x2, measured in layout units (export mode). Set distance between details and a detail and a sheet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tartib bo'shlig'ining kengligi x2, tartib birliklarida o'lchanadi (eksport rejimi).Tafsilotlar va tafsilot va varaq orasidagi masofani o'rnating.</translation>
     </message>
     <message>
         <source>Sets layout groupping cases (export mode): %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tartibni guruhlash holatlarini o'rnatadi (eksport rejimi): % 1.</translation>
     </message>
     <message>
-        <source>Run the program in a test mode. The program in this mode loads a single pattern file and silently quit without showing the main window. The key have priority before key &apos;%1&apos;.</source>
-        <translation type="unfinished"></translation>
+        <source>Run the program in a test mode. The program in this mode loads a single pattern file and silently quit without showing the main window. The key have priority before key '%1'.</source>
+        <translation>Dasturni sinov rejimida ishga tushiring.Ushbu rejimdagi dastur bitta andoza faylini yuklaydi va asosiy oynani ko'rsatmasdan jimgina o'chiriladi.Kalit '% 1' kalitidan oldin ustuvorlikka ega.</translation>
     </message>
     <message>
         <source>Shift/Offset layout length measured in layout units (export mode). The option show how many points along edge will be used in creating a layout.</source>
-        <translation type="unfinished"></translation>
+        <translation>Shift/Offset tartibi uzunligi tartib birliklarida o'lchanadi (eksport rejimi).Variant tartibni yaratishda chekka bo'ylab qancha nuqta ishlatilishini ko'rsatadi.</translation>
     </message>
     <message>
         <source>Shift/Offset length</source>
-        <translation type="unfinished"></translation>
+        <translation>Shift/Ofset uzunligi</translation>
     </message>
     <message>
         <source>Shift/Offset length must be used together with shift units.</source>
-        <translation type="unfinished"></translation>
+        <translation>Shift/Offset uzunligi siljish birliklari bilan birgalikda ishlatilishi kerak.</translation>
     </message>
     <message>
         <source>Number corresponding to output format (default = 0, export mode):</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiqish formatiga mos keladigan raqam (standart = 0, eksport rejimi):</translation>
     </message>
     <message>
         <source>Number corresponding to page template (default = 0, export mode):</source>
-        <translation type="unfinished"></translation>
+        <translation>Sahifa shabloniga mos keladigan raqam (standart = 0, eksport rejimi):</translation>
     </message>
     <message>
         <source>Disable high dpi scaling. Call this option if has problem with scaling (by default scaling enabled). Alternatively you can use the %1 environment variable.</source>
@@ -12460,188 +12477,189 @@ load in SeamlyME as usual.
     </message>
     <message>
         <source>Export dxf in binary form.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikkilik shaklda dxf eksport qiling.</translation>
     </message>
     <message>
         <source>Export text as paths.</source>
-        <translation type="unfinished"></translation>
+        <translation>Matnni yo'llar sifatida eksport qiling.</translation>
     </message>
     <message>
         <source>Export only details. Export details as they positioned in the details mode. Any layout related options will be ignored.</source>
-        <translation type="unfinished"></translation>
+        <translation>Faqat tafsilotlarni eksport qiling.Tafsilotlarni tafsilotlar rejimida joylashtirilganidek eksport qiling.Har qanday tartib bilan bog'liq variantlar e'tiborga olinmaydi.</translation>
     </message>
     <message>
         <source>Set size value a pattern file, that was opened with multisize measurements (export mode). Valid values: %1cm.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ko'p o'lchamli o'lchovlar bilan ochilgan andoza faylining o'lcham qiymatini o'rnating (eksport rejimi).Yaroqli qiymatlar: %1cm.</translation>
     </message>
     <message>
         <source>Set height value a pattern file, that was opened with multisize measurements (export mode). Valid values: %1cm.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ko'p o'lchamli o'lchovlar bilan ochilgan andoza faylining balandligi qiymatini o'rnating (eksport rejimi).Yaroqli qiymatlar: %1cm.</translation>
     </message>
     <message>
         <source>Seamly2D open source patternmaking program.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seamly2D ochiq kodli andoza yaratish dasturi.</translation>
     </message>
     <message>
         <source>Seamly2D pattern file (.sm2d)</source>
-        <translation type="unfinished"></translation>
+        <translation>Seamly2D andoza fayli (.sm2d)</translation>
     </message>
     <message>
         <source>The page height</source>
-        <translation type="unfinished"></translation>
+        <translation>Sahifa balandligi</translation>
     </message>
     <message>
         <source>The left margin</source>
-        <translation type="unfinished"></translation>
+        <translation>Chap chekka</translation>
     </message>
     <message>
         <source>The right margin</source>
-        <translation type="unfinished"></translation>
+        <translation>To'g'ri chegara</translation>
     </message>
     <message>
         <source>The top margin</source>
-        <translation type="unfinished"></translation>
+        <translation>Yuqori chegara</translation>
     </message>
     <message>
         <source>The bottom margin</source>
-        <translation type="unfinished"></translation>
+        <translation>Pastki chegara</translation>
     </message>
 </context>
 <context>
     <name>VCommonSettings</name>
     <message>
         <source>measurements</source>
-        <translation type="unfinished"></translation>
+        <translation>o'lchovlar</translation>
     </message>
     <message>
         <source>individual</source>
-        <translation type="unfinished"></translation>
+        <translation>individual</translation>
     </message>
     <message>
         <source>multisize</source>
-        <translation type="unfinished"></translation>
+        <translation>ko'p o'lchamli</translation>
     </message>
     <message>
         <source>templates</source>
-        <translation type="unfinished"></translation>
+        <translation>andozalar</translation>
     </message>
     <message>
         <source>images</source>
-        <translation type="unfinished"></translation>
+        <translation>tasvirlar</translation>
     </message>
     <message>
         <source>label templates</source>
-        <translation type="unfinished"></translation>
+        <translation>yorliq shablonlari</translation>
     </message>
     <message>
         <source>backups</source>
-        <translation type="unfinished"></translation>
+        <translation>zaxira nusxalari</translation>
     </message>
     <message>
         <source>bodyscans</source>
-        <translation type="unfinished"></translation>
+        <translation>tana skanerlari</translation>
     </message>
 </context>
 <context>
     <name>VContainer</name>
     <message>
-        <source>Can&apos;t find object</source>
-        <translation type="unfinished"></translation>
+        <source>Can't find object</source>
+        <translation>Ob'ekt topilmadi</translation>
     </message>
     <message>
-        <source>Can&apos;t cast object</source>
-        <translation type="unfinished"></translation>
+        <source>Can't cast object</source>
+        <translation>Obyektni translatsiya qilib bo‘lmadi</translation>
     </message>
     <message>
-        <source>Can&apos;t find object. Type mismatch.</source>
-        <translation type="unfinished"></translation>
+        <source>Can't find object. Type mismatch.</source>
+        <translation>Ob'ekt topilmadi.Turning mos kelmasligi.</translation>
     </message>
     <message>
         <source>Number of free id exhausted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bepul identifikatorlar soni tugadi.</translation>
     </message>
     <message>
-        <source>Can&apos;t create a curve with type &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <source>Can't create a curve with type '%1'</source>
+        <translation>“% 1” turi bilan egri chiziq yaratib bo‘lmadi</translation>
     </message>
     <message>
-        <source>Can&apos;t find object: </source>
-        <translation type="unfinished"></translation>
+        <source>Can't find object: </source>
+        <translation>Ob'ektni topib bo'lmadi:</translation>
     </message>
     <message>
-        <source>Can&apos;t find piece: </source>
-        <translation type="unfinished"></translation>
+        <source>Can't find piece: </source>
+        <translation>Parcha topilmadi:</translation>
     </message>
     <message>
-        <source>Can&apos;t find path: </source>
-        <translation type="unfinished"></translation>
+        <source>Can't find path: </source>
+        <translation>Yo'l topilmadi:</translation>
     </message>
     <message>
-        <source>Can&apos;t find object Id: </source>
-        <translation type="unfinished"></translation>
+        <source>Can't find object Id: </source>
+        <translation>Ob'ekt identifikatori topilmadi:</translation>
     </message>
     <message>
-        <source>Can&apos;t cast object.</source>
-        <translation type="unfinished"></translation>
+        <source>Can't cast object.</source>
+        <translation>Obyektni translatsiya qilib bo‘lmadi.</translation>
     </message>
 </context>
 <context>
     <name>VCubicBezierPath</name>
     <message>
         <source>Not enough points to create the spline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Spline yaratish uchun nuqtalar yetarli emas.</translation>
     </message>
     <message>
         <source>This spline does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu spline mavjud emas.</translation>
     </message>
 </context>
 <context>
     <name>VDomDocument</name>
     <message>
-        <source>Can&apos;t open file %1:
+        <source>Can't open file %1:
 %2.</source>
-        <translation>Can&apos;t open file %1:
+        <translation>Can't open file %1:
 %2.</translation>
     </message>
     <message>
-        <source>Can&apos;t open schema file %1:
+        <source>Can't open schema file %1:
 %2.</source>
-        <translation>Can&apos;t open schema file %1:
+        <translation>Can't open schema file %1:
 %2.</translation>
     </message>
     <message>
         <source>Parsing error file %3 in line %1 column %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Tahlil qilish xato fayli %3 %1 satrda %2 ustun</translation>
     </message>
     <message>
-        <source>Couldn&apos;t get node</source>
-        <translation type="unfinished"></translation>
+        <source>Couldn't get node</source>
+        <translation>Tugun olinmadi</translation>
     </message>
     <message>
         <source>This id is not unique.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu identifikator noyob emas.</translation>
     </message>
     <message>
         <source>Fail to write Canonical XML.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kanonik XML yozilmadi.</translation>
     </message>
     <message>
         <source>&lt;empty&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;bo'sh&gt;</translation>
     </message>
     <message>
-        <source>Couldn&apos;t load schema</source>
-        <translation type="unfinished"></translation>
+        <source>Couldn't load schema</source>
+        <translation>Sxemani yuklab bo‘lmadi</translation>
     </message>
     <message>
         <source>Validation error file %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Tasdiqlash xato fayli %1</translation>
     </message>
     <message>
-        <source>Can&apos;t open pattern file %1:
+        <source>Can't open pattern file %1:
 %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 andoza faylini ochib boʻlmadi:
+% 2.</translation>
     </message>
 </context>
 <context>
@@ -12652,19 +12670,19 @@ load in SeamlyME as usual.
     </message>
     <message>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Xususiyatlari</translation>
     </message>
     <message>
         <source>Show Point Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta nomini ko'rsatish</translation>
     </message>
     <message>
         <source>Add Group Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Guruh ob'ektini qo'shish</translation>
     </message>
     <message>
         <source>Remove Group Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Guruh ob'ektini o'chirish</translation>
     </message>
     <message>
         <source>Line_</source>
@@ -12676,7 +12694,7 @@ load in SeamlyME as usual.
     </message>
     <message>
         <source>ElArc_</source>
-        <translation type="unfinished"></translation>
+        <translation>ElArc_</translation>
     </message>
     <message>
         <source>Spl_</source>
@@ -12684,11 +12702,11 @@ load in SeamlyME as usual.
     </message>
     <message>
         <source>SplPath_</source>
-        <translation type="unfinished"></translation>
+        <translation>SplPath_</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Nusxalash</translation>
     </message>
     <message>
         <source>Length</source>
@@ -12700,26 +12718,26 @@ load in SeamlyME as usual.
     </message>
     <message>
         <source>AngleLine_</source>
-        <translation type="unfinished"></translation>
+        <translation>AngleLine_</translation>
     </message>
     <message>
         <source>Move Group Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Guruh ob'ektini ko'chirish</translation>
     </message>
     <message>
         <source>From </source>
-        <translation type="unfinished"></translation>
+        <translation>Kimdan</translation>
     </message>
     <message>
         <source> to </source>
-        <translation type="unfinished"></translation>
+        <translation>uchun</translation>
     </message>
 </context>
 <context>
     <name>VException</name>
     <message>
         <source>Exception: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Istisno: % 1</translation>
     </message>
 </context>
 <context>
@@ -12739,23 +12757,23 @@ load in SeamlyME as usual.
 <context>
     <name>VLayoutPiece</name>
     <message>
-        <source>Piece %1 doesn&apos;t have shape.</source>
-        <translation type="unfinished"></translation>
+        <source>Piece %1 doesn't have shape.</source>
+        <translation>% 1-qismning shakli yo'q.</translation>
     </message>
 </context>
 <context>
     <name>VNodePoint</name>
     <message>
         <source>Show Point Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta nomini ko'rsatish</translation>
     </message>
     <message>
         <source>Seam Allowance Angle</source>
-        <translation type="unfinished"></translation>
+        <translation>Tikuv burchagi</translation>
     </message>
     <message>
         <source>By length</source>
-        <translation type="unfinished"></translation>
+        <translation>Uzunlik bo'yicha</translation>
     </message>
     <message>
         <source>Intersection</source>
@@ -12763,19 +12781,19 @@ load in SeamlyME as usual.
     </message>
     <message>
         <source>First edge symmetry</source>
-        <translation type="unfinished"></translation>
+        <translation>Birinchi chekka simmetriyasi</translation>
     </message>
     <message>
         <source>Second edge symmetry</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikkinchi chekka simmetriyasi</translation>
     </message>
     <message>
         <source>First edge right angle</source>
-        <translation type="unfinished"></translation>
+        <translation>Birinchi chekka to'g'ri burchak</translation>
     </message>
     <message>
         <source>Second edge right angle</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikkinchi chekka to'g'ri burchak</translation>
     </message>
     <message>
         <source>Type</source>
@@ -12783,35 +12801,35 @@ load in SeamlyME as usual.
     </message>
     <message>
         <source>Slit</source>
-        <translation type="unfinished"></translation>
+        <translation>Yoriq</translation>
     </message>
     <message>
         <source>TNotch</source>
-        <translation type="unfinished"></translation>
+        <translation>TNotch</translation>
     </message>
     <message>
         <source>UNotch</source>
-        <translation type="unfinished"></translation>
+        <translation>UNNotch</translation>
     </message>
     <message>
         <source>VInternal</source>
-        <translation type="unfinished"></translation>
+        <translation>Vichki</translation>
     </message>
     <message>
         <source>VExternal</source>
-        <translation type="unfinished"></translation>
+        <translation>VTashqi</translation>
     </message>
     <message>
         <source>Castle</source>
-        <translation type="unfinished"></translation>
+        <translation>Qal'a</translation>
     </message>
     <message>
         <source>Diamond</source>
-        <translation type="unfinished"></translation>
+        <translation>Olmos</translation>
     </message>
     <message>
         <source>Subtype</source>
-        <translation type="unfinished"></translation>
+        <translation>Pastki turi</translation>
     </message>
     <message>
         <source>Straightforward</source>
@@ -12823,7 +12841,7 @@ load in SeamlyME as usual.
     </message>
     <message>
         <source>Count</source>
-        <translation type="unfinished"></translation>
+        <translation>Hisoblash</translation>
     </message>
     <message>
         <source>Excluded</source>
@@ -12835,248 +12853,248 @@ load in SeamlyME as usual.
     </message>
     <message>
         <source>Show Cut Line Notch</source>
-        <translation type="unfinished"></translation>
+        <translation>Kesish chizig'ining kesilishini ko'rsatish</translation>
     </message>
     <message>
         <source>Show Seam Line Notch</source>
-        <translation type="unfinished"></translation>
+        <translation>Tikuv chizig'ining kesilishini ko'rsatish</translation>
     </message>
     <message>
         <source>Make Default Notch</source>
-        <translation type="unfinished"></translation>
+        <translation>Standart çentik qiling</translation>
     </message>
     <message>
         <source>Edit Notch</source>
-        <translation type="unfinished"></translation>
+        <translation>Notchni tahrirlash</translation>
     </message>
     <message>
         <source>Remove Notch</source>
-        <translation type="unfinished"></translation>
+        <translation>Notchni olib tashlang</translation>
     </message>
 </context>
 <context>
     <name>VPE::VBoolProperty</name>
     <message>
         <source>True</source>
-        <translation type="unfinished"></translation>
+        <translation>To'g'ri</translation>
     </message>
     <message>
         <source>False</source>
-        <translation type="unfinished"></translation>
+        <translation>Yolg'on</translation>
     </message>
 </context>
 <context>
     <name>VPE::VFileEditWidget</name>
     <message>
         <source>Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Katalog</translation>
     </message>
     <message>
         <source>Open File</source>
-        <translation type="unfinished"></translation>
+        <translation>Faylni oching</translation>
     </message>
 </context>
 <context>
     <name>VPattern</name>
     <message>
         <source>Error parsing file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Faylni tahlil qilishda xatolik yuz berdi.</translation>
     </message>
     <message>
-        <source>Error can&apos;t convert value.</source>
-        <translation type="unfinished"></translation>
+        <source>Error can't convert value.</source>
+        <translation>Qiymatni oʻzgartirib boʻlmadi.</translation>
     </message>
     <message>
         <source>Error empty parameter.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bo'sh parametrda xato.</translation>
     </message>
     <message>
         <source>Error wrong id.</source>
-        <translation type="unfinished"></translation>
+        <translation>Xato xato identifikatori.</translation>
     </message>
     <message>
         <source>Error parsing file (std::bad_alloc).</source>
-        <translation type="unfinished"></translation>
+        <translation>Faylni tahlil qilishda xatolik yuz berdi (std::bad_alloc).</translation>
     </message>
     <message>
         <source>Error creating or updating single point</source>
-        <translation type="unfinished"></translation>
+        <translation>Bitta nuqta yaratish yoki yangilashda xatolik yuz berdi</translation>
     </message>
     <message>
         <source>Error creating or updating point of end line</source>
-        <translation type="unfinished"></translation>
+        <translation>Yakuniy chiziqni yaratish yoki yangilashda xatolik yuz berdi</translation>
     </message>
     <message>
         <source>Error creating or updating point along line</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiziq bo'ylab nuqta yaratish yoki yangilashda xato</translation>
     </message>
     <message>
         <source>Error creating or updating point of shoulder</source>
-        <translation type="unfinished"></translation>
+        <translation>Yelkaning nuqtasini yaratish yoki yangilashda xato</translation>
     </message>
     <message>
         <source>Error creating or updating point of normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Oddiy nuqtani yaratish yoki yangilashda xato</translation>
     </message>
     <message>
         <source>Error creating or updating point of bisector</source>
-        <translation type="unfinished"></translation>
+        <translation>Bissektrisa nuqtasini yaratish yoki yangilashda xato</translation>
     </message>
     <message>
         <source>Error creating or updating point of contact</source>
-        <translation type="unfinished"></translation>
+        <translation>Aloqa nuqtasini yaratish yoki yangilashda xato</translation>
     </message>
     <message>
         <source>Error creating or updating modeling point</source>
-        <translation type="unfinished"></translation>
+        <translation>Modellashtirish nuqtasini yaratish yoki yangilashda xato</translation>
     </message>
     <message>
         <source>Error creating or updating height</source>
-        <translation type="unfinished"></translation>
+        <translation>Balandlikni yaratish yoki yangilashda xato</translation>
     </message>
     <message>
         <source>Error creating or updating triangle</source>
-        <translation type="unfinished"></translation>
+        <translation>Uchburchakni yaratish yoki yangilashda xatolik yuz berdi</translation>
     </message>
     <message>
         <source>Error creating or updating cut spline point</source>
-        <translation type="unfinished"></translation>
+        <translation>Kesilgan spline nuqtasini yaratish yoki yangilashda xatolik yuz berdi</translation>
     </message>
     <message>
         <source>Error creating or updating cut spline path point</source>
-        <translation type="unfinished"></translation>
+        <translation>Kesilgan spline yoʻl nuqtasini yaratish yoki yangilashda xatolik yuz berdi</translation>
     </message>
     <message>
         <source>Error creating or updating cut arc point</source>
-        <translation type="unfinished"></translation>
+        <translation>Kesilgan yoy nuqtasini yaratish yoki yangilashda xatolik yuz berdi</translation>
     </message>
     <message>
         <source>Error creating or updating point of intersection line and axis</source>
-        <translation type="unfinished"></translation>
+        <translation>Kesishish chizig'i va o'qining nuqtasini yaratish yoki yangilashda xato</translation>
     </message>
     <message>
         <source>Error creating or updating point of intersection curve and axis</source>
-        <translation type="unfinished"></translation>
+        <translation>Egri chiziq va o‘qning kesishish nuqtasini yaratish yoki yangilashda xatolik yuz berdi</translation>
     </message>
     <message>
         <source>Error creating or updating line</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiziqni yaratish yoki yangilashda xato</translation>
     </message>
     <message>
         <source>Error creating or updating simple curve</source>
-        <translation type="unfinished"></translation>
+        <translation>Oddiy egri chiziqni yaratish yoki yangilashda xatolik yuz berdi</translation>
     </message>
     <message>
         <source>Error creating or updating curve path</source>
-        <translation type="unfinished"></translation>
+        <translation>Egri chiziqni yaratish yoki yangilashda xatolik yuz berdi</translation>
     </message>
     <message>
         <source>Error creating or updating modeling simple curve</source>
-        <translation type="unfinished"></translation>
+        <translation>Oddiy egri chiziqni yaratish yoki yangilashda xatolik yuz berdi</translation>
     </message>
     <message>
         <source>Error creating or updating modeling curve path</source>
-        <translation type="unfinished"></translation>
+        <translation>Modellashtirish egri chizig‘ini yaratish yoki yangilashda xatolik yuz berdi</translation>
     </message>
     <message>
         <source>Error creating or updating simple arc</source>
-        <translation type="unfinished"></translation>
+        <translation>Oddiy yoyni yaratish yoki yangilashda xatolik yuz berdi</translation>
     </message>
     <message>
         <source>Error creating or updating modeling arc</source>
-        <translation type="unfinished"></translation>
+        <translation>Modellashtirish yoyi yaratish yoki yangilashda xatolik yuz berdi</translation>
     </message>
     <message>
         <source>Error creating or updating point of intersection arcs</source>
-        <translation type="unfinished"></translation>
+        <translation>Kesishma yoylarini yaratish yoki yangilashda xatolik yuz berdi</translation>
     </message>
     <message>
         <source>Error creating or updating point of intersection circles</source>
-        <translation type="unfinished"></translation>
+        <translation>Kesishuv doiralarini yaratish yoki yangilashda xatolik yuz berdi</translation>
     </message>
     <message>
         <source>Error creating or updating point from circle and tangent</source>
-        <translation type="unfinished"></translation>
+        <translation>Doira va tangens nuqtalarini yaratish yoki yangilashda xato</translation>
     </message>
     <message>
         <source>Error creating or updating point from arc and tangent</source>
-        <translation type="unfinished"></translation>
+        <translation>Yoy va tangens nuqtasini yaratish yoki yangilashda xato</translation>
     </message>
     <message>
         <source>Error creating or updating true darts</source>
-        <translation type="unfinished"></translation>
+        <translation>Haqiqiy dartlarni yaratish yoki yangilashda xatolik yuz berdi</translation>
     </message>
     <message>
-        <source>Wrong tag name &apos;%1&apos;.</source>
-        <translation type="unfinished"></translation>
+        <source>Wrong tag name '%1'.</source>
+        <translation>Teg nomi noto‘g‘ri '% 1'.</translation>
     </message>
     <message>
-        <source>Unknown point type &apos;%1&apos;.</source>
-        <translation type="unfinished"></translation>
+        <source>Unknown point type '%1'.</source>
+        <translation>Noma'lum nuqta turi "% 1".</translation>
     </message>
     <message>
-        <source>Unknown spline type &apos;%1&apos;.</source>
-        <translation type="unfinished"></translation>
+        <source>Unknown spline type '%1'.</source>
+        <translation>Noma'lum splayn turi "% 1".</translation>
     </message>
     <message>
-        <source>Unknown arc type &apos;%1&apos;.</source>
-        <translation type="unfinished"></translation>
+        <source>Unknown arc type '%1'.</source>
+        <translation>Noma'lum yoy turi "% 1".</translation>
     </message>
     <message>
-        <source>Unknown tools type &apos;%1&apos;.</source>
-        <translation type="unfinished"></translation>
+        <source>Unknown tools type '%1'.</source>
+        <translation>Noma'lum asboblar turi "% 1".</translation>
     </message>
     <message>
         <source>Error not unique id.</source>
-        <translation type="unfinished"></translation>
+        <translation>Xato noyob identifikator emas.</translation>
     </message>
     <message>
         <source>Error creating or updating point of intersection curves</source>
-        <translation type="unfinished"></translation>
+        <translation>Egri kesishish nuqtasini yaratish yoki yangilashda xato</translation>
     </message>
     <message>
         <source>Error creating or updating simple interactive spline</source>
-        <translation type="unfinished"></translation>
+        <translation>Oddiy interaktiv splayn yaratish yoki yangilashda xatolik yuz berdi</translation>
     </message>
     <message>
         <source>Error creating or updating interactive spline path</source>
-        <translation type="unfinished"></translation>
+        <translation>Interaktiv splayn yo‘lini yaratish yoki yangilashda xatolik yuz berdi</translation>
     </message>
     <message>
         <source>Error creating or updating cubic bezier curve</source>
-        <translation type="unfinished"></translation>
+        <translation>Kub bezier egri chizig‘ini yaratish yoki yangilashda xatolik yuz berdi</translation>
     </message>
     <message>
         <source>Error creating or updating cubic bezier path curve</source>
-        <translation type="unfinished"></translation>
+        <translation>Kub bezier yoʻl egri chizigʻini yaratish yoki yangilashda xatolik yuz berdi</translation>
     </message>
     <message>
         <source>Error creating or updating operation of rotation</source>
-        <translation type="unfinished"></translation>
+        <translation>Aylanish jarayonini yaratish yoki yangilashda xato</translation>
     </message>
     <message>
-        <source>Unknown operation type &apos;%1&apos;.</source>
-        <translation type="unfinished"></translation>
+        <source>Unknown operation type '%1'.</source>
+        <translation>Noma'lum operatsiya turi "% 1".</translation>
     </message>
     <message>
         <source>Error creating or updating operation of moving</source>
-        <translation type="unfinished"></translation>
+        <translation>Ko'chirish operatsiyasini yaratish yoki yangilashda xato</translation>
     </message>
     <message>
         <source>Error creating or updating point of line intersection</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiziqlar kesishish nuqtasini yaratish yoki yangilashda xato</translation>
     </message>
     <message>
         <source>Error creating or updating simple elliptical arc</source>
-        <translation type="unfinished"></translation>
+        <translation>Oddiy elliptik yoyni yaratish yoki yangilashda xatolik yuz berdi</translation>
     </message>
     <message>
-        <source>Unknown elliptical arc type &apos;%1&apos;.</source>
-        <translation type="unfinished"></translation>
+        <source>Unknown elliptical arc type '%1'.</source>
+        <translation>Noma'lum elliptik yoy turi "% 1".</translation>
     </message>
     <message>
         <source>Error creating or updating modeling elliptical arc</source>
-        <translation type="unfinished"></translation>
+        <translation>Elliptik yoy modelini yaratish yoki yangilashda xatolik yuz berdi</translation>
     </message>
     <message>
         <source>Unnamed path</source>
@@ -13084,88 +13102,88 @@ load in SeamlyME as usual.
     </message>
     <message>
         <source>Error creating or updating a piece path</source>
-        <translation type="unfinished"></translation>
+        <translation>Parcha yoʻlini yaratish yoki yangilashda xatolik yuz berdi</translation>
     </message>
     <message>
         <source>Error creating or updating anchor point</source>
-        <translation type="unfinished"></translation>
+        <translation>Ankraj nuqtasini yaratish yoki yangilashda xatolik yuz berdi</translation>
     </message>
     <message>
         <source>Error creating or updating Intersect XY tool</source>
-        <translation type="unfinished"></translation>
+        <translation>Intersect XY asbobini yaratish yoki yangilashda xato</translation>
     </message>
     <message>
         <source>Error creating or updating operation of mirror by line</source>
-        <translation type="unfinished"></translation>
+        <translation>Oynani yaratish yoki yangilashda xato</translation>
     </message>
     <message>
         <source>Error creating or updating operation of mirror by axis</source>
-        <translation type="unfinished"></translation>
+        <translation>O'q bo'yicha oynaning ishlashini yaratish yoki yangilashda xato</translation>
     </message>
     <message>
         <source>Piece</source>
-        <translation type="unfinished"></translation>
+        <translation>Qism</translation>
     </message>
     <message>
         <source>white</source>
-        <translation type="unfinished"></translation>
+        <translation>oq</translation>
     </message>
     <message>
         <source>nobrush</source>
-        <translation type="unfinished"></translation>
+        <translation>cho'tkasi</translation>
     </message>
     <message>
         <source>Error creating or updating piece</source>
-        <translation type="unfinished"></translation>
+        <translation>Parcha yaratish yoki yangilashda xatolik yuz berdi</translation>
     </message>
     <message>
         <source>Error creating or updating union pieces</source>
-        <translation type="unfinished"></translation>
+        <translation>Birlashma qismlarini yaratish yoki yangilashda xatolik yuz berdi</translation>
     </message>
     <message>
         <source>Image_name</source>
-        <translation type="unfinished"></translation>
+        <translation>Rasm_nomi</translation>
     </message>
     <message>
-        <source>Piece path doesn&apos;t contain nodes</source>
-        <translation type="unfinished"></translation>
+        <source>Piece path doesn't contain nodes</source>
+        <translation>Parcha yoʻlida tugunlar mavjud emas</translation>
     </message>
 </context>
 <context>
     <name>VPoster</name>
     <message>
         <source>Grid ( %1 , %2 )</source>
-        <translation type="unfinished"></translation>
+        <translation>To‘r ( % 1 , % 2 )</translation>
     </message>
     <message>
         <source>Page %1 of %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Sahifaning % 1/% 2</translation>
     </message>
     <message>
         <source>Sheet %1 of %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 va %2 varaq</translation>
     </message>
 </context>
 <context>
     <name>VSettings</name>
     <message>
         <source>patterns</source>
-        <translation type="unfinished"></translation>
+        <translation>andozalar</translation>
     </message>
     <message>
         <source>layouts</source>
-        <translation type="unfinished"></translation>
+        <translation>maketlar</translation>
     </message>
 </context>
 <context>
     <name>VSplinePath</name>
     <message>
         <source>Not enough points to create the spline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Spline yaratish uchun nuqtalar yetarli emas.</translation>
     </message>
     <message>
         <source>This spline does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu spline mavjud emas.</translation>
     </message>
 </context>
 <context>
@@ -13187,50 +13205,50 @@ load in SeamlyME as usual.
     <name>VToolArc</name>
     <message>
         <source>Start angle</source>
-        <translation type="unfinished"></translation>
+        <translation>Boshlanish burchagi</translation>
     </message>
     <message>
         <source>     Length</source>
-        <translation type="unfinished"></translation>
+        <translation>Uzunlik</translation>
     </message>
     <message>
         <source>     Radius</source>
-        <translation type="unfinished"></translation>
+        <translation>Radius</translation>
     </message>
     <message>
         <source>  End angle</source>
-        <translation type="unfinished"></translation>
+        <translation>Yakuniy burchak</translation>
     </message>
     <message>
         <source>      Label</source>
-        <translation type="unfinished"></translation>
+        <translation>Yorliq</translation>
     </message>
 </context>
 <context>
     <name>VToolArcWithLength</name>
     <message>
         <source>Start angle</source>
-        <translation type="unfinished"></translation>
+        <translation>Boshlanish burchagi</translation>
     </message>
     <message>
         <source>     Length</source>
-        <translation type="unfinished"></translation>
+        <translation>Uzunlik</translation>
     </message>
     <message>
         <source>     Radius</source>
-        <translation type="unfinished"></translation>
+        <translation>Radius</translation>
     </message>
     <message>
         <source>  End angle</source>
-        <translation type="unfinished"></translation>
+        <translation>Yakuniy burchak</translation>
     </message>
     <message>
         <source>      Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Ism</translation>
     </message>
     <message>
         <source>      Tool</source>
-        <translation type="unfinished"></translation>
+        <translation>Asbob</translation>
     </message>
     <message>
         <source>Arc - Radius and Length</source>
@@ -13248,11 +13266,11 @@ load in SeamlyME as usual.
     <name>VToolCurveIntersectAxis</name>
     <message>
         <source>&lt;b&gt;&lt;big&gt;Can not create intersection point %1 from point %2&lt;/big&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;&lt;big&gt;to curve %3 with an axis angle of %4°&lt;/big&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Using origin point as a place holder until pattern is corrected.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;&lt;big&gt;% 2 nuqtadan %4 o‘q burchagi bilan %3 egri chiziqqa %1 kesishish nuqtasini yaratib bo‘lmaydi&lt;/big&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;br&gt;andoza tuzatilmaguncha boshlang‘ich nuqtadan joy ushlagich sifatida foydalanish.</translation>
     </message>
     <message>
         <source>Intersection Point of Curve &amp; Axis</source>
-        <translation type="unfinished"></translation>
+        <translation>Egri chiziq va o'qning kesishish nuqtasi</translation>
     </message>
 </context>
 <context>
@@ -13263,23 +13281,23 @@ load in SeamlyME as usual.
     </message>
     <message>
         <source>length</source>
-        <translation type="unfinished"></translation>
+        <translation>uzunligi</translation>
     </message>
     <message>
         <source>start angle</source>
-        <translation type="unfinished"></translation>
+        <translation>boshlanish burchagi</translation>
     </message>
     <message>
         <source>end angle</source>
-        <translation type="unfinished"></translation>
+        <translation>tugatish burchagi</translation>
     </message>
     <message>
         <source>radius</source>
-        <translation type="unfinished"></translation>
+        <translation>radius</translation>
     </message>
     <message>
         <source>label</source>
-        <translation type="unfinished"></translation>
+        <translation>yorliq</translation>
     </message>
 </context>
 <context>
@@ -13290,11 +13308,11 @@ load in SeamlyME as usual.
     </message>
     <message>
         <source>length</source>
-        <translation type="unfinished"></translation>
+        <translation>uzunligi</translation>
     </message>
     <message>
         <source>label</source>
-        <translation type="unfinished"></translation>
+        <translation>yorliq</translation>
     </message>
 </context>
 <context>
@@ -13305,11 +13323,11 @@ load in SeamlyME as usual.
     </message>
     <message>
         <source>length</source>
-        <translation type="unfinished"></translation>
+        <translation>uzunligi</translation>
     </message>
     <message>
         <source>label</source>
-        <translation type="unfinished"></translation>
+        <translation>yorliq</translation>
     </message>
 </context>
 <context>
@@ -13323,23 +13341,23 @@ load in SeamlyME as usual.
     <name>VToolEllipticalArc</name>
     <message>
         <source>Start angle</source>
-        <translation type="unfinished"></translation>
+        <translation>Boshlanish burchagi</translation>
     </message>
     <message>
         <source>     Length</source>
-        <translation type="unfinished"></translation>
+        <translation>Uzunlik</translation>
     </message>
     <message>
         <source>    Radius</source>
-        <translation type="unfinished"></translation>
+        <translation>Radius</translation>
     </message>
     <message>
         <source>  End angle</source>
-        <translation type="unfinished"></translation>
+        <translation>Yakuniy burchak</translation>
     </message>
     <message>
         <source>      Label</source>
-        <translation type="unfinished"></translation>
+        <translation>Yorliq</translation>
     </message>
 </context>
 <context>
@@ -13390,12 +13408,12 @@ load in SeamlyME as usual.
         <translation>Name</translation>
     </message>
     <message>
-        <source>&lt;b&gt;&lt;big&gt;Can&apos;t find intersection point %1 of&lt;/big&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;&lt;big&gt;Line and Axis&lt;/big&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Using origin point as a place holder until pattern is corrected.</source>
-        <translation type="unfinished"></translation>
+        <source>&lt;b&gt;&lt;big&gt;Can't find intersection point %1 of&lt;/big&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;&lt;big&gt;Line and Axis&lt;/big&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Using origin point as a place holder until pattern is corrected.</source>
+        <translation>&lt;b&gt;&lt;big&gt;&lt;/big&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;&lt;big&gt;Chiziq va oʻqning %1 kesishish nuqtasini topib boʻlmadi&lt;/big&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;andoza tuzatilmaguncha boshlangʻich nuqtadan joy tutqichi sifatida foydalanish.</translation>
     </message>
     <message>
         <source>Intersect Line and Axis</source>
-        <translation type="unfinished"></translation>
+        <translation>Kesishgan chiziq va o'q</translation>
     </message>
 </context>
 <context>
@@ -13417,7 +13435,7 @@ load in SeamlyME as usual.
     <name>VToolMirrorByAxis</name>
     <message>
         <source>Origin point</source>
-        <translation type="unfinished"></translation>
+        <translation>Kelib chiqish nuqtasi</translation>
     </message>
 </context>
 <context>
@@ -13447,26 +13465,26 @@ load in SeamlyME as usual.
     </message>
     <message>
         <source>Rotation point</source>
-        <translation type="unfinished"></translation>
+        <translation>Aylanish nuqtasi</translation>
     </message>
     <message>
         <source>Rotation angle</source>
-        <translation type="unfinished"></translation>
+        <translation>Burilish burchagi</translation>
     </message>
 </context>
 <context>
     <name>VToolOptionsPropertyBrowser</name>
     <message>
         <source>Base point</source>
-        <translation type="unfinished"></translation>
+        <translation>Asosiy nuqta</translation>
     </message>
     <message>
         <source>True darts</source>
-        <translation type="unfinished"></translation>
+        <translation>Haqiqiy dart</translation>
     </message>
     <message>
         <source>Base point:</source>
-        <translation type="unfinished"></translation>
+        <translation>Asosiy nuqta:</translation>
     </message>
     <message>
         <source>Length:</source>
@@ -13510,31 +13528,31 @@ load in SeamlyME as usual.
     </message>
     <message>
         <source>Point 1 label:</source>
-        <translation type="unfinished"></translation>
+        <translation>1-band yorlig'i:</translation>
     </message>
     <message>
         <source>Point 2 label:</source>
-        <translation type="unfinished"></translation>
+        <translation>2-band belgisi:</translation>
     </message>
     <message>
         <source>First base point:</source>
-        <translation type="unfinished"></translation>
+        <translation>Birinchi tayanch nuqtasi:</translation>
     </message>
     <message>
         <source>Second base point:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikkinchi tayanch nuqtasi:</translation>
     </message>
     <message>
         <source>First dart point:</source>
-        <translation type="unfinished"></translation>
+        <translation>Birinchi zarba nuqtasi:</translation>
     </message>
     <message>
         <source>Arc:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ark:</translation>
     </message>
     <message>
         <source>Curve:</source>
-        <translation type="unfinished"></translation>
+        <translation>Egri chiziq:</translation>
     </message>
     <message>
         <source>First line point:</source>
@@ -13546,15 +13564,15 @@ load in SeamlyME as usual.
     </message>
     <message>
         <source>Center of arc:</source>
-        <translation type="unfinished"></translation>
+        <translation>Yoy markazi:</translation>
     </message>
     <message>
         <source>First arc:</source>
-        <translation type="unfinished"></translation>
+        <translation>Birinchi yoy:</translation>
     </message>
     <message>
         <source>Second arc:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikkinchi yoy:</translation>
     </message>
     <message>
         <source>Take:</source>
@@ -13562,11 +13580,11 @@ load in SeamlyME as usual.
     </message>
     <message>
         <source>First curve:</source>
-        <translation type="unfinished"></translation>
+        <translation>Birinchi egri chiziq:</translation>
     </message>
     <message>
         <source>Second curve:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikkinchi egri chiziq:</translation>
     </message>
     <message>
         <source>Tangent point:</source>
@@ -13574,7 +13592,7 @@ load in SeamlyME as usual.
     </message>
     <message>
         <source>Circle radius:</source>
-        <translation type="unfinished"></translation>
+        <translation>Doira radiusi:</translation>
     </message>
     <message>
         <source>Name:</source>
@@ -13582,19 +13600,19 @@ load in SeamlyME as usual.
     </message>
     <message>
         <source>C1: angle:</source>
-        <translation type="unfinished"></translation>
+        <translation>C1: burchak:</translation>
     </message>
     <message>
         <source>C1: length:</source>
-        <translation type="unfinished"></translation>
+        <translation>C1: uzunlik:</translation>
     </message>
     <message>
         <source>C2: angle:</source>
-        <translation type="unfinished"></translation>
+        <translation>C2: burchak:</translation>
     </message>
     <message>
         <source>C2: length:</source>
-        <translation type="unfinished"></translation>
+        <translation>C2: uzunlik:</translation>
     </message>
     <message>
         <source>Axis point:</source>
@@ -13606,7 +13624,7 @@ load in SeamlyME as usual.
     </message>
     <message>
         <source>Origin point:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kelib chiqish nuqtasi:</translation>
     </message>
     <message>
         <source>Axis type:</source>
@@ -13614,11 +13632,11 @@ load in SeamlyME as usual.
     </message>
     <message>
         <source>Rotation angle:</source>
-        <translation type="unfinished"></translation>
+        <translation>Burilish burchagi:</translation>
     </message>
     <message>
         <source>Fourth point:</source>
-        <translation type="unfinished"></translation>
+        <translation>To'rtinchi nuqta:</translation>
     </message>
     <message>
         <source>Linetype:</source>
@@ -13626,7 +13644,7 @@ load in SeamlyME as usual.
     </message>
     <message>
         <source>Point - Intersect XY</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta - XY kesishadi</translation>
     </message>
     <message>
         <source>Rotation</source>
@@ -13634,7 +13652,7 @@ load in SeamlyME as usual.
     </message>
     <message>
         <source>Rotation point:</source>
-        <translation type="unfinished"></translation>
+        <translation>Aylanish nuqtasi:</translation>
     </message>
     <message>
         <source>Move</source>
@@ -13642,11 +13660,11 @@ load in SeamlyME as usual.
     </message>
     <message>
         <source>Mirror by Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiziq bo'yicha ko'zgu</translation>
     </message>
     <message>
         <source>Mirror by Axis</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksa bo'yicha oyna</translation>
     </message>
     <message>
         <source>Selection</source>
@@ -13658,7 +13676,7 @@ load in SeamlyME as usual.
     </message>
     <message>
         <source>Point - Length and Angle</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta - uzunlik va burchak</translation>
     </message>
     <message>
         <source>Geometry</source>
@@ -13698,19 +13716,19 @@ load in SeamlyME as usual.
     </message>
     <message>
         <source>Point - On Arc</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta - Ark ustida</translation>
     </message>
     <message>
         <source>Point - On Curve</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta - Egri chiziqda</translation>
     </message>
     <message>
         <source>Point - On Spline</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta - Splineda</translation>
     </message>
     <message>
         <source>Point - Intersect Line and Perpendicular</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta - kesishgan chiziq va perpendikulyar</translation>
     </message>
     <message>
         <source>Line</source>
@@ -13718,7 +13736,7 @@ load in SeamlyME as usual.
     </message>
     <message>
         <source>Point - Intersect Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta - kesishgan chiziqlar</translation>
     </message>
     <message>
         <source>First line</source>
@@ -13730,7 +13748,7 @@ load in SeamlyME as usual.
     </message>
     <message>
         <source>Point - On Perpendicular</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta - Perpendikulyar</translation>
     </message>
     <message>
         <source>Rotation:</source>
@@ -13738,99 +13756,99 @@ load in SeamlyME as usual.
     </message>
     <message>
         <source>Point - Intersect Arc and Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta - yoy va chiziqni kesish</translation>
     </message>
     <message>
         <source>1st line point:</source>
-        <translation type="unfinished"></translation>
+        <translation>1-qator nuqtasi:</translation>
     </message>
     <message>
         <source>2nd line point:</source>
-        <translation type="unfinished"></translation>
+        <translation>2-qator nuqtasi:</translation>
     </message>
     <message>
         <source>Point - Intersect Arcs</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta - kesishgan yoylar</translation>
     </message>
     <message>
         <source>Point - Intersect Circles</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta - kesishgan doiralar</translation>
     </message>
     <message>
         <source>First circle:</source>
-        <translation type="unfinished"></translation>
+        <translation>Birinchi doira:</translation>
     </message>
     <message>
         <source>Center:</source>
-        <translation type="unfinished"></translation>
+        <translation>Markaz:</translation>
     </message>
     <message>
         <source>Second circle:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikkinchi davra:</translation>
     </message>
     <message>
         <source>Point - Intersect Curves</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta - kesishgan egri chiziqlar</translation>
     </message>
     <message>
         <source>Vertical take:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertikal qabul qilish:</translation>
     </message>
     <message>
         <source>Horizontal take:</source>
-        <translation type="unfinished"></translation>
+        <translation>Gorizontal qabul qilish:</translation>
     </message>
     <message>
         <source>Point - Intersect Circle and Tangent</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta - aylana va tangensni kesish</translation>
     </message>
     <message>
         <source>Point - Intersect Arc and Tangent</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta - yoy va tangensni kesish</translation>
     </message>
     <message>
         <source>Point - Length to Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta - Chiziqgacha bo'lgan uzunlik</translation>
     </message>
     <message>
         <source>Curve - Interactive</source>
-        <translation type="unfinished"></translation>
+        <translation>Egri chiziq - interaktiv</translation>
     </message>
     <message>
         <source>Curve - Fixed</source>
-        <translation type="unfinished"></translation>
+        <translation>Egri chiziq - aniqlangan</translation>
     </message>
     <message>
         <source>Spline - Interactive</source>
-        <translation type="unfinished"></translation>
+        <translation>Spline - interaktiv</translation>
     </message>
     <message>
         <source>Spline - Fixed</source>
-        <translation type="unfinished"></translation>
+        <translation>Spline - Ruxsat etilgan</translation>
     </message>
     <message>
         <source>Point - Intersect Axis and Triangle</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta - o'q va uchburchakni kesish</translation>
     </message>
     <message>
         <source>1st axis point:</source>
-        <translation type="unfinished"></translation>
+        <translation>1-o'q nuqtasi:</translation>
     </message>
     <message>
         <source>2nd axis point:</source>
-        <translation type="unfinished"></translation>
+        <translation>2-o'q nuqtasi:</translation>
     </message>
     <message>
         <source>Point - Intersect Line and Axis</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta - o'q va chiziqni kesish</translation>
     </message>
     <message>
         <source>Point - Intersect Curve and Axis</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta - Egri chiziq va o'qni kesish</translation>
     </message>
     <message>
         <source>Arc - Elliptical</source>
-        <translation type="unfinished"></translation>
+        <translation>Ark - elliptik</translation>
     </message>
     <message>
         <source>Arc_</source>
@@ -13842,7 +13860,7 @@ load in SeamlyME as usual.
     </message>
     <message>
         <source>SplPath_</source>
-        <translation type="unfinished"></translation>
+        <translation>SplPath_</translation>
     </message>
     <message>
         <source>Line_</source>
@@ -13854,58 +13872,58 @@ load in SeamlyME as usual.
     </message>
     <message>
         <source>Direction:</source>
-        <translation type="unfinished"></translation>
+        <translation>Yo'nalish:</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished">Options</translation>
+        <translation>Options</translation>
     </message>
     <message>
         <source>Smooth curve:</source>
-        <translation type="unfinished"></translation>
+        <translation>Silliq egri chiziq:</translation>
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation>Yo'q</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>Ha</translation>
     </message>
     <message>
         <source>Adjust length:</source>
-        <translation type="unfinished"></translation>
+        <translation>Uzunlikni sozlash:</translation>
     </message>
     <message>
         <source>Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Oʻchirilgan</translation>
     </message>
     <message>
         <source>Start</source>
-        <translation type="unfinished"></translation>
+        <translation>Boshlash</translation>
     </message>
     <message>
         <source>End</source>
-        <translation type="unfinished"></translation>
+        <translation>Oxiri</translation>
     </message>
     <message>
         <source>Both</source>
-        <translation type="unfinished">Both</translation>
+        <translation>Both</translation>
     </message>
     <message>
         <source>Curve length:</source>
-        <translation type="unfinished"></translation>
+        <translation>Egri chiziq uzunligi:</translation>
     </message>
 </context>
 <context>
     <name>VToolPointFromArcAndTangent</name>
     <message>
-        <source>&lt;b&gt;&lt;big&gt;Can&apos;t find intersection point %1 of&lt;/big&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;&lt;big&gt;%2 and Tangent&lt;/big&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Using origin point as a place holder until pattern is corrected.</source>
-        <translation type="unfinished"></translation>
+        <source>&lt;b&gt;&lt;big&gt;Can't find intersection point %1 of&lt;/big&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;&lt;big&gt;%2 and Tangent&lt;/big&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Using origin point as a place holder until pattern is corrected.</source>
+        <translation>&lt;b&gt;&lt;big&gt;% 1 ning&lt;/big&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;&lt;big&gt;%2 va Tangent&lt;/big&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;kesishma nuqtasi topilmadi. andoza tuzatilmaguncha boshlang'ich nuqtadan joy ushlagich sifatida foydalaniladi.</translation>
     </message>
     <message>
         <source>Intersect Arc and Tangent</source>
-        <translation type="unfinished"></translation>
+        <translation>Kesishgan yoy va tangens</translation>
     </message>
 </context>
 <context>
@@ -13926,34 +13944,34 @@ load in SeamlyME as usual.
 <context>
     <name>VToolPointOfIntersectionArcs</name>
     <message>
-        <source>&lt;b&gt;&lt;big&gt;Can&apos;t find intersection point %1 of Arcs&lt;/big&gt;&lt;/b&gt;&lt;br&gt;Using origin point as a place holder until pattern is corrected.</source>
-        <translation type="unfinished"></translation>
+        <source>&lt;b&gt;&lt;big&gt;Can't find intersection point %1 of Arcs&lt;/big&gt;&lt;/b&gt;&lt;br&gt;Using origin point as a place holder until pattern is corrected.</source>
+        <translation>&lt;b&gt;&lt;big&gt;Yonlarning %1 kesishish nuqtasi topilmadi&lt;/big&gt;&lt;/b&gt;&lt;br&gt;andoza tuzatilmaguncha boshlang‘ich nuqtadan joy ushlagich sifatida foydalanish.</translation>
     </message>
     <message>
         <source>Point Intersect Arcs</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqta kesishgan yoylar</translation>
     </message>
 </context>
 <context>
     <name>VToolPointOfIntersectionCurves</name>
     <message>
-        <source>&lt;b&gt;&lt;big&gt;Can&apos;t find intersection point %1 of Curves&lt;/big&gt;&lt;/b&gt;&lt;br&gt;Using origin point as a place holder until pattern is corrected.</source>
-        <translation type="unfinished"></translation>
+        <source>&lt;b&gt;&lt;big&gt;Can't find intersection point %1 of Curves&lt;/big&gt;&lt;/b&gt;&lt;br&gt;Using origin point as a place holder until pattern is corrected.</source>
+        <translation>&lt;b&gt;&lt;big&gt;Egri chiziqning %1-kesishish nuqtasi topilmadi&lt;/big&gt;&lt;/b&gt;&lt;br&gt;andoza tuzatilmaguncha boshlang‘ich nuqtadan joy ushlagich sifatida foydalaniladi.</translation>
     </message>
     <message>
         <source>Point Intersect Curves</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuqtalarni kesishgan egri chiziqlar</translation>
     </message>
 </context>
 <context>
     <name>VToolRotation</name>
     <message>
         <source>  Origin point</source>
-        <translation type="unfinished"></translation>
+        <translation>Kelib chiqish nuqtasi</translation>
     </message>
     <message>
         <source>Rotation angle</source>
-        <translation type="unfinished"></translation>
+        <translation>Burilish burchagi</translation>
     </message>
 </context>
 <context>
@@ -13976,802 +13994,802 @@ load in SeamlyME as usual.
     <message>
         <source>Bunka</source>
         <comment>System name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bunka</translation>
     </message>
     <message>
         <source>Bunka Fashion College</source>
         <comment>Author name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bunka moda kolleji</translation>
     </message>
     <message>
         <source>Fundamentals of Garment Design</source>
         <comment>Book name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kiyim dizayni asoslari</translation>
     </message>
     <message>
         <source>Barnfield and Richard</source>
         <comment>System name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Barnfild va Richard</translation>
     </message>
     <message>
         <source>Jo Barnfield and Andrew Richards</source>
         <comment>Author name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Jo Barnfild va Endryu Richards</translation>
     </message>
     <message>
         <source>Pattern Making Primer</source>
         <comment>Book name</comment>
-        <translation type="unfinished"></translation>
+        <translation>andoza yasash uchun astar</translation>
     </message>
     <message>
         <source>Friendship/Women</source>
         <comment>System name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Do'stlik / Ayollar</translation>
     </message>
     <message>
         <source>Elizabeth Friendship</source>
         <comment>Author name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Elizabeth do'stlik</translation>
     </message>
     <message>
         <source>Creating Historical Clothes - Pattern Cutting from the 16th to the 19th Centuries</source>
         <comment>Book name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tarixiy kiyimlarni yaratish - 16-19-asrlarda andozalarni kesish</translation>
     </message>
     <message>
         <source>Morris, K.</source>
         <comment>System name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Morris, K.</translation>
     </message>
     <message>
         <source>Karen Morris</source>
         <comment>Author name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Karen Morris</translation>
     </message>
     <message>
         <source>Sewing Lingerie that Fits</source>
         <comment>Book name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mos keladigan ichki kiyim tikish</translation>
     </message>
     <message>
         <source>Castro</source>
         <comment>System name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kastro</translation>
     </message>
     <message>
         <source>Lucia Mors de Castro</source>
         <comment>Author name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lucia Mors de Kastro</translation>
     </message>
     <message>
         <source>Patternmaking in Practic</source>
         <comment>Book name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Amaliyotda andoza yasash</translation>
     </message>
     <message>
         <source>Kim &amp; Uh</source>
         <comment>System name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kim va Uh</translation>
     </message>
     <message>
         <source>Injoo Kim and Mykyung Uh</source>
         <comment>Author name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Inju Kim va Mykyung Uh</translation>
     </message>
     <message>
         <source>Apparel Making in Fashion Design</source>
         <comment>Book name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Moda dizaynida kiyim tikish</translation>
     </message>
     <message>
         <source>Waugh</source>
         <comment>System name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Waugh</translation>
     </message>
     <message>
         <source>Norah Waugh</source>
         <comment>Author name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Norah Vo</translation>
     </message>
     <message>
         <source>Corsets and Crinolines</source>
         <comment>Book name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Korsetlar va krinolinlar</translation>
     </message>
     <message>
         <source>Grimble</source>
         <comment>System name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Grimble</translation>
     </message>
     <message>
         <source>Frances Grimble</source>
         <comment>Author name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Frensis Grimble</translation>
     </message>
     <message>
         <source>Fashions of the Gilded Age</source>
         <comment>Book name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Oltinlangan davr modalari</translation>
     </message>
     <message>
-        <source>Thornton&apos;s International System</source>
+        <source>Thornton's International System</source>
         <comment>System name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tornton xalqaro tizimi</translation>
     </message>
     <message>
         <source>ed. R. L. Shep</source>
         <comment>Author name</comment>
-        <translation type="unfinished"></translation>
+        <translation>ed.R. L. Shep</translation>
     </message>
     <message>
         <source>The Great War: Styles and Patterns of the 1910s</source>
         <comment>Book name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Buyuk urush: 1910-yillarning uslublari va andozalari</translation>
     </message>
     <message>
         <source>Hillhouse &amp; Mansfield</source>
         <comment>System name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Hillhouse va Mansfield</translation>
     </message>
     <message>
         <source>Marion S. Hillhouse and Evelyn A. Mansfield</source>
         <comment>Author name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Marion S. Hillhouse va Evelin A. Mansfild</translation>
     </message>
     <message>
         <source>Dress Design: Draping and Flat Pattern Making</source>
         <comment>Book name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Liboslar dizayni: draping va tekis andoza yasash</translation>
     </message>
     <message>
         <source>Pivnick</source>
         <comment>System name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pivnik</translation>
     </message>
     <message>
         <source>Esther Kaplan Pivnick</source>
         <comment>Author name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ester Kaplan Pivnik</translation>
     </message>
     <message>
         <source>How to Design Beautiful Clothes: Designing and Pattern Making</source>
         <comment>Book name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Chiroyli kiyimlarni qanday loyihalash mumkin: dizayn va andoza yasash</translation>
     </message>
     <message>
         <source>Minister &amp; Son</source>
         <comment>System name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vazir va o'g'il</translation>
     </message>
     <message>
         <source>Edward Minister &amp; Son, ed. R. L. Shep</source>
         <comment>Author name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Edvard vazir va o'g'il, ed.R. L. Shep</translation>
     </message>
     <message>
         <source>The Complete Guide to Practical Cutting (1853)</source>
         <comment>Book name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Amaliy kesish bo'yicha to'liq qo'llanma (1853)</translation>
     </message>
     <message>
         <source>Strickland</source>
         <comment>System name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Striklend</translation>
     </message>
     <message>
         <source>Gertrude Strickland</source>
         <comment>Author name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gertrude Striklend</translation>
     </message>
     <message>
         <source>A Tailoring Manual</source>
         <comment>Book name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tikuvchilik bo'yicha qo'llanma</translation>
     </message>
     <message>
         <source>Loh &amp; Lewis</source>
         <comment>System name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Loh va Lyuis</translation>
     </message>
     <message>
         <source>May Loh and Diehl Lewis</source>
         <comment>Author name</comment>
-        <translation type="unfinished"></translation>
+        <translation>May Loh va Diehl Lyuis</translation>
     </message>
     <message>
         <source>Patternless Fashion Design</source>
         <comment>Book name</comment>
-        <translation type="unfinished"></translation>
+        <translation>andozasiz moda dizayni</translation>
     </message>
     <message>
         <source>Morris, F. R.</source>
         <comment>System name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Morris, F.R.</translation>
     </message>
     <message>
         <source>F. R. Morris</source>
         <comment>Author name</comment>
-        <translation type="unfinished"></translation>
+        <translation>F. R. Morris</translation>
     </message>
     <message>
         <source>Ladies Garment Cutting and Making</source>
         <comment>Book name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ayollar kiyimlarini kesish va tikish</translation>
     </message>
     <message>
         <source>Mason</source>
         <comment>System name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Meyson</translation>
     </message>
     <message>
         <source>Gertrude Mason</source>
         <comment>Author name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gertrude Meyson</translation>
     </message>
     <message>
-        <source>Gertrude Mason&apos;s Patternmaking Book</source>
+        <source>Gertrude Mason's Patternmaking Book</source>
         <comment>Book name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gertrude Meysonning andoza yaratish kitobi</translation>
     </message>
     <message>
         <source>Kimata</source>
         <comment>System name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kimata</translation>
     </message>
     <message>
         <source>K. Kimata</source>
         <comment>Author name</comment>
-        <translation type="unfinished"></translation>
+        <translation>K. Kimata</translation>
     </message>
     <message>
-        <source>K.Kimata&apos;s Simplified Drafting Book for Dressmaking</source>
+        <source>K.Kimata's Simplified Drafting Book for Dressmaking</source>
         <comment>Book name</comment>
-        <translation type="unfinished"></translation>
+        <translation>K.Kimataning tikuvchilik uchun soddalashtirilgan chizmachilik kitobi</translation>
     </message>
     <message>
         <source>Master Designer</source>
         <comment>System name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Usta dizayner</translation>
     </message>
     <message>
         <source>The Master Designer (Chicago, IL)</source>
         <comment>Author name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Usta dizayner (Chikago, IL)</translation>
     </message>
     <message>
-        <source>Master Designer&apos;s System of Designing, Cutting and Grading</source>
+        <source>Master Designer's System of Designing, Cutting and Grading</source>
         <comment>Book name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dizaynerning loyihalash, kesish va baholash tizimi</translation>
     </message>
     <message>
         <source>Kopp</source>
         <comment>System name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kopp</translation>
     </message>
     <message>
         <source>Ernestine Kopp, Vittorina Rolfo, Beatrice Zelin, Lee Gross</source>
         <comment>Author name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ernestine Kopp, Vittorina Rolfo, Beatris Zelin, Li Gross</translation>
     </message>
     <message>
         <source>How to Draft Basic Patterns</source>
         <comment>Book name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Asosiy andozalarni qanday tuzish kerak</translation>
     </message>
     <message>
         <source>Ekern</source>
         <comment>System name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ekern</translation>
     </message>
     <message>
         <source>Doris Ekern</source>
         <comment>Author name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Doris Ekern</translation>
     </message>
     <message>
         <source>Slacks Cut-to-Fit for Your Figure</source>
         <comment>Book name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Shaklingizga mos kesilgan shimlar</translation>
     </message>
     <message>
         <source>Doyle</source>
         <comment>System name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Doyl</translation>
     </message>
     <message>
         <source>Sarah J. Doyle</source>
         <comment>Author name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sara J. Doyl</translation>
     </message>
     <message>
-        <source>Sarah&apos;s Key to Pattern Drafting</source>
+        <source>Sarah's Key to Pattern Drafting</source>
         <comment>Book name</comment>
-        <translation type="unfinished"></translation>
+        <translation>andoza chizish uchun Sara kaliti</translation>
     </message>
     <message>
         <source>Shelton</source>
         <comment>System name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Shelton</translation>
     </message>
     <message>
         <source>Karla J. Shelton</source>
         <comment>Author name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Karla J. Shelton</translation>
     </message>
     <message>
         <source>Design and Sew Jeans</source>
         <comment>Book name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Jinslarni loyihalash va tikish</translation>
     </message>
     <message>
         <source>Lady Boutique</source>
         <comment>System name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lady Boutique</translation>
     </message>
     <message>
         <source>Lady Boutique</source>
         <comment>Author name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lady Boutique</translation>
     </message>
     <message>
         <source>Lady Boutique magazine (Japan)</source>
         <comment>Book name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lady Boutique jurnali (Yaponiya)</translation>
     </message>
     <message>
         <source>Rohr</source>
         <comment>System name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Rohr</translation>
     </message>
     <message>
         <source>M. Rohr</source>
         <comment>Author name</comment>
-        <translation type="unfinished"></translation>
+        <translation>M. Rohr</translation>
     </message>
     <message>
-        <source>Pattern Drafting and Grading: Women&apos;s nd Misses&apos; Garment Design</source>
+        <source>Pattern Drafting and Grading: Women's nd Misses' Garment Design</source>
         <comment>Book name</comment>
-        <translation type="unfinished"></translation>
+        <translation>andoza chizish va baholash: Ayollar va Misslar kiyimlari dizayni</translation>
     </message>
     <message>
         <source>Moore</source>
         <comment>System name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mur</translation>
     </message>
     <message>
         <source>Dorothy Moore</source>
         <comment>Author name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Doroti Mur</translation>
     </message>
     <message>
-        <source>Dorothy Moore&apos;s Pattern Drafting and Dressmaking</source>
+        <source>Dorothy Moore's Pattern Drafting and Dressmaking</source>
         <comment>Book name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Doroti Murning andozaini chizish va tikish</translation>
     </message>
     <message>
         <source>Abling</source>
         <comment>System name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Qobiliyatli</translation>
     </message>
     <message>
         <source>Bina Abling</source>
         <comment>Author name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bina Abling</translation>
     </message>
     <message>
         <source>Integrating Draping, Drafting and Drawing</source>
         <comment>Book name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Draping, chizmachilik va chizmachilikni birlashtirish</translation>
     </message>
     <message>
         <source>Fukomoto</source>
         <comment>System name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fukumoto</translation>
     </message>
     <message>
         <source>Sue S. Fukomoto</source>
         <comment>Author name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sue S. Fukomoto</translation>
     </message>
     <message>
         <source>Scientific Pattern Drafting as taught at Style Center School of Costume Design, Dressmaking and Millinery</source>
         <comment>Book name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Stil markazi kostyumlar dizayni, tikuvchilik va tikish maktabida o'qitiladigan ilmiy andoza chizish.</translation>
     </message>
     <message>
         <source>Dressmaking International</source>
         <comment>System name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Xalqaro kiyim tikish</translation>
     </message>
     <message>
         <source>Dressmaking International</source>
         <comment>Author name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Xalqaro kiyim tikish</translation>
     </message>
     <message>
         <source>Dressmaking International magazine (Japan)</source>
         <comment>Book name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dressmaking International jurnali (Yaponiya)</translation>
     </message>
     <message>
         <source>Erwin</source>
         <comment>System name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ervin</translation>
     </message>
     <message>
         <source>Mabel D. Erwin</source>
         <comment>Author name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mabel D. Ervin</translation>
     </message>
     <message>
         <source>Practical Dress Design</source>
         <comment>Book name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Amaliy liboslar dizayni</translation>
     </message>
     <message>
         <source>Gough</source>
         <comment>System name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gough</translation>
     </message>
     <message>
         <source>E. L. G. Gough</source>
         <comment>Author name</comment>
-        <translation type="unfinished"></translation>
+        <translation>E. L. G. Gough</translation>
     </message>
     <message>
         <source>Principles of Garment Cutting</source>
         <comment>Book name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kiyimlarni kesish tamoyillari</translation>
     </message>
     <message>
         <source>Allemong</source>
         <comment>System name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Allemong</translation>
     </message>
     <message>
         <source>Elizabeth M. Allemong</source>
         <comment>Author name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Elizabeth M. Allemong</translation>
     </message>
     <message>
         <source>European Cut</source>
         <comment>Book name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Evropa kesimi</translation>
     </message>
     <message>
         <source>McCunn</source>
         <comment>System name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Makkun</translation>
     </message>
     <message>
         <source>Donald H. McCunn</source>
         <comment>Author name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Donald X. Makkun</translation>
     </message>
     <message>
         <source>How to Make Your Own Sewing Patterns</source>
         <comment>Book name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Qanday qilib o'zingiz tikuv andozalarini yasashingiz mumkin</translation>
     </message>
     <message>
         <source>Zarapkar</source>
         <comment>System name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zarapkar</translation>
     </message>
     <message>
         <source>Shri K. R. Zarapkar and Shri Arvind K. Zarapkar</source>
         <comment>Author name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Shri K. R. Zarapkar va Shri Arvind K. Zarapkar</translation>
     </message>
     <message>
         <source>Zarapkar System of Cutting</source>
         <comment>Book name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zarapkar kesish tizimi</translation>
     </message>
     <message>
         <source>Kunick</source>
         <comment>System name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kunik</translation>
     </message>
     <message>
         <source>Philip Kunick</source>
         <comment>Author name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Filipp Kunik</translation>
     </message>
     <message>
-        <source>Sizing, Pattern Construction and Grading for Women&apos;s and Children&apos;s Garments</source>
+        <source>Sizing, Pattern Construction and Grading for Women's and Children's Garments</source>
         <comment>Book name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ayollar va bolalar kiyimlari uchun o'lchamlar, andozalar qurish va tasniflash</translation>
     </message>
     <message>
         <source>Handford</source>
         <comment>System name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Handford</translation>
     </message>
     <message>
         <source>Jack Handford</source>
         <comment>Author name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Jek Handford</translation>
     </message>
     <message>
-        <source>Professional Patternmaking for Designers: Women&apos;s Wear, Men&apos;s Casual Wear</source>
+        <source>Professional Patternmaking for Designers: Women's Wear, Men's Casual Wear</source>
         <comment>Book name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dizaynerlar uchun professional andozalar: ayollar kiyimlari, erkaklar kundalik kiyimlari</translation>
     </message>
     <message>
         <source>Davis</source>
         <comment>System name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Devis</translation>
     </message>
     <message>
         <source>R. I. Davis</source>
         <comment>Author name</comment>
-        <translation type="unfinished"></translation>
+        <translation>R. I. Devis</translation>
     </message>
     <message>
-        <source>Men&apos;s 17th &amp; 18th Century Costume, Cut &amp; Fashion</source>
+        <source>Men's 17th &amp; 18th Century Costume, Cut &amp; Fashion</source>
         <comment>Book name</comment>
-        <translation type="unfinished"></translation>
+        <translation>17 va 18-asr erkaklar kostyumi, kesimi va modasi</translation>
     </message>
     <message>
         <source>MacLochlainn</source>
         <comment>System name</comment>
-        <translation type="unfinished"></translation>
+        <translation>MacLochlainn</translation>
     </message>
     <message>
         <source>Jason MacLochlainn</source>
         <comment>Author name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Jeyson MacLochlainn</translation>
     </message>
     <message>
         <source>The Victorian Tailor: An Introduction to Period Tailoring</source>
         <comment>Book name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Viktoriya tikuvchisi: davr tikuvchiligiga kirish</translation>
     </message>
     <message>
         <source>Joseph-Armstrong</source>
         <comment>System name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Jozef-Armstrong</translation>
     </message>
     <message>
         <source>Helen Joseph-Armstrong</source>
         <comment>Author name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Helen Jozef-Armstrong</translation>
     </message>
     <message>
         <source>Patternmaking for Fashion Design</source>
         <comment>Book name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Moda dizayni uchun andoza yaratish</translation>
     </message>
     <message>
         <source>Supreme System</source>
         <comment>System name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Oliy tizim</translation>
     </message>
     <message>
         <source>Frederick T. Croonberg</source>
         <comment>Author name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Frederik T. Kronberg</translation>
     </message>
     <message>
-        <source>The Blue Book of Men&apos;s Tailoring, Grand Edition of Supreme System for Producing Mens Garments (1907)</source>
+        <source>The Blue Book of Men's Tailoring, Grand Edition of Supreme System for Producing Mens Garments (1907)</source>
         <comment>Book name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Erkaklar tikuvchiligining ko'k kitobi, erkaklar kiyimlarini ishlab chiqarish uchun oliy tizimning katta nashri (1907)</translation>
     </message>
     <message>
         <source>Sugino</source>
         <comment>System name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sugino</translation>
     </message>
     <message>
         <source>Dressmaking</source>
         <comment>Author name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Liboslar tikish</translation>
     </message>
     <message>
         <source>Pattern Drafting Vols. I, II, III (Japan)</source>
         <comment>Book name</comment>
-        <translation type="unfinished"></translation>
+        <translation>andoza chizish jildlari.I, II, III (Yaponiya)</translation>
     </message>
     <message>
         <source>Centre Point System</source>
         <comment>System name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Markaziy nuqta tizimi</translation>
     </message>
     <message>
         <source>Louis Devere</source>
         <comment>Author name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lui Devere</translation>
     </message>
     <message>
         <source>The Handbook of Practical Cutting on the Centre Point System</source>
         <comment>Book name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Markaziy nuqta tizimida amaliy kesish bo'yicha qo'llanma</translation>
     </message>
     <message>
         <source>Aldrich/Men</source>
         <comment>System name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Aldrich/Erkaklar</translation>
     </message>
     <message>
         <source>Winifred Aldrich</source>
         <comment>Author name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Winifred Aldrich</translation>
     </message>
     <message>
         <source>Metric Pattern Cutting for Menswear</source>
         <comment>Book name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Erkaklar kiyimlari uchun metrik andozali kesish</translation>
     </message>
     <message>
         <source>Aldrich/Women</source>
         <comment>System name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Aldrich/Ayollar</translation>
     </message>
     <message>
-        <source>Metric Pattern Cutting for Women&apos;s Wear</source>
+        <source>Metric Pattern Cutting for Women's Wear</source>
         <comment>Book name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ayollar kiyimi uchun metrik andozali kesish</translation>
     </message>
     <message>
         <source>Kershaw</source>
         <comment>System name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kershaw</translation>
     </message>
     <message>
         <source>Gareth Kershaw</source>
         <comment>Author name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Garet Kershou</translation>
     </message>
     <message>
         <source>Patternmaking for Menswear</source>
         <comment>Book name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Erkaklar kiyimlari uchun andoza yasash</translation>
     </message>
     <message>
         <source>Gilewska</source>
         <comment>System name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gilewska</translation>
     </message>
     <message>
         <source>Teresa Gilewska</source>
         <comment>Author name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tereza Gilevska</translation>
     </message>
     <message>
         <source>Pattern-Drafting for Fashion: The Basics</source>
         <comment>Book name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Moda uchun andoza chizish: asoslar</translation>
     </message>
     <message>
         <source>Lo</source>
         <comment>System name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lo</translation>
     </message>
     <message>
         <source>Dennic Chunman Lo</source>
         <comment>Author name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dennik Chunman Lo</translation>
     </message>
     <message>
         <source>Pattern Cutting</source>
         <comment>Book name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Shaklni kesish</translation>
     </message>
     <message>
         <source>Bray</source>
         <comment>System name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bray</translation>
     </message>
     <message>
         <source>Natalie Bray</source>
         <comment>Author name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Natali Bray</translation>
     </message>
     <message>
         <source>Dress Pattern Designing: The Basic Principles of Cut and Fit</source>
         <comment>Book name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Liboslar andozaini loyihalash: kesish va moslashtirishning asosiy tamoyillari</translation>
     </message>
     <message>
         <source>Knowles/Men</source>
         <comment>System name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Knowles / Erkaklar</translation>
     </message>
     <message>
         <source>Lori A. Knowles</source>
         <comment>Author name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lori A. Noulz</translation>
     </message>
     <message>
         <source>The Practical Guide to Patternmaking for Fashion Designers: Menswear</source>
         <comment>Book name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Moda dizaynerlari uchun andoza yaratish bo'yicha amaliy qo'llanma: erkaklar kiyimlari</translation>
     </message>
     <message>
         <source>Friendship/Men</source>
         <comment>System name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Do'stlik / Erkaklar</translation>
     </message>
     <message>
-        <source>Pattern Cutting for Men&apos;s Costume</source>
+        <source>Pattern Cutting for Men's Costume</source>
         <comment>Book name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Erkaklar kostyumi uchun andoza kesish</translation>
     </message>
     <message>
         <source>Brown</source>
         <comment>System name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Jigarrang</translation>
     </message>
     <message>
         <source>P. Clement Brown</source>
         <comment>Author name</comment>
-        <translation type="unfinished"></translation>
+        <translation>P. Klement Braun</translation>
     </message>
     <message>
         <source>Art in Dress</source>
         <comment>Book name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kiyimdagi san'at</translation>
     </message>
     <message>
         <source>Mitchell</source>
         <comment>System name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mitchell</translation>
     </message>
     <message>
         <source>Jno. J. Mitchell</source>
         <comment>Author name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Jno.J. Mitchell</translation>
     </message>
     <message>
-        <source>&quot;Standard&quot; Work on Cutting (Men&apos;s Garments) 1886: The Art and Science of Garment Cutting</source>
+        <source>"Standard" Work on Cutting (Men's Garments) 1886: The Art and Science of Garment Cutting</source>
         <comment>Book name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kesish bo'yicha "standart" ish (erkaklar kiyimlari) 1886: kiyimni kesish san'ati va ilmi</translation>
     </message>
     <message>
         <source>GOST 17917-86</source>
         <comment>System name</comment>
-        <translation type="unfinished"></translation>
+        <translation>GOST 17917-86</translation>
     </message>
     <message>
         <source>Ministry of consumer industry of the USSR</source>
         <comment>Author name</comment>
-        <translation type="unfinished"></translation>
+        <translation>SSSR iste'mol sanoati vazirligi</translation>
     </message>
     <message>
         <source>Standard figure boys</source>
         <comment>Book name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Oddiy figurali o'g'il bolalar</translation>
     </message>
     <message>
         <source>Eddy</source>
         <comment>System name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Eddi</translation>
     </message>
     <message>
         <source>Josephine F. Eddy and Elizabeth C. B. Wiley</source>
         <comment>Author name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Jozefina F. Eddi va Elizabet C. B. Uayli</translation>
     </message>
     <message>
         <source>Pattern and Dress Design</source>
         <comment>Book name</comment>
-        <translation type="unfinished"></translation>
+        <translation>andoza va liboslar dizayni</translation>
     </message>
     <message>
         <source>Knowles/Women</source>
         <comment>System name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Knowles / Ayollar</translation>
     </message>
     <message>
         <source>Practical Guide to Patternmaking for Fashion Designers: Juniors, Misses, and Women</source>
         <comment>Book name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Moda dizaynerlari uchun andoza yaratish bo'yicha amaliy qo'llanma: Yoshlar, Misslar va Ayollar</translation>
     </message>
     <message>
         <source>American Garment Cutter</source>
         <comment>System name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Amerika kiyim-kechak kesuvchi</translation>
     </message>
     <message>
         <source>None</source>
@@ -14781,207 +14799,207 @@ load in SeamlyME as usual.
     <message>
         <source>Seamly2D team</source>
         <comment>Author name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Seamly2D jamoasi</translation>
     </message>
     <message>
-        <source>Seamly2D&apos;s internal standard</source>
+        <source>Seamly2D's internal standard</source>
         <comment>Book name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Seamly2D ichki standarti</translation>
     </message>
     <message>
         <source>cm</source>
         <comment>centimeter</comment>
-        <translation type="unfinished"></translation>
+        <translation>sm</translation>
     </message>
     <message>
         <source>mm</source>
         <comment>millimeter</comment>
-        <translation type="unfinished"></translation>
+        <translation>mm</translation>
     </message>
     <message>
         <source>in</source>
         <comment>inch</comment>
-        <translation type="unfinished"></translation>
+        <translation>ichida</translation>
     </message>
     <message>
         <source>SplPath</source>
         <comment>Do not add symbol _ to the end of the name</comment>
-        <translation type="unfinished"></translation>
+        <translation>SplPath</translation>
     </message>
     <message>
         <source>Angle1SplPath</source>
         <comment>Do not add symbol _ to the end of the name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Angle1SplPath</translation>
     </message>
     <message>
         <source>Angle2SplPath</source>
         <comment>Do not add symbol _ to the end of the name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Angle2SplPath</translation>
     </message>
     <message>
         <source>Seg_</source>
         <comment>Segment. Leave the _ symbol in translation</comment>
-        <translation type="unfinished"></translation>
+        <translation>Seg_</translation>
     </message>
     <message>
         <source>CurrentLength</source>
         <comment>Do not add space between words</comment>
-        <translation type="unfinished"></translation>
+        <translation>Hozirgi uzunlik</translation>
     </message>
     <message>
         <source>size</source>
         <comment>placeholder</comment>
-        <translation type="unfinished"></translation>
+        <translation>hajmi</translation>
     </message>
     <message>
         <source>height</source>
         <comment>placeholder</comment>
-        <translation type="unfinished"></translation>
+        <translation>balandligi</translation>
     </message>
     <message>
         <source>C1LengthSplPath</source>
         <comment>Do not add symbol _ to the end of the name</comment>
-        <translation type="unfinished"></translation>
+        <translation>C1LengthSplPath</translation>
     </message>
     <message>
         <source>C2LengthSplPath</source>
         <comment>Do not add symbol _ to the end of the name</comment>
-        <translation type="unfinished"></translation>
+        <translation>C2LengthSplPath</translation>
     </message>
     <message>
         <source>CurrentSeamAllowance</source>
         <comment>Do not add space between words</comment>
-        <translation type="unfinished"></translation>
+        <translation>CurrentSeamAllowance</translation>
     </message>
     <message>
         <source>date</source>
         <comment>placeholder</comment>
-        <translation type="unfinished"></translation>
+        <translation>sana</translation>
     </message>
     <message>
         <source>time</source>
         <comment>placeholder</comment>
-        <translation type="unfinished"></translation>
+        <translation>vaqt</translation>
     </message>
     <message>
         <source>patternName</source>
         <comment>placeholder</comment>
-        <translation type="unfinished"></translation>
+        <translation>andoza nomi</translation>
     </message>
     <message>
         <source>patternNumber</source>
         <comment>placeholder</comment>
-        <translation type="unfinished"></translation>
+        <translation>andoza raqami</translation>
     </message>
     <message>
         <source>author</source>
         <comment>placeholder</comment>
-        <translation type="unfinished"></translation>
+        <translation>muallif</translation>
     </message>
     <message>
         <source>customer</source>
         <comment>placeholder</comment>
-        <translation type="unfinished"></translation>
+        <translation>mijoz</translation>
     </message>
     <message>
         <source>pExt</source>
         <comment>placeholder</comment>
-        <translation type="unfinished"></translation>
+        <translation>pExt</translation>
     </message>
     <message>
         <source>pFileName</source>
         <comment>placeholder</comment>
-        <translation type="unfinished"></translation>
+        <translation>pFileName</translation>
     </message>
     <message>
         <source>mFileName</source>
         <comment>placeholder</comment>
-        <translation type="unfinished"></translation>
+        <translation>mFileName</translation>
     </message>
     <message>
         <source>mExt</source>
         <comment>placeholder</comment>
-        <translation type="unfinished"></translation>
+        <translation>mExt</translation>
     </message>
     <message>
         <source>pLetter</source>
         <comment>placeholder</comment>
-        <translation type="unfinished"></translation>
+        <translation>pHarf</translation>
     </message>
     <message>
         <source>pAnnotation</source>
         <comment>placeholder</comment>
-        <translation type="unfinished"></translation>
+        <translation>pAnnotatsiya</translation>
     </message>
     <message>
         <source>pOrientation</source>
         <comment>placeholder</comment>
-        <translation type="unfinished"></translation>
+        <translation>orientatsiya</translation>
     </message>
     <message>
         <source>pRotation</source>
         <comment>placeholder</comment>
-        <translation type="unfinished"></translation>
+        <translation>aylanish</translation>
     </message>
     <message>
         <source>pTilt</source>
         <comment>placeholder</comment>
-        <translation type="unfinished"></translation>
+        <translation>pTilt</translation>
     </message>
     <message>
         <source>pFoldPosition</source>
         <comment>placeholder</comment>
-        <translation type="unfinished"></translation>
+        <translation>pFoldPosition</translation>
     </message>
     <message>
         <source>pName</source>
         <comment>placeholder</comment>
-        <translation type="unfinished"></translation>
+        <translation>pName</translation>
     </message>
     <message>
         <source>pQuantity</source>
         <comment>placeholder</comment>
-        <translation type="unfinished"></translation>
+        <translation>p miqdori</translation>
     </message>
     <message>
         <source>mFabric</source>
         <comment>placeholder</comment>
-        <translation type="unfinished"></translation>
+        <translation>mFabric</translation>
     </message>
     <message>
         <source>mLining</source>
         <comment>placeholder</comment>
-        <translation type="unfinished"></translation>
+        <translation>mLining</translation>
     </message>
     <message>
         <source>mInterfacing</source>
         <comment>placeholder</comment>
-        <translation type="unfinished"></translation>
+        <translation>mInterfeys</translation>
     </message>
     <message>
         <source>mInterlining</source>
         <comment>placeholder</comment>
-        <translation type="unfinished"></translation>
+        <translation>mInterlining</translation>
     </message>
     <message>
         <source>wCut</source>
         <comment>placeholder</comment>
-        <translation type="unfinished"></translation>
+        <translation>wCut</translation>
     </message>
     <message>
         <source>wOnFold</source>
         <comment>placeholder</comment>
-        <translation type="unfinished"></translation>
+        <translation>wOnFold</translation>
     </message>
     <message>
         <source>M_</source>
         <comment>Leave the _ symbol in translation</comment>
-        <translation type="unfinished"></translation>
+        <translation>M_</translation>
     </message>
     <message>
         <source>Variable_</source>
         <comment>Leave the _ symbol in translation</comment>
-        <translation type="unfinished"></translation>
+        <translation>o'zgaruvchi_</translation>
     </message>
     <message>
         <source>Line_</source>
@@ -14991,7 +15009,7 @@ load in SeamlyME as usual.
     <message>
         <source>AngleLine_</source>
         <comment>Leave the _ symbol in translation</comment>
-        <translation type="unfinished"></translation>
+        <translation>AngleLine_</translation>
     </message>
     <message>
         <source>Arc_</source>
@@ -15001,7 +15019,7 @@ load in SeamlyME as usual.
     <message>
         <source>ElArc_</source>
         <comment>Leave the _ symbol in translation</comment>
-        <translation type="unfinished"></translation>
+        <translation>ElArc_</translation>
     </message>
     <message>
         <source>Spl_</source>
@@ -15011,57 +15029,57 @@ load in SeamlyME as usual.
     <message>
         <source>RadiusArc_</source>
         <comment>Leave the _ symbol in translation</comment>
-        <translation type="unfinished"></translation>
+        <translation>RadiusArc_</translation>
     </message>
     <message>
         <source>Radius1ElArc_</source>
         <comment>Leave the _ symbol in translation</comment>
-        <translation type="unfinished"></translation>
+        <translation>Radius1ElArc_</translation>
     </message>
     <message>
         <source>Radius2ElArc_</source>
         <comment>Leave the _ symbol in translation</comment>
-        <translation type="unfinished"></translation>
+        <translation>Radius2ElArc_</translation>
     </message>
     <message>
         <source>Angle1Arc_</source>
         <comment>Leave the _ symbol in translation</comment>
-        <translation type="unfinished"></translation>
+        <translation>Burchak1Arc_</translation>
     </message>
     <message>
         <source>Angle2Arc_</source>
         <comment>Leave the _ symbol in translation</comment>
-        <translation type="unfinished"></translation>
+        <translation>Angle2Arc_</translation>
     </message>
     <message>
         <source>Angle1ElArc_</source>
         <comment>Leave the _ symbol in translation</comment>
-        <translation type="unfinished"></translation>
+        <translation>Angle1ElArc_</translation>
     </message>
     <message>
         <source>Angle2ElArc_</source>
         <comment>Leave the _ symbol in translation</comment>
-        <translation type="unfinished"></translation>
+        <translation>Angle2ElArc_</translation>
     </message>
     <message>
         <source>Angle1Spl_</source>
         <comment>Leave the _ symbol in translation</comment>
-        <translation type="unfinished"></translation>
+        <translation>Angle1Spl_</translation>
     </message>
     <message>
         <source>Angle2Spl_</source>
         <comment>Leave the _ symbol in translation</comment>
-        <translation type="unfinished"></translation>
+        <translation>Angle2Spl_</translation>
     </message>
     <message>
         <source>C1LengthSpl_</source>
         <comment>Leave the _ symbol in translation</comment>
-        <translation type="unfinished"></translation>
+        <translation>C1LengthSpl_</translation>
     </message>
     <message>
         <source>C2LengthSpl_</source>
         <comment>Leave the _ symbol in translation</comment>
-        <translation type="unfinished"></translation>
+        <translation>C2LengthSpl_</translation>
     </message>
     <message>
         <source>degTorad</source>
@@ -15306,99 +15324,99 @@ Example: fmod(3.3;2) = 1.3</comment>
     <name>VisToolCubicBezierPath</name>
     <message>
         <source>&lt;b&gt;Curved path&lt;/b&gt;: select seven or more points</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Egri chiziq&lt;/b&gt;: yetti yoki undan ortiq nuqtani tanlang</translation>
     </message>
     <message>
         <source>&lt;b&gt;Curved path&lt;/b&gt;: select more points for complete segment</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Egri yo'l&lt;/b&gt;: to'liq segment uchun ko'proq nuqtalarni tanlang</translation>
     </message>
     <message>
         <source>&lt;b&gt;Curved path&lt;/b&gt;: select seven or more points, Press &lt;b&gt;ENTER&lt;/b&gt; to finish tool creation</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Egri chiziq&lt;/b&gt;: yetti yoki undan ortiq nuqtani tanlang, asbob yaratishni tugatish uchun &lt;b&gt;ENTER&lt;/b&gt; tugmasini bosing</translation>
     </message>
 </context>
 <context>
     <name>VisToolCurveIntersectAxis</name>
     <message>
         <source>&lt;b&gt;Intersection curve and axis&lt;/b&gt;: angle = %1°, Hold &lt;b&gt;SHIFT&lt;/b&gt; to constrain angle, Press &lt;b&gt;ENTER&lt;/b&gt; to finish tool creation </source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Kesishuv egri chizig'i va o'qi&lt;/b&gt;: burchak = %1°, burchakni cheklash uchun &lt;b&gt;SHIFT&lt;/b&gt; tugmasini bosib turing, asbob yaratishni tugatish uchun &lt;b&gt;ENTER&lt;/b&gt; tugmasini bosing</translation>
     </message>
 </context>
 <context>
     <name>VisToolEndLine</name>
     <message>
         <source>&lt;b&gt;Point Length and Angle&lt;/b&gt;: angle = %1°, length = %2%3; Hold &lt;b&gt;SHIFT&lt;/b&gt; to constrain angle, Press &lt;b&gt;ENTER&lt;/b&gt; to finish tool creation</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Nuqta uzunligi va burchak&lt;/b&gt;: burchak = %1°, uzunlik = %2%3;Burchakni cheklash uchun &lt;b&gt;SHIFT&lt;/b&gt; tugmasini bosib turing, asbob yaratishni tugatish uchun &lt;b&gt;ENTER&lt;/b&gt; tugmasini bosing</translation>
     </message>
 </context>
 <context>
     <name>VisToolLineIntersectAxis</name>
     <message>
         <source>&lt;b&gt;Intersection line and axis&lt;/b&gt;: angle = %1°, Hold &lt;b&gt;SHIFT&lt;/b&gt; to constrain angle, Press &lt;b&gt;ENTER&lt;/b&gt; to finish tool creation</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Kerishish chizig'i va o'qi&lt;/b&gt;: burchak = %1°, burchakni cheklash uchun &lt;b&gt;SHIFT&lt;/b&gt; tugmasini bosib turing, asbob yaratishni tugatish uchun &lt;b&gt;ENTER&lt;/b&gt; tugmasini bosing</translation>
     </message>
 </context>
 <context>
     <name>VisToolMove</name>
     <message>
         <source>Length = %1%2, angle = %3°, &lt;b&gt;Shift&lt;/b&gt; to constrain angle, &lt;b&gt;Mouse click&lt;/b&gt; - finish selecting a position</source>
-        <translation type="unfinished"></translation>
+        <translation>Uzunlik = %1%2, burchak = %3°, burchakni cheklash uchun &lt;b&gt;Shift&lt;/b&gt;, &lt;b&gt;sichqonchani bosing&lt;/b&gt; - joylashuvni tanlashni tugatish</translation>
     </message>
     <message>
         <source>Length = %1%2, angle = %3°, rotation angle = %4° Hold &lt;b&gt;SHIFT&lt;/b&gt; to constrain angle,&lt;b&gt;CTRL&lt;/b&gt; - change rotation origin point, &lt;b&gt;Mouse click&lt;/b&gt; - finish creating</source>
-        <translation type="unfinished"></translation>
+        <translation>Uzunlik = %1%2, burchak = %3°, aylanish burchagi = %4° Burchakni cheklash uchun &lt;b&gt;SHIFT&lt;/b&gt; tugmasini bosib turing,&lt;b&gt;CTRL&lt;/b&gt; - aylanish boshlanish nuqtasini o'zgartiring, &lt;b&gt;sichqonchani bosing&lt;/b&gt; - yaratishni yakunlang</translation>
     </message>
 </context>
 <context>
     <name>VisToolRotation</name>
     <message>
         <source>Rotating angle = %1°, Hold &lt;b&gt;SHIFT&lt;/b&gt; to constrain angle, &lt;b&gt;Mouse click&lt;/b&gt; - finish creation</source>
-        <translation type="unfinished"></translation>
+        <translation>Burilish burchagi = %1°, burchakni cheklash uchun &lt;b&gt;SHIFT&lt;/b&gt; tugmasini bosib turing, &lt;b&gt;Sichqonchani bosing&lt;/b&gt; - yaratishni tugatish</translation>
     </message>
 </context>
 <context>
     <name>VisToolSpline</name>
     <message>
         <source>Hold &lt;b&gt;SHIFT&lt;/b&gt; to constrain angle</source>
-        <translation type="unfinished"></translation>
+        <translation>Burchakni cheklash uchun &lt;b&gt;SHIFT&lt;/b&gt; tugmasini bosib turing</translation>
     </message>
 </context>
 <context>
     <name>VisToolSplinePath</name>
     <message>
         <source>&lt;b&gt;Curved path&lt;/b&gt;: select three or more points</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Egri chiziq&lt;/b&gt;: uchta yoki undan ortiq nuqtani tanlang</translation>
     </message>
     <message>
         <source>&lt;b&gt;Curved path&lt;/b&gt;: select three or more points, Press &lt;b&gt;ENTER&lt;/b&gt; to finish tool creation</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Egri chiziq&lt;/b&gt;: uchta yoki undan ortiq nuqtani tanlang, asbob yaratishni tugatish uchun &lt;b&gt;ENTER&lt;/b&gt; tugmasini bosing</translation>
     </message>
     <message>
         <source>Use &lt;b&gt;SHIFT&lt;/b&gt; to constrain angle</source>
-        <translation type="unfinished"></translation>
+        <translation>Burchakni cheklash uchun &lt;b&gt;SHIFT&lt;/b&gt; tugmasidan foydalaning</translation>
     </message>
 </context>
 <context>
     <name>mNoisyHandler</name>
     <message>
         <source>DEBUG:</source>
-        <translation type="unfinished"></translation>
+        <translation>DEBUG:</translation>
     </message>
     <message>
         <source>WARNING:</source>
-        <translation type="unfinished"></translation>
+        <translation>OGOHLANTIRISH:</translation>
     </message>
     <message>
         <source>CRITICAL:</source>
-        <translation type="unfinished"></translation>
+        <translation>MUHIM:</translation>
     </message>
     <message>
         <source>FATAL:</source>
-        <translation type="unfinished"></translation>
+        <translation>O'LIM:</translation>
     </message>
     <message>
         <source>INFO:</source>
-        <translation type="unfinished"></translation>
+        <translation>MA'LUMOT:</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -15410,34 +15428,34 @@ Example: fmod(3.3;2) = 1.3</comment>
     </message>
     <message>
         <source>Critical Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Kritik xato</translation>
     </message>
     <message>
         <source>Fatal Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Fatal xato</translation>
     </message>
 </context>
 <context>
     <name>vNoisyHandler</name>
     <message>
         <source>DEBUG:</source>
-        <translation type="unfinished"></translation>
+        <translation>DEBUG:</translation>
     </message>
     <message>
         <source>WARNING:</source>
-        <translation type="unfinished"></translation>
+        <translation>OGOHLANTIRISH:</translation>
     </message>
     <message>
         <source>CRITICAL:</source>
-        <translation type="unfinished"></translation>
+        <translation>MUHIM:</translation>
     </message>
     <message>
         <source>FATAL:</source>
-        <translation type="unfinished"></translation>
+        <translation>O'LIM:</translation>
     </message>
     <message>
         <source>INFO:</source>
-        <translation type="unfinished"></translation>
+        <translation>MA'LUMOT:</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -15445,11 +15463,11 @@ Example: fmod(3.3;2) = 1.3</comment>
     </message>
     <message>
         <source>Critical Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Kritik xato</translation>
     </message>
     <message>
         <source>Fatal Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Fatal xato</translation>
     </message>
     <message>
         <source>Information</source>
